@@ -2,9 +2,9 @@
 Based heavily from https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting and https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting/pull/356
 
 Machine Learning to predict NBA Results, still in heavy development. Still lots todo. But functional as is. Setup to only use Australian odds for now.
-* 62.2% Accurate On Spread
-* 55.4% Accurate On UO
-* 89.9% Accurate On ML (however this model needs some work as it is more like 79%, injuries and starting lineups need to be considered further, data may be oversaturated)
+* 62.2% 'Accurate" On Spread
+* 55.4% "Accurate" On UO
+* 89.9% "Accurate" On ML (however this model needs some work as it is more like 75%-79%, heavily believe data may be oversaturated and need to be retrained with injuries)
 
 ## Packages Used
 
