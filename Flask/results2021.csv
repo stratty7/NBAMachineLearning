@@ -1,0 +1,821 @@
+Home Team,Away Team,Home Odds,Away Odds,Date,Result,Prediction,Correct?,Bet Result,Total
+Orlando Magic,New York Knicks,3.9,1.29,2021-10-22,L,Away W,True,28,28
+Cleveland Cavaliers,Charlotte Hornets,-,-,2021-10-22,L,Away W,True,0,28
+Washington Wizards,Indiana Pacers,2.1,1.77,2021-10-22,W,Away W,False,-100,-72
+Boston Celtics,Toronto Raptors,1.36,3.4,2021-10-22,L,Away W,True,240.0,168
+Philadelphia 76ers,Brooklyn Nets,2.0,1.83,2021-10-22,L,Away W,True,83,251
+Houston Rockets,Oklahoma City Thunder,1.67,2.3,2021-10-22,W,Home W,True,66,317
+Chicago Bulls,New Orleans Pelicans,1.36,3.35,2021-10-22,W,Home W,True,36,353
+Denver Nuggets,San Antonio Spurs,1.32,3.6,2021-10-22,W,Home W,True,32,385
+Los Angeles Lakers,Phoenix Suns,1.8,2.05,2021-10-22,L,Away W,True,105.0,490
+Sacramento Kings,Utah Jazz,3.0,1.42,2021-10-22,L,Away W,True,41,531
+Cleveland Cavaliers,Atlanta Hawks,4.0,1.28,2021-10-23,W,Home W,True,300.0,831
+Indiana Pacers,Miami Heat,2.35,1.65,2021-10-23,W,Home W,True,135.0,966
+Toronto Raptors,Dallas Mavericks,2.7,1.53,2021-10-23,L,Away W,True,52,1018
+Minnesota Timberwolves,New Orleans Pelicans,1.32,3.6,2021-10-23,W,Home W,True,32,1050
+Chicago Bulls,Detroit Pistons,1.29,3.8,2021-10-23,W,Home W,True,29,1079
+San Antonio Spurs,Milwaukee Bucks,3.1,1.4,2021-10-23,L,Away W,True,40,1119
+Portland Trail Blazers,Phoenix Suns,1.65,2.35,2021-10-23,W,Home W,True,64,1183
+LA Clippers,Memphis Grizzlies,-,-,2021-10-23,L,Away W,True,0,1183
+Brooklyn Nets,Charlotte Hornets,-,-,2021-10-24,L,Away W,True,0,1183
+New York Knicks,Orlando Magic,1.11,7.0,2021-10-24,L,Home W,False,-100,1083
+Houston Rockets,Boston Celtics,2.8,1.48,2021-10-24,L,Away W,True,47,1130
+Oklahoma City Thunder,Philadelphia 76ers,5.0,1.2,2021-10-24,L,Away W,True,20,1150
+Sacramento Kings,Golden State Warriors,2.3,1.67,2021-10-24,L,Away W,True,66,1216
+Los Angeles Lakers,Memphis Grizzlies,1.48,2.8,2021-10-24,W,Away W,False,-100,1116
+Indiana Pacers,Milwaukee Bucks,1.95,1.87,2021-10-25,L,Home W,False,-100,1016
+Charlotte Hornets,Boston Celtics,-,-,2021-10-25,L,Away W,True,0,1016
+Miami Heat,Orlando Magic,1.09,8.0,2021-10-25,W,Home W,True,9,1025
+Toronto Raptors,Chicago Bulls,2.15,1.74,2021-10-25,L,Away W,True,74,1099
+Atlanta Hawks,Detroit Pistons,1.13,6.25,2021-10-25,W,Home W,True,13,1112
+Brooklyn Nets,Washington Wizards,1.42,3.0,2021-10-25,W,Home W,True,41,1153
+Minnesota Timberwolves,New Orleans Pelicans,1.45,2.9,2021-10-25,L,Away W,True,190.0,1343
+Denver Nuggets,Cleveland Cavaliers,1.2,5.0,2021-10-25,L,Home W,False,-100,1243
+LA Clippers,Portland Trail Blazers,-,-,2021-10-25,W,Home W,True,0,1243
+New York Knicks,Philadelphia 76ers,1.83,2.0,2021-10-26,W,Home W,True,83,1326
+Oklahoma City Thunder,Golden State Warriors,5.5,1.17,2021-10-26,L,Away W,True,16,1342
+Dallas Mavericks,Houston Rockets,1.15,5.75,2021-10-26,W,Away W,False,-100,1242
+San Antonio Spurs,Los Angeles Lakers,1.74,2.15,2021-10-26,L,Away W,True,115.0,1357
+Utah Jazz,Denver Nuggets,1.31,3.65,2021-10-26,W,Home W,True,31,1388
+Orlando Magic,Charlotte Hornets,-,-,2021-10-27,L,Away W,True,0,1388
+Brooklyn Nets,Miami Heat,1.62,2.4,2021-10-27,L,Away W,True,140.0,1528
+Toronto Raptors,Indiana Pacers,1.83,2.0,2021-10-27,W,Home W,True,83,1611
+New Orleans Pelicans,Atlanta Hawks,2.75,1.5,2021-10-27,L,Away W,True,50,1661
+Boston Celtics,Washington Wizards,1.57,2.55,2021-10-27,L,Away W,True,155.0,1816
+Oklahoma City Thunder,Los Angeles Lakers,2.9,1.45,2021-10-27,W,Away W,False,-100,1716
+Milwaukee Bucks,Minnesota Timberwolves,1.43,2.95,2021-10-27,L,Away W,True,195.0,1911
+Phoenix Suns,Sacramento Kings,1.28,4.0,2021-10-27,L,Away W,True,300.0,2211
+Portland Trail Blazers,Memphis Grizzlies,1.74,2.15,2021-10-27,W,Home W,True,74,2285
+LA Clippers,Cleveland Cavaliers,-,-,2021-10-27,L,Away W,True,0,2285
+Philadelphia 76ers,Detroit Pistons,1.17,5.5,2021-10-28,W,Home W,True,16,2301
+Washington Wizards,Atlanta Hawks,2.5,1.59,2021-10-28,W,Home W,True,150.0,2451
+Chicago Bulls,New York Knicks,1.83,2.0,2021-10-28,L,Away W,True,100.0,2551
+Houston Rockets,Utah Jazz,4.75,1.22,2021-10-28,L,Away W,True,22,2573
+Dallas Mavericks,San Antonio Spurs,1.38,3.2,2021-10-28,W,Away W,False,-100,2473
+Golden State Warriors,Memphis Grizzlies,1.42,3.0,2021-10-28,L,Away W,True,200.0,2673
+Toronto Raptors,Orlando Magic,1.22,4.8,2021-10-29,W,Home W,True,21,2694
+Miami Heat,Charlotte Hornets,-,-,2021-10-29,W,Home W,True,0,2694
+Brooklyn Nets,Indiana Pacers,1.24,4.4,2021-10-29,W,Home W,True,24,2718
+New Orleans Pelicans,Sacramento Kings,2.0,1.83,2021-10-29,L,Away W,True,83,2801
+Portland Trail Blazers,LA Clippers,-,-,2021-10-29,W,Home W,True,0,2801
+Denver Nuggets,Dallas Mavericks,1.61,2.45,2021-10-29,W,Home W,True,60,2861
+Los Angeles Lakers,Cleveland Cavaliers,1.29,3.9,2021-10-29,W,Home W,True,28,2889
+Washington Wizards,Boston Celtics,1.77,2.1,2021-10-30,W,Home W,True,76,2965
+Detroit Pistons,Orlando Magic,1.42,3.0,2021-10-30,W,Home W,True,41,3006
+New Orleans Pelicans,New York Knicks,4.0,1.28,2021-10-30,L,Away W,True,27,3033
+Indiana Pacers,Toronto Raptors,1.69,2.25,2021-10-30,L,Away W,True,125.0,3158
+Philadelphia 76ers,Atlanta Hawks,1.61,2.45,2021-10-30,W,Home W,True,60,3218
+Chicago Bulls,Utah Jazz,2.4,1.62,2021-10-30,W,Home W,True,140.0,3358
+Milwaukee Bucks,San Antonio Spurs,1.36,3.4,2021-10-30,L,Away W,True,240.0,3598
+Memphis Grizzlies,Miami Heat,1.65,2.35,2021-10-30,L,Away W,True,135.0,3733
+Golden State Warriors,Oklahoma City Thunder,1.11,7.0,2021-10-30,W,Home W,True,11,3744
+Minnesota Timberwolves,Denver Nuggets,1.8,2.05,2021-10-30,L,Away W,True,105.0,3849
+Phoenix Suns,Cleveland Cavaliers,1.2,5.0,2021-10-30,W,Away W,False,-100,3749
+Dallas Mavericks,Sacramento Kings,1.54,2.65,2021-10-31,W,Home W,True,54,3803
+Charlotte Hornets,Portland Trail Blazers,-,-,2021-10-31,W,Home W,True,0,3803
+Milwaukee Bucks,Utah Jazz,2.65,1.54,2021-10-31,L,Away W,True,54,3857
+Brooklyn Nets,Detroit Pistons,1.11,7.0,2021-10-31,W,Home W,True,11,3868
+Los Angeles Lakers,Houston Rockets,1.15,5.75,2021-10-31,W,Home W,True,15,3883
+Charlotte Hornets,Cleveland Cavaliers,-,-,2021-11-01,L,Away W,True,0,3883
+Philadelphia 76ers,Portland Trail Blazers,2.05,1.8,2021-11-01,W,Home W,True,105.0,3988
+Indiana Pacers,San Antonio Spurs,1.71,2.2,2021-11-01,W,Home W,True,71,4059
+New York Knicks,Toronto Raptors,1.33,3.5,2021-11-01,L,Away W,True,250.0,4309
+Atlanta Hawks,Washington Wizards,1.5,2.75,2021-11-01,W,Home W,True,50,4359
+Boston Celtics,Chicago Bulls,1.71,2.2,2021-11-01,L,Away W,True,120.0,4479
+Memphis Grizzlies,Denver Nuggets,1.74,2.15,2021-11-01,W,Home W,True,74,4553
+Minnesota Timberwolves,Orlando Magic,1.26,4.2,2021-11-01,L,Home W,False,-100,4453
+LA Clippers,Oklahoma City Thunder,-,-,2021-11-01,W,Home W,True,0,4453
+Detroit Pistons,Milwaukee Bucks,2.6,1.56,2021-11-02,L,Away W,True,55,4508
+Dallas Mavericks,Miami Heat,2.2,1.71,2021-11-02,L,Away W,True,71,4579
+Utah Jazz,Sacramento Kings,1.24,4.4,2021-11-02,W,Home W,True,24,4603
+Phoenix Suns,New Orleans Pelicans,1.22,4.75,2021-11-02,W,Home W,True,22,4625
+Los Angeles Lakers,Houston Rockets,1.17,5.5,2021-11-02,W,Home W,True,16,4641
+Cleveland Cavaliers,Portland Trail Blazers,2.8,1.48,2021-11-03,W,Away W,False,-100,4541
+Orlando Magic,Boston Celtics,3.5,1.33,2021-11-03,L,Away W,True,33,4574
+Washington Wizards,Toronto Raptors,1.62,2.4,2021-11-03,L,Away W,True,140.0,4714
+Philadelphia 76ers,Chicago Bulls,1.71,2.2,2021-11-03,W,Home W,True,71,4785
+Indiana Pacers,New York Knicks,1.87,1.95,2021-11-03,W,Home W,True,86,4871
+Brooklyn Nets,Atlanta Hawks,1.54,2.65,2021-11-03,W,Home W,True,54,4925
+Memphis Grizzlies,Denver Nuggets,2.05,1.8,2021-11-03,W,Home W,True,105.0,5030
+Minnesota Timberwolves,LA Clippers,-,-,2021-11-03,L,Away W,True,0,5030
+San Antonio Spurs,Dallas Mavericks,2.1,1.77,2021-11-03,L,Away W,True,76,5106
+Sacramento Kings,New Orleans Pelicans,1.45,2.9,2021-11-03,W,Home W,True,45,5151
+Golden State Warriors,Charlotte Hornets,-,-,2021-11-03,W,Home W,True,0,5151
+Detroit Pistons,Philadelphia 76ers,2.7,1.53,2021-11-04,L,Away W,True,52,5203
+Atlanta Hawks,Utah Jazz,2.0,1.83,2021-11-04,L,Away W,True,83,5286
+Miami Heat,Boston Celtics,1.38,3.25,2021-11-04,L,Away W,True,225.0,5511
+Phoenix Suns,Houston Rockets,1.14,6.0,2021-11-04,W,Home W,True,14,5525
+Los Angeles Lakers,Oklahoma City Thunder,1.15,5.75,2021-11-04,L,Home W,False,-100,5425
+Orlando Magic,San Antonio Spurs,2.5,1.59,2021-11-05,L,Away W,True,58,5483
+Detroit Pistons,Brooklyn Nets,5.0,1.2,2021-11-05,L,Away W,True,20,5503
+Washington Wizards,Memphis Grizzlies,1.71,2.2,2021-11-05,W,Home W,True,71,5574
+Milwaukee Bucks,New York Knicks,1.61,2.45,2021-11-05,L,Away W,True,145.0,5719
+Toronto Raptors,Cleveland Cavaliers,1.43,2.95,2021-11-05,L,Away W,True,195.0,5914
+Minnesota Timberwolves,LA Clippers,-,-,2021-11-05,L,Away W,True,0,5914
+Golden State Warriors,New Orleans Pelicans,1.21,4.9,2021-11-05,W,Home W,True,20,5934
+Sacramento Kings,Charlotte Hornets,-,-,2021-11-05,W,Home W,True,0,5934
+Portland Trail Blazers,Indiana Pacers,1.48,2.8,2021-11-05,W,Away W,False,-100,5834
+Denver Nuggets,Houston Rockets,1.14,6.0,2021-11-06,W,Home W,True,14,5848
+Miami Heat,Utah Jazz,1.91,1.91,2021-11-06,W,Away W,False,-100,5748
+Chicago Bulls,Philadelphia 76ers,1.59,2.5,2021-11-06,L,Away W,True,150.0,5898
+Dallas Mavericks,Boston Celtics,1.62,2.4,2021-11-06,W,Away W,False,-100,5798
+Phoenix Suns,Atlanta Hawks,1.61,2.45,2021-11-06,W,Away W,False,-100,5698
+Portland Trail Blazers,Los Angeles Lakers,1.49,2.8,2021-11-06,W,Home W,True,48,5746
+Toronto Raptors,Brooklyn Nets,2.35,1.65,2021-11-07,L,Away W,True,64,5810
+Sacramento Kings,Indiana Pacers,1.71,2.2,2021-11-07,L,Away W,True,120.0,5930
+New York Knicks,Cleveland Cavaliers,1.32,3.6,2021-11-07,L,Away W,True,260.0,6190
+Orlando Magic,Utah Jazz,6.0,1.14,2021-11-07,W,Away W,False,-100,6090
+Washington Wizards,Milwaukee Bucks,1.95,1.87,2021-11-07,W,Home W,True,95,6185
+Oklahoma City Thunder,San Antonio Spurs,2.45,1.61,2021-11-07,W,Away W,False,-100,6085
+Golden State Warriors,Houston Rockets,1.1,7.5,2021-11-07,W,Home W,True,10,6095
+LA Clippers,Charlotte Hornets,-,-,2021-11-07,W,Home W,True,0,6095
+Philadelphia 76ers,New York Knicks,2.05,1.8,2021-11-08,L,Away W,True,80,6175
+Chicago Bulls,Brooklyn Nets,1.83,2.0,2021-11-08,W,Home W,True,83,6258
+Memphis Grizzlies,Minnesota Timberwolves,1.54,2.65,2021-11-08,W,Home W,True,54,6312
+Dallas Mavericks,New Orleans Pelicans,1.25,4.3,2021-11-08,W,Home W,True,25,6337
+Denver Nuggets,Miami Heat,2.05,1.8,2021-11-08,W,Home W,True,105.0,6442
+Golden State Warriors,Atlanta Hawks,1.62,2.4,2021-11-08,W,Home W,True,62,6504
+Sacramento Kings,Phoenix Suns,2.35,1.65,2021-11-08,L,Away W,True,64,6568
+Los Angeles Lakers,Charlotte Hornets,-,-,2021-11-08,W,Home W,True,0,6568
+Philadelphia 76ers,Milwaukee Bucks,3.4,1.36,2021-11-09,L,Away W,True,35,6603
+Utah Jazz,Atlanta Hawks,1.28,4.0,2021-11-09,W,Home W,True,27,6630
+LA Clippers,Portland Trail Blazers,-,-,2021-11-09,W,Home W,True,0,6630
+Cleveland Cavaliers,Washington Wizards,2.4,1.62,2021-11-10,L,Away W,True,62,6692
+Orlando Magic,Brooklyn Nets,5.0,1.2,2021-11-10,L,Away W,True,20,6712
+Boston Celtics,Toronto Raptors,1.61,2.45,2021-11-10,W,Home W,True,60,6772
+New York Knicks,Milwaukee Bucks,1.62,2.4,2021-11-10,L,Away W,True,140.0,6912
+Houston Rockets,Detroit Pistons,1.71,2.2,2021-11-10,L,Away W,True,120.0,7032
+Memphis Grizzlies,Charlotte Hornets,-,-,2021-11-10,L,Away W,True,0,7032
+New Orleans Pelicans,Oklahoma City Thunder,1.56,2.6,2021-11-10,L,Away W,True,160.0,7192
+Chicago Bulls,Dallas Mavericks,1.61,2.45,2021-11-10,W,Home W,True,60,7252
+San Antonio Spurs,Sacramento Kings,1.87,1.95,2021-11-10,W,Home W,True,86,7338
+Phoenix Suns,Portland Trail Blazers,1.48,2.8,2021-11-10,W,Home W,True,47,7385
+Denver Nuggets,Indiana Pacers,2.3,1.67,2021-11-10,W,Away W,False,-100,7285
+Golden State Warriors,Minnesota Timberwolves,1.31,3.65,2021-11-10,W,Home W,True,31,7316
+Los Angeles Lakers,Miami Heat,2.9,1.45,2021-11-10,W,Away W,False,-100,7216
+Philadelphia 76ers,Toronto Raptors,1.57,2.55,2021-11-11,L,Away W,True,155.0,7371
+Utah Jazz,Indiana Pacers,1.18,5.25,2021-11-11,L,Home W,False,-100,7271
+LA Clippers,Miami Heat,-,-,2021-11-11,W,Home W,True,0,7271
+Charlotte Hornets,New York Knicks,-,-,2021-11-12,W,Home W,True,0,7271
+Cleveland Cavaliers,Detroit Pistons,1.54,2.65,2021-11-12,W,Home W,True,54,7325
+Boston Celtics,Milwaukee Bucks,1.5,2.75,2021-11-12,W,Home W,True,50,7375
+Houston Rockets,Portland Trail Blazers,3.5,1.33,2021-11-12,L,Away W,True,33,7408
+New Orleans Pelicans,Brooklyn Nets,4.6,1.23,2021-11-12,L,Away W,True,23,7431
+Memphis Grizzlies,Phoenix Suns,2.15,1.74,2021-11-12,L,Away W,True,74,7505
+Oklahoma City Thunder,Sacramento Kings,2.75,1.5,2021-11-12,W,Away W,False,-100,7405
+San Antonio Spurs,Dallas Mavericks,2.25,1.69,2021-11-12,L,Away W,True,68,7473
+Denver Nuggets,Atlanta Hawks,1.62,2.4,2021-11-12,W,Home W,True,62,7535
+Golden State Warriors,Chicago Bulls,1.45,2.9,2021-11-12,W,Home W,True,45,7580
+Los Angeles Lakers,Minnesota Timberwolves,1.8,2.05,2021-11-12,L,Away W,True,105.0,7685
+Utah Jazz,Miami Heat,1.29,3.9,2021-11-13,L,Away W,True,290.0,7975
+Orlando Magic,Washington Wizards,2.8,1.48,2021-11-13,L,Away W,True,47,8022
+Indiana Pacers,Philadelphia 76ers,1.56,2.6,2021-11-13,W,Home W,True,55,8077
+New Orleans Pelicans,Memphis Grizzlies,2.4,1.62,2021-11-13,W,Home W,True,140.0,8217
+Toronto Raptors,Detroit Pistons,1.29,3.8,2021-11-13,L,Home W,False,-100,8117
+Cleveland Cavaliers,Boston Celtics,1.74,2.15,2021-11-13,W,Away W,False,-100,8017
+LA Clippers,Minnesota Timberwolves,-,-,2021-11-13,W,Home W,True,0,8017
+Los Angeles Lakers,San Antonio Spurs,1.71,2.2,2021-11-14,W,Home W,True,71,8088
+Atlanta Hawks,Milwaukee Bucks,1.77,2.1,2021-11-14,W,Home W,True,76,8164
+Charlotte Hornets,Golden State Warriors,-,-,2021-11-14,W,Away W,False,-100,8064
+Houston Rockets,Phoenix Suns,4.2,1.26,2021-11-14,L,Away W,True,26,8090
+Oklahoma City Thunder,Brooklyn Nets,4.3,1.25,2021-11-14,L,Away W,True,25,8115
+Denver Nuggets,Portland Trail Blazers,1.4,3.1,2021-11-14,W,Home W,True,40,8155
+LA Clippers,Chicago Bulls,-,-,2021-11-14,L,Away W,True,0,8155
+Washington Wizards,New Orleans Pelicans,1.59,2.5,2021-11-15,W,Home W,True,58,8213
+Cleveland Cavaliers,Boston Celtics,2.5,1.59,2021-11-15,L,Away W,True,58,8271
+Detroit Pistons,Sacramento Kings,2.6,1.56,2021-11-15,L,Away W,True,55,8326
+New York Knicks,Indiana Pacers,1.67,2.3,2021-11-15,W,Home W,True,66,8392
+Atlanta Hawks,Orlando Magic,1.17,5.5,2021-11-15,W,Home W,True,16,8408
+Memphis Grizzlies,Houston Rockets,1.13,6.25,2021-11-15,W,Home W,True,13,8421
+Dallas Mavericks,Denver Nuggets,1.48,2.8,2021-11-15,W,Home W,True,47,8468
+Minnesota Timberwolves,Phoenix Suns,2.5,1.59,2021-11-15,L,Away W,True,58,8526
+Oklahoma City Thunder,Miami Heat,3.25,1.38,2021-11-15,L,Away W,True,37,8563
+Portland Trail Blazers,Toronto Raptors,1.67,2.3,2021-11-15,W,Home W,True,66,8629
+Los Angeles Lakers,Chicago Bulls,2.05,1.8,2021-11-15,L,Away W,True,80,8709
+Brooklyn Nets,Golden State Warriors,1.69,2.25,2021-11-16,L,Away W,True,125.0,8834
+Utah Jazz,Philadelphia 76ers,1.17,5.5,2021-11-16,W,Home W,True,16,8850
+LA Clippers,San Antonio Spurs,-,-,2021-11-16,W,Home W,True,0,8850
+Detroit Pistons,Indiana Pacers,3.25,1.38,2021-11-17,W,Home W,True,225.0,9075
+Charlotte Hornets,Washington Wizards,-,-,2021-11-17,W,Home W,True,0,9075
+Miami Heat,New Orleans Pelicans,1.36,3.35,2021-11-17,W,Home W,True,36,9111
+New York Knicks,Orlando Magic,1.13,6.25,2021-11-17,L,Home W,False,-100,9011
+Brooklyn Nets,Cleveland Cavaliers,1.17,5.5,2021-11-17,W,Home W,True,16,9027
+Atlanta Hawks,Boston Celtics,1.5,2.75,2021-11-17,W,Home W,True,50,9077
+Milwaukee Bucks,Los Angeles Lakers,1.24,4.5,2021-11-17,W,Away W,False,-100,8977
+Oklahoma City Thunder,Houston Rockets,1.67,2.3,2021-11-17,W,Home W,True,66,9043
+Minnesota Timberwolves,Sacramento Kings,1.69,2.25,2021-11-17,W,Home W,True,68,9111
+Phoenix Suns,Dallas Mavericks,1.28,4.0,2021-11-17,W,Home W,True,27,9138
+Portland Trail Blazers,Chicago Bulls,1.62,2.4,2021-11-17,W,Home W,True,62,9200
+Miami Heat,Washington Wizards,1.38,3.25,2021-11-18,W,Home W,True,37,9237
+Cleveland Cavaliers,Golden State Warriors,5.0,1.2,2021-11-18,L,Away W,True,20,9257
+Minnesota Timberwolves,San Antonio Spurs,1.77,2.1,2021-11-18,W,Home W,True,76,9333
+Memphis Grizzlies,LA Clippers,-,-,2021-11-18,W,Home W,True,0,9333
+Denver Nuggets,Philadelphia 76ers,1.31,3.65,2021-11-18,L,Home W,False,-100,9233
+Utah Jazz,Toronto Raptors,1.2,5.0,2021-11-18,W,Home W,True,20,9253
+Charlotte Hornets,Indiana Pacers,-,-,2021-11-19,W,Home W,True,0,9253
+Detroit Pistons,Golden State Warriors,2.05,1.8,2021-11-19,L,Away W,True,80,9333
+Boston Celtics,Los Angeles Lakers,1.91,1.91,2021-11-19,W,Home W,True,90,9423
+Brooklyn Nets,Orlando Magic,1.2,5.0,2021-11-19,W,Home W,True,20,9443
+Milwaukee Bucks,Oklahoma City Thunder,1.1,7.5,2021-11-19,W,Home W,True,10,9453
+New Orleans Pelicans,LA Clippers,-,-,2021-11-19,W,Home W,True,0,9453
+Denver Nuggets,Chicago Bulls,2.3,1.67,2021-11-19,L,Away W,True,66,9519
+Phoenix Suns,Dallas Mavericks,1.29,3.9,2021-11-19,W,Home W,True,28,9547
+Sacramento Kings,Toronto Raptors,1.61,2.45,2021-11-19,L,Away W,True,145.0,9692
+New York Knicks,Houston Rockets,1.18,5.25,2021-11-20,W,Home W,True,18,9710
+Indiana Pacers,New Orleans Pelicans,1.32,3.6,2021-11-20,W,Home W,True,32,9742
+Washington Wizards,Miami Heat,2.15,1.74,2021-11-20,W,Home W,True,115.0,9857
+Atlanta Hawks,Charlotte Hornets,-,-,2021-11-20,W,Home W,True,0,9857
+Boston Celtics,Oklahoma City Thunder,1.22,4.75,2021-11-20,W,Home W,True,22,9879
+Minnesota Timberwolves,Memphis Grizzlies,1.71,2.2,2021-11-20,W,Home W,True,71,9950
+Milwaukee Bucks,Orlando Magic,1.12,6.75,2021-11-20,W,Home W,True,11,9961
+Sacramento Kings,Utah Jazz,3.7,1.3,2021-11-20,L,Away W,True,30,9991
+Portland Trail Blazers,Philadelphia 76ers,1.34,3.45,2021-11-20,W,Home W,True,34,10025
+LA Clippers,Dallas Mavericks,-,-,2021-11-21,W,Home W,True,0,10025
+Detroit Pistons,Los Angeles Lakers,3.5,1.33,2021-11-21,L,Away W,True,33,10058
+Phoenix Suns,Denver Nuggets,1.2,5.0,2021-11-21,W,Home W,True,20,10078
+Chicago Bulls,New York Knicks,1.48,2.8,2021-11-21,W,Home W,True,47,10125
+Golden State Warriors,Toronto Raptors,1.25,4.3,2021-11-21,W,Home W,True,25,10150
+Cleveland Cavaliers,Brooklyn Nets,2.9,1.45,2021-11-22,L,Away W,True,45,10195
+Washington Wizards,Charlotte Hornets,-,-,2021-11-22,L,Away W,True,0,10195
+Atlanta Hawks,Oklahoma City Thunder,1.11,7.0,2021-11-22,W,Home W,True,11,10206
+Boston Celtics,Houston Rockets,1.14,6.0,2021-11-22,W,Home W,True,14,10220
+Chicago Bulls,Indiana Pacers,1.8,2.05,2021-11-22,L,Away W,True,105.0,10325
+Milwaukee Bucks,Orlando Magic,1.07,9.0,2021-11-22,W,Home W,True,7,10332
+New Orleans Pelicans,Minnesota Timberwolves,2.35,1.65,2021-11-22,L,Away W,True,64,10396
+San Antonio Spurs,Phoenix Suns,2.8,1.48,2021-11-22,L,Away W,True,47,10443
+Utah Jazz,Memphis Grizzlies,1.2,5.0,2021-11-22,L,Away W,True,400.0,10843
+Sacramento Kings,Philadelphia 76ers,1.5,2.75,2021-11-22,L,Away W,True,175.0,11018
+Detroit Pistons,Miami Heat,5.5,1.17,2021-11-23,L,Away W,True,16,11034
+New York Knicks,Los Angeles Lakers,1.54,2.65,2021-11-23,W,Home W,True,54,11088
+Portland Trail Blazers,Denver Nuggets,1.24,4.5,2021-11-23,W,Home W,True,23,11111
+LA Clippers,Dallas Mavericks,-,-,2021-11-23,L,Away W,True,0,11111
+Indiana Pacers,Los Angeles Lakers,1.4,3.1,2021-11-24,L,Away W,True,210.0,11321
+Cleveland Cavaliers,Phoenix Suns,3.5,1.33,2021-11-24,L,Away W,True,33,11354
+Orlando Magic,Charlotte Hornets,-,-,2021-11-24,L,Away W,True,0,11354
+Boston Celtics,Brooklyn Nets,1.8,2.05,2021-11-24,L,Away W,True,105.0,11459
+Milwaukee Bucks,Detroit Pistons,1.06,10.0,2021-11-24,W,Home W,True,6,11465
+Oklahoma City Thunder,Utah Jazz,8.5,1.08,2021-11-24,L,Away W,True,8,11473
+Houston Rockets,Chicago Bulls,5.0,1.2,2021-11-24,W,Away W,False,-100,11373
+Minnesota Timberwolves,Miami Heat,1.91,1.91,2021-11-24,W,Home W,True,90,11463
+Memphis Grizzlies,Toronto Raptors,1.65,2.35,2021-11-24,L,Away W,True,135.0,11598
+New Orleans Pelicans,Washington Wizards,2.45,1.61,2021-11-24,W,Home W,True,145.0,11743
+San Antonio Spurs,Atlanta Hawks,2.45,1.61,2021-11-24,L,Away W,True,60,11803
+Sacramento Kings,Portland Trail Blazers,2.4,1.62,2021-11-24,W,Home W,True,140.0,11943
+Golden State Warriors,Philadelphia 76ers,1.2,5.0,2021-11-24,W,Home W,True,20,11963
+LA Clippers,Detroit Pistons,-,-,2021-11-26,W,Home W,True,0,11963
+Charlotte Hornets,Minnesota Timberwolves,-,-,2021-11-26,W,Home W,True,0,11963
+New York Knicks,Phoenix Suns,2.45,1.61,2021-11-26,L,Away W,True,60,12023
+Orlando Magic,Chicago Bulls,4.75,1.22,2021-11-26,L,Away W,True,22,12045
+Memphis Grizzlies,Atlanta Hawks,1.95,1.87,2021-11-26,L,Away W,True,86,12131
+Indiana Pacers,Toronto Raptors,1.53,2.7,2021-11-26,W,Home W,True,52,12183
+Oklahoma City Thunder,Washington Wizards,3.35,1.36,2021-11-26,L,Away W,True,36,12219
+San Antonio Spurs,Boston Celtics,2.6,1.56,2021-11-26,W,Home W,True,160.0,12379
+Utah Jazz,New Orleans Pelicans,1.1,7.5,2021-11-26,L,Home W,False,-100,12279
+Denver Nuggets,Milwaukee Bucks,3.05,1.41,2021-11-26,L,Away W,True,40,12319
+Golden State Warriors,Portland Trail Blazers,1.42,3.0,2021-11-26,W,Home W,True,41,12360
+Los Angeles Lakers,Sacramento Kings,1.33,3.5,2021-11-26,L,Away W,True,250.0,12610
+Philadelphia 76ers,Minnesota Timberwolves,1.37,3.2,2021-11-27,L,Away W,True,220.0,12830
+Atlanta Hawks,New York Knicks,1.29,3.7,2021-11-27,L,Away W,True,270.0,13100
+Brooklyn Nets,Phoenix Suns,1.77,2.1,2021-11-27,L,Away W,True,110.0,13210
+Houston Rockets,Charlotte Hornets,-,-,2021-11-27,W,Away W,False,-100,13110
+Chicago Bulls,Miami Heat,1.87,1.95,2021-11-27,L,Away W,True,95,13205
+Cleveland Cavaliers,Orlando Magic,1.2,4.75,2021-11-27,W,Home W,True,20,13225
+Dallas Mavericks,Washington Wizards,1.4,3.1,2021-11-27,L,Away W,True,210.0,13435
+Utah Jazz,New Orleans Pelicans,1.1,7.5,2021-11-27,W,Home W,True,10,13445
+LA Clippers,Golden State Warriors,-,-,2021-11-28,L,Away W,True,0,13445
+Indiana Pacers,Milwaukee Bucks,2.15,1.74,2021-11-28,L,Away W,True,74,13519
+Memphis Grizzlies,Sacramento Kings,1.59,2.5,2021-11-28,W,Home W,True,58,13577
+Toronto Raptors,Boston Celtics,2.05,1.8,2021-11-28,L,Away W,True,80,13657
+Los Angeles Lakers,Detroit Pistons,1.19,5.0,2021-11-28,W,Home W,True,19,13676
+Philadelphia 76ers,Orlando Magic,1.08,8.5,2021-11-29,W,Home W,True,8,13684
+Miami Heat,Denver Nuggets,1.67,2.3,2021-11-29,L,Away W,True,130.0,13814
+Houston Rockets,Oklahoma City Thunder,1.71,2.2,2021-11-29,W,Home W,True,71,13885
+Minnesota Timberwolves,Indiana Pacers,1.59,2.5,2021-11-29,W,Away W,False,-100,13785
+Chicago Bulls,Charlotte Hornets,-,-,2021-11-29,W,Home W,True,0,13785
+Dallas Mavericks,Cleveland Cavaliers,1.38,3.2,2021-11-29,L,Away W,True,220.0,14005
+San Antonio Spurs,Washington Wizards,2.35,1.65,2021-11-29,W,Home W,True,135.0,14140
+Utah Jazz,Portland Trail Blazers,1.36,3.4,2021-11-29,W,Home W,True,35,14175
+LA Clippers,New Orleans Pelicans,-,-,2021-11-29,L,Home W,False,-100,14075
+Toronto Raptors,Memphis Grizzlies,1.67,2.3,2021-11-30,L,Away W,True,130.0,14205
+Brooklyn Nets,New York Knicks,1.42,3.0,2021-11-30,W,Home W,True,41,14246
+Sacramento Kings,Los Angeles Lakers,1.91,1.91,2021-11-30,L,Away W,True,90,14336
+Phoenix Suns,Golden State Warriors,1.65,2.35,2021-11-30,W,Home W,True,64,14400
+Portland Trail Blazers,Detroit Pistons,1.29,3.9,2021-11-30,W,Home W,True,28,14428
+Washington Wizards,Minnesota Timberwolves,1.59,2.5,2021-12-01,W,Home W,True,58,14486
+Indiana Pacers,Atlanta Hawks,1.74,2.15,2021-12-01,L,Away W,True,115.0,14601
+Orlando Magic,Denver Nuggets,3.8,1.29,2021-12-01,W,Away W,False,-100,14501
+Boston Celtics,Philadelphia 76ers,1.65,2.35,2021-12-01,W,Away W,False,-100,14401
+Miami Heat,Cleveland Cavaliers,1.67,2.3,2021-12-01,L,Away W,True,130.0,14531
+New Orleans Pelicans,Dallas Mavericks,2.5,1.59,2021-12-01,L,Away W,True,58,14589
+Oklahoma City Thunder,Houston Rockets,1.74,2.15,2021-12-01,L,Away W,True,115.0,14704
+Milwaukee Bucks,Charlotte Hornets,-,-,2021-12-01,W,Away W,False,-100,14604
+LA Clippers,Sacramento Kings,-,-,2021-12-01,L,Away W,True,0,14604
+New York Knicks,Chicago Bulls,1.95,1.87,2021-12-02,L,Away W,True,86,14690
+Toronto Raptors,Milwaukee Bucks,2.3,1.67,2021-12-02,W,Away W,False,-100,14590
+Memphis Grizzlies,Oklahoma City Thunder,1.23,4.4,2021-12-02,W,Home W,True,23,14613
+Phoenix Suns,Detroit Pistons,1.09,8.0,2021-12-02,W,Home W,True,9,14622
+Portland Trail Blazers,San Antonio Spurs,1.43,2.95,2021-12-02,L,Away W,True,195.0,14817
+Indiana Pacers,Miami Heat,1.45,2.9,2021-12-03,L,Away W,True,190.0,15007
+Washington Wizards,Cleveland Cavaliers,1.67,2.3,2021-12-03,L,Away W,True,130.0,15137
+Atlanta Hawks,Philadelphia 76ers,1.71,2.2,2021-12-03,L,Away W,True,120.0,15257
+Brooklyn Nets,Minnesota Timberwolves,1.24,4.4,2021-12-03,W,Home W,True,24,15281
+Houston Rockets,Orlando Magic,1.67,2.3,2021-12-03,W,Away W,False,-100,15181
+Dallas Mavericks,New Orleans Pelicans,1.33,3.5,2021-12-03,L,Away W,True,250.0,15431
+Utah Jazz,Boston Celtics,1.29,3.9,2021-12-03,W,Home W,True,28,15459
+Golden State Warriors,Phoenix Suns,1.33,3.5,2021-12-03,W,Home W,True,33,15492
+Los Angeles Lakers,LA Clippers,-,-,2021-12-03,L,Away W,True,0,15492
+New York Knicks,Denver Nuggets,1.71,2.2,2021-12-04,L,Away W,True,120.0,15612
+Brooklyn Nets,Chicago Bulls,1.71,2.2,2021-12-04,L,Away W,True,120.0,15732
+Milwaukee Bucks,Miami Heat,1.38,3.2,2021-12-04,W,Home W,True,38,15770
+Dallas Mavericks,Memphis Grizzlies,1.91,1.91,2021-12-04,L,Away W,True,90,15860
+Golden State Warriors,San Antonio Spurs,1.25,4.3,2021-12-04,L,Home W,False,-100,15760
+Portland Trail Blazers,Boston Celtics,1.87,1.95,2021-12-04,L,Away W,True,95,15855
+Sacramento Kings,LA Clippers,-,-,2021-12-04,W,Home W,True,0,15855
+Cleveland Cavaliers,Utah Jazz,2.75,1.5,2021-12-05,L,Away W,True,50,15905
+Toronto Raptors,Washington Wizards,1.83,2.0,2021-12-05,W,Home W,True,83,15988
+Atlanta Hawks,Charlotte Hornets,-,-,2021-12-05,L,Away W,True,0,15988
+Houston Rockets,New Orleans Pelicans,2.25,1.69,2021-12-05,W,Home W,True,125.0,16113
+Charlotte Hornets,Philadelphia 76ers,-,-,2021-12-06,L,Away W,True,0,16113
+Detroit Pistons,Oklahoma City Thunder,1.65,2.35,2021-12-06,L,Away W,True,135.0,16248
+Indiana Pacers,Washington Wizards,1.45,2.9,2021-12-06,W,Home W,True,45,16293
+Miami Heat,Memphis Grizzlies,1.47,2.85,2021-12-06,L,Away W,True,185.0,16478
+Chicago Bulls,Denver Nuggets,1.74,2.15,2021-12-06,W,Home W,True,74,16552
+Minnesota Timberwolves,Atlanta Hawks,1.77,2.1,2021-12-06,L,Away W,True,110.0,16662
+Milwaukee Bucks,Cleveland Cavaliers,1.28,4.0,2021-12-06,W,Home W,True,27,16689
+Phoenix Suns,San Antonio Spurs,1.33,3.5,2021-12-06,W,Away W,False,-100,16589
+Portland Trail Blazers,LA Clippers,-,-,2021-12-06,L,Away W,True,0,16589
+Golden State Warriors,Orlando Magic,1.06,10.5,2021-12-06,W,Home W,True,5,16594
+Dallas Mavericks,Brooklyn Nets,2.05,1.8,2021-12-07,L,Away W,True,80,16674
+San Antonio Spurs,New York Knicks,2.05,1.8,2021-12-07,L,Away W,True,80,16754
+Los Angeles Lakers,Boston Celtics,1.67,2.3,2021-12-07,W,Home W,True,66,16820
+Indiana Pacers,New York Knicks,1.48,2.8,2021-12-08,W,Home W,True,47,16867
+Cleveland Cavaliers,Chicago Bulls,1.61,2.45,2021-12-08,W,Home W,True,60,16927
+Detroit Pistons,Washington Wizards,2.75,1.5,2021-12-08,L,Away W,True,50,16977
+Charlotte Hornets,Philadelphia 76ers,-,-,2021-12-08,L,Away W,True,0,16977
+Toronto Raptors,Oklahoma City Thunder,1.31,3.65,2021-12-08,L,Away W,True,265.0,17242
+Miami Heat,Milwaukee Bucks,3.2,1.38,2021-12-08,W,Home W,True,220.0,17462
+Houston Rockets,Brooklyn Nets,2.4,1.62,2021-12-08,W,Home W,True,140.0,17602
+Minnesota Timberwolves,Utah Jazz,3.4,1.36,2021-12-08,L,Away W,True,35,17637
+Memphis Grizzlies,Dallas Mavericks,1.83,2.0,2021-12-08,L,Away W,True,100.0,17737
+New Orleans Pelicans,Denver Nuggets,2.1,1.77,2021-12-08,L,Away W,True,76,17813
+Sacramento Kings,Orlando Magic,1.33,3.5,2021-12-08,W,Home W,True,33,17846
+Golden State Warriors,Portland Trail Blazers,1.07,9.5,2021-12-08,W,Home W,True,6,17852
+LA Clippers,Boston Celtics,-,-,2021-12-08,W,Away W,False,-100,17752
+Philadelphia 76ers,Utah Jazz,2.2,1.71,2021-12-09,L,Away W,True,71,17823
+Memphis Grizzlies,Los Angeles Lakers,2.55,1.57,2021-12-09,W,Home W,True,155.0,17978
+San Antonio Spurs,Denver Nuggets,1.71,2.2,2021-12-09,W,Home W,True,71,18049
+Charlotte Hornets,Sacramento Kings,-,-,2021-12-10,W,Away W,False,-100,17949
+Indiana Pacers,Dallas Mavericks,1.77,2.1,2021-12-10,W,Home W,True,76,18025
+Atlanta Hawks,Brooklyn Nets,1.77,2.1,2021-12-10,L,Away W,True,110.0,18135
+Toronto Raptors,New York Knicks,1.8,2.05,2021-12-10,W,Home W,True,80,18215
+Minnesota Timberwolves,Cleveland Cavaliers,2.05,1.8,2021-12-10,L,Away W,True,80,18295
+Houston Rockets,Milwaukee Bucks,4.5,1.24,2021-12-10,L,Away W,True,23,18318
+Oklahoma City Thunder,Los Angeles Lakers,2.5,1.59,2021-12-10,L,Away W,True,58,18376
+New Orleans Pelicans,Detroit Pistons,1.42,3.0,2021-12-10,W,Home W,True,41,18417
+Phoenix Suns,Boston Celtics,1.62,2.4,2021-12-10,W,Home W,True,62,18479
+LA Clippers,Orlando Magic,-,-,2021-12-11,W,Home W,True,0,18479
+Washington Wizards,Utah Jazz,3.5,1.33,2021-12-11,L,Away W,True,33,18512
+Memphis Grizzlies,Houston Rockets,1.29,3.8,2021-12-11,W,Home W,True,29,18541
+Miami Heat,Chicago Bulls,2.05,1.8,2021-12-11,W,Home W,True,105.0,18646
+Cleveland Cavaliers,Sacramento Kings,1.38,3.2,2021-12-11,W,Home W,True,38,18684
+Philadelphia 76ers,Golden State Warriors,2.35,1.65,2021-12-11,W,Home W,True,135.0,18819
+San Antonio Spurs,Denver Nuggets,1.91,1.91,2021-12-11,L,Away W,True,90,18909
+New York Knicks,Milwaukee Bucks,3.0,1.42,2021-12-12,L,Away W,True,41,18950
+Detroit Pistons,Brooklyn Nets,3.6,1.32,2021-12-12,L,Away W,True,32,18982
+San Antonio Spurs,New Orleans Pelicans,1.77,2.1,2021-12-12,W,Home W,True,76,19058
+Oklahoma City Thunder,Dallas Mavericks,2.55,1.57,2021-12-12,L,Away W,True,57,19115
+Portland Trail Blazers,Minnesota Timberwolves,1.67,2.3,2021-12-12,L,Away W,True,130.0,19245
+Los Angeles Lakers,Orlando Magic,1.23,4.6,2021-12-12,W,Home W,True,23,19268
+Cleveland Cavaliers,Miami Heat,1.48,2.8,2021-12-13,W,Home W,True,47,19315
+Indiana Pacers,Golden State Warriors,2.55,1.57,2021-12-13,L,Away W,True,57,19372
+Toronto Raptors,Sacramento Kings,1.54,2.65,2021-12-13,W,Home W,True,54,19426
+Atlanta Hawks,Houston Rockets,1.2,5.0,2021-12-13,L,Home W,False,-100,19326
+Boston Celtics,Milwaukee Bucks,1.95,1.87,2021-12-13,W,Home W,True,95,19421
+Memphis Grizzlies,Philadelphia 76ers,1.69,2.25,2021-12-13,W,Home W,True,68,19489
+Dallas Mavericks,Charlotte Hornets,-,-,2021-12-13,W,Home W,True,0,19489
+Denver Nuggets,Washington Wizards,1.61,2.45,2021-12-13,W,Home W,True,60,19549
+LA Clippers,Phoenix Suns,-,-,2021-12-13,W,Home W,True,0,19549
+New York Knicks,Golden State Warriors,2.95,1.44,2021-12-14,L,Away W,True,44,19593
+Brooklyn Nets,Toronto Raptors,1.61,2.45,2021-12-14,W,Home W,True,60,19653
+Portland Trail Blazers,Phoenix Suns,1.91,1.91,2021-12-14,L,Away W,True,90,19743
+Orlando Magic,Atlanta Hawks,4.2,1.26,2021-12-15,L,Away W,True,26,19769
+Cleveland Cavaliers,Houston Rockets,1.24,4.5,2021-12-15,W,Home W,True,23,19792
+Philadelphia 76ers,Miami Heat,1.33,3.5,2021-12-15,L,Away W,True,250.0,20042
+Dallas Mavericks,Los Angeles Lakers,2.4,1.62,2021-12-15,L,Away W,True,62,20104
+Oklahoma City Thunder,New Orleans Pelicans,2.6,1.56,2021-12-15,L,Away W,True,55,20159
+Milwaukee Bucks,Indiana Pacers,2.3,1.67,2021-12-15,W,Home W,True,130.0,20289
+San Antonio Spurs,Charlotte Hornets,-,-,2021-12-15,L,Away W,True,0,20289
+Denver Nuggets,Minnesota Timberwolves,1.57,2.55,2021-12-15,L,Away W,True,155.0,20444
+Sacramento Kings,Washington Wizards,2.1,1.77,2021-12-15,W,Home W,True,110.0,20554
+Utah Jazz,LA Clippers,-,-,2021-12-15,W,Home W,True,0,20554
+Portland Trail Blazers,Memphis Grizzlies,1.95,1.87,2021-12-15,L,Away W,True,86,20640
+Indiana Pacers,Detroit Pistons,1.17,5.5,2021-12-16,W,Home W,True,16,20656
+Brooklyn Nets,Philadelphia 76ers,2.3,1.67,2021-12-16,W,Home W,True,130.0,20786
+Houston Rockets,New York Knicks,2.8,1.48,2021-12-16,L,Away W,True,47,20833
+Phoenix Suns,Washington Wizards,1.26,4.25,2021-12-16,W,Home W,True,25,20858
+Orlando Magic,Miami Heat,4.4,1.24,2021-12-17,L,Away W,True,24,20882
+Atlanta Hawks,Denver Nuggets,1.62,2.4,2021-12-17,L,Away W,True,140.0,21022
+Boston Celtics,Golden State Warriors,2.65,1.54,2021-12-17,L,Away W,True,54,21076
+Minnesota Timberwolves,Los Angeles Lakers,2.0,1.83,2021-12-17,W,Home W,True,100.0,21176
+Utah Jazz,San Antonio Spurs,1.14,6.0,2021-12-17,L,Home W,False,-100,21076
+Portland Trail Blazers,Charlotte Hornets,-,-,2021-12-17,W,Home W,True,0,21076
+Sacramento Kings,Memphis Grizzlies,3.3,1.37,2021-12-17,L,Away W,True,37,21113
+New Orleans Pelicans,Milwaukee Bucks,1.83,2.0,2021-12-17,W,Home W,True,83,21196
+Detroit Pistons,Houston Rockets,1.91,1.91,2021-12-18,L,Away W,True,90,21286
+Brooklyn Nets,Orlando Magic,1.45,2.9,2021-12-18,L,Away W,True,190.0,21476
+Toronto Raptors,Golden State Warriors,1.28,4.0,2021-12-18,W,Home W,True,27,21503
+Oklahoma City Thunder,LA Clippers,-,-,2021-12-18,W,Away W,False,-100,21403
+Boston Celtics,New York Knicks,1.47,2.85,2021-12-18,W,Home W,True,46,21449
+Milwaukee Bucks,Cleveland Cavaliers,2.95,1.43,2021-12-18,L,Away W,True,43,21492
+Utah Jazz,Washington Wizards,1.36,3.4,2021-12-18,L,Home W,False,-100,21392
+Chicago Bulls,Los Angeles Lakers,1.36,3.4,2021-12-19,W,Home W,True,35,21427
+Sacramento Kings,San Antonio Spurs,2.7,1.53,2021-12-19,W,Home W,True,170.0,21597
+Memphis Grizzlies,Portland Trail Blazers,1.54,2.65,2021-12-19,L,Away W,True,165.0,21762
+Detroit Pistons,Miami Heat,3.2,1.38,2021-12-19,W,Home W,True,220.0,21982
+Minnesota Timberwolves,Dallas Mavericks,1.61,2.45,2021-12-19,W,Home W,True,60,22042
+Phoenix Suns,Charlotte Hornets,-,-,2021-12-19,W,Home W,True,0,22042
+Boston Celtics,Philadelphia 76ers,1.71,2.2,2021-12-20,L,Away W,True,120.0,22162
+Memphis Grizzlies,Oklahoma City Thunder,1.25,4.3,2021-12-20,L,Home W,False,-100,22062
+Chicago Bulls,Houston Rockets,1.36,3.4,2021-12-20,W,Home W,True,35,22097
+Utah Jazz,Charlotte Hornets,-,-,2021-12-20,W,Home W,True,0,22097
+Golden State Warriors,Sacramento Kings,1.1,7.5,2021-12-20,W,Home W,True,10,22107
+LA Clippers,San Antonio Spurs,-,-,2021-12-20,L,Away W,True,0,22107
+New York Knicks,Detroit Pistons,1.34,3.45,2021-12-21,W,Home W,True,34,22141
+Miami Heat,Indiana Pacers,2.1,1.77,2021-12-21,W,Home W,True,110.0,22251
+New Orleans Pelicans,Portland Trail Blazers,2.0,1.83,2021-12-21,W,Home W,True,100.0,22351
+Dallas Mavericks,Minnesota Timberwolves,2.2,1.71,2021-12-21,W,Home W,True,120.0,22471
+Los Angeles Lakers,Phoenix Suns,3.5,1.33,2021-12-21,L,Away W,True,33,22504
+Atlanta Hawks,Orlando Magic,1.33,3.5,2021-12-22,L,Away W,True,250.0,22754
+Boston Celtics,Cleveland Cavaliers,1.4,3.1,2021-12-22,W,Home W,True,40,22794
+Milwaukee Bucks,Houston Rockets,1.26,4.25,2021-12-22,W,Home W,True,25,22819
+Oklahoma City Thunder,Denver Nuggets,3.2,1.38,2021-12-22,W,Home W,True,220.0,23039
+Sacramento Kings,LA Clippers,-,-,2021-12-22,L,Away W,True,0,23039
+Philadelphia 76ers,Atlanta Hawks,1.14,6.0,2021-12-23,L,Away W,True,500.0,23539
+Indiana Pacers,Houston Rockets,1.37,3.3,2021-12-23,W,Home W,True,37,23576
+Orlando Magic,New Orleans Pelicans,2.7,1.53,2021-12-23,L,Away W,True,52,23628
+Miami Heat,Detroit Pistons,1.13,6.25,2021-12-23,W,Home W,True,13,23641
+New York Knicks,Washington Wizards,1.62,2.4,2021-12-23,L,Away W,True,140.0,23781
+Dallas Mavericks,Milwaukee Bucks,2.4,1.62,2021-12-23,L,Away W,True,62,23843
+Utah Jazz,Minnesota Timberwolves,1.08,8.75,2021-12-23,W,Home W,True,7,23850
+Denver Nuggets,Charlotte Hornets,-,-,2021-12-23,L,Away W,True,0,23850
+Phoenix Suns,Oklahoma City Thunder,1.07,9.0,2021-12-23,W,Home W,True,7,23857
+Golden State Warriors,Memphis Grizzlies,1.48,2.8,2021-12-23,W,Home W,True,47,23904
+Los Angeles Lakers,San Antonio Spurs,1.8,2.05,2021-12-23,L,Away W,True,105.0,24009
+New York Knicks,Atlanta Hawks,1.48,2.8,2021-12-25,W,Home W,True,47,24056
+Milwaukee Bucks,Boston Celtics,1.3,3.7,2021-12-25,W,Away W,False,-100,23956
+Phoenix Suns,Golden State Warriors,1.42,3.0,2021-12-25,L,Away W,True,200.0,24156
+Los Angeles Lakers,Brooklyn Nets,1.74,2.15,2021-12-25,L,Away W,True,115.0,24271
+Utah Jazz,Dallas Mavericks,1.1,7.5,2021-12-25,W,Away W,False,-100,24171
+Miami Heat,Orlando Magic,1.2,5.0,2021-12-26,W,Home W,True,20,24191
+Washington Wizards,Philadelphia 76ers,2.55,1.57,2021-12-26,L,Away W,True,57,24248
+Cleveland Cavaliers,Toronto Raptors,1.26,4.2,2021-12-26,W,Home W,True,26,24274
+Sacramento Kings,Memphis Grizzlies,2.2,1.71,2021-12-26,L,Away W,True,71,24345
+Oklahoma City Thunder,New Orleans Pelicans,2.05,1.8,2021-12-26,W,Home W,True,105.0,24450
+San Antonio Spurs,Detroit Pistons,1.18,5.25,2021-12-26,W,Home W,True,18,24468
+Chicago Bulls,Indiana Pacers,1.56,2.6,2021-12-26,W,Home W,True,55,24523
+LA Clippers,Denver Nuggets,-,-,2021-12-26,L,Away W,True,0,24523
+Charlotte Hornets,Houston Rockets,-,-,2021-12-27,W,Home W,True,0,24523
+Atlanta Hawks,Chicago Bulls,2.4,1.62,2021-12-27,L,Away W,True,62,24585
+Minnesota Timberwolves,Boston Celtics,2.85,1.47,2021-12-27,W,Away W,False,-100,24485
+San Antonio Spurs,Utah Jazz,3.4,1.36,2021-12-27,L,Away W,True,35,24520
+Portland Trail Blazers,Dallas Mavericks,1.67,2.3,2021-12-27,L,Away W,True,130.0,24650
+LA Clippers,Brooklyn Nets,-,-,2021-12-27,L,Away W,True,0,24650
+Orlando Magic,Milwaukee Bucks,9.0,1.07,2021-12-28,L,Away W,True,7,24657
+Toronto Raptors,Philadelphia 76ers,3.1,1.4,2021-12-28,L,Away W,True,40,24697
+Miami Heat,Washington Wizards,1.31,3.65,2021-12-28,W,Home W,True,31,24728
+Minnesota Timberwolves,New York Knicks,2.7,1.53,2021-12-28,L,Away W,True,52,24780
+Houston Rockets,Los Angeles Lakers,2.9,1.45,2021-12-28,L,Away W,True,45,24825
+New Orleans Pelicans,Cleveland Cavaliers,2.65,1.54,2021-12-28,W,Away W,False,-100,24725
+Golden State Warriors,Denver Nuggets,1.29,3.9,2021-12-28,L,Away W,True,290.0,25015
+Detroit Pistons,New York Knicks,3.8,1.29,2021-12-29,L,Away W,True,29,25044
+Indiana Pacers,Charlotte Hornets,-,-,2021-12-29,L,Away W,True,0,25044
+Boston Celtics,LA Clippers,-,-,2021-12-29,L,Away W,True,0,25044
+Memphis Grizzlies,Los Angeles Lakers,1.4,3.1,2021-12-29,W,Home W,True,40,25084
+Chicago Bulls,Atlanta Hawks,1.3,3.7,2021-12-29,W,Home W,True,30,25114
+Phoenix Suns,Oklahoma City Thunder,1.06,10.5,2021-12-29,W,Home W,True,5,25119
+Portland Trail Blazers,Utah Jazz,3.65,1.31,2021-12-29,L,Away W,True,31,25150
+Sacramento Kings,Dallas Mavericks,1.95,1.87,2021-12-29,W,Away W,False,-100,25050
+Brooklyn Nets,Philadelphia 76ers,1.5,2.75,2021-12-30,L,Away W,True,175.0,25225
+Washington Wizards,Cleveland Cavaliers,1.61,2.45,2021-12-30,W,Home W,True,60,25285
+Orlando Magic,Milwaukee Bucks,8.0,1.09,2021-12-30,L,Away W,True,9,25294
+Boston Celtics,Phoenix Suns,2.3,1.67,2021-12-31,W,Home W,True,130.0,25424
+Indiana Pacers,Chicago Bulls,2.15,1.74,2021-12-31,L,Away W,True,74,25498
+Sacramento Kings,Dallas Mavericks,1.95,1.87,2021-12-31,L,Away W,True,86,25584
+Houston Rockets,Miami Heat,2.7,1.53,2021-12-31,L,Away W,True,52,25636
+Cleveland Cavaliers,Atlanta Hawks,1.74,2.15,2021-12-31,L,Away W,True,115.0,25751
+Toronto Raptors,LA Clippers,-,-,2021-12-31,W,Home W,True,0,25751
+Memphis Grizzlies,San Antonio Spurs,1.45,2.9,2021-12-31,W,Home W,True,45,25796
+Utah Jazz,Minnesota Timberwolves,1.12,6.5,2021-12-31,W,Home W,True,12,25808
+Los Angeles Lakers,Portland Trail Blazers,1.43,2.95,2021-12-31,W,Home W,True,43,25851
+Toronto Raptors,New York Knicks,1.28,4.0,2022-01-02,W,Home W,True,27,25878
+Sacramento Kings,Miami Heat,2.45,1.61,2022-01-02,W,Away W,False,-100,25778
+Oklahoma City Thunder,Dallas Mavericks,5.0,1.2,2022-01-02,L,Away W,True,20,25798
+Charlotte Hornets,Phoenix Suns,-,-,2022-01-02,L,Away W,True,0,25798
+New Orleans Pelicans,Utah Jazz,4.3,1.25,2022-01-03,L,Away W,True,25,25823
+Golden State Warriors,Miami Heat,1.18,5.25,2022-01-03,W,Home W,True,18,25841
+Dallas Mavericks,Golden State Warriors,2.7,1.53,2022-01-05,W,Home W,True,170.0,26011
+Milwaukee Bucks,Toronto Raptors,1.77,2.1,2022-01-05,L,Away W,True,110.0,26121
+Denver Nuggets,Utah Jazz,1.91,1.91,2022-01-05,L,Away W,True,90,26211
+New Orleans Pelicans,Golden State Warriors,1.87,1.95,2022-01-06,W,Away W,False,-100,26111
+Philadelphia 76ers,San Antonio Spurs,1.29,3.8,2022-01-07,W,Home W,True,29,26140
+Houston Rockets,Dallas Mavericks,2.3,1.67,2022-01-07,L,Away W,True,66,26206
+Oklahoma City Thunder,Minnesota Timberwolves,2.65,1.54,2022-01-07,L,Away W,True,54,26260
+Portland Trail Blazers,Cleveland Cavaliers,3.0,1.42,2022-01-07,L,Away W,True,41,26301
+Detroit Pistons,Orlando Magic,1.83,2.0,2022-01-08,W,Home W,True,83,26384
+Boston Celtics,New York Knicks,1.32,3.6,2022-01-08,W,Home W,True,32,26416
+Houston Rockets,Minnesota Timberwolves,3.1,1.4,2022-01-09,L,Away W,True,40,26456
+Oklahoma City Thunder,Denver Nuggets,3.35,1.36,2022-01-09,L,Away W,True,36,26492
+Brooklyn Nets,San Antonio Spurs,1.2,5.0,2022-01-09,W,Home W,True,20,26512
+Golden State Warriors,Cleveland Cavaliers,1.34,3.45,2022-01-09,W,Home W,True,34,26546
+Portland Trail Blazers,Sacramento Kings,2.05,1.8,2022-01-09,W,Home W,True,105.0,26651
+Houston Rockets,Philadelphia 76ers,5.0,1.2,2022-01-10,L,Away W,True,20,26671
+Washington Wizards,Oklahoma City Thunder,1.38,3.2,2022-01-11,W,Home W,True,38,26709
+Toronto Raptors,Phoenix Suns,2.65,1.54,2022-01-11,L,Away W,True,54,26763
+New Orleans Pelicans,Minnesota Timberwolves,2.4,1.62,2022-01-11,W,Away W,False,-100,26663
+Washington Wizards,Orlando Magic,1.38,3.2,2022-01-12,W,Home W,True,38,26701
+San Antonio Spurs,Houston Rockets,1.36,3.4,2022-01-12,L,Away W,True,240.0,26941
+Memphis Grizzlies,Minnesota Timberwolves,1.69,2.25,2022-01-13,W,Home W,True,68,27009
+New Orleans Pelicans,LA Clippers,-,-,2022-01-13,W,Home W,True,0,27009
+Detroit Pistons,Toronto Raptors,4.4,1.24,2022-01-14,W,Home W,True,340.0,27349
+Indiana Pacers,Phoenix Suns,2.8,1.48,2022-01-14,L,Away W,True,47,27396
+Memphis Grizzlies,Dallas Mavericks,1.71,2.2,2022-01-14,L,Away W,True,120.0,27516
+Milwaukee Bucks,Toronto Raptors,1.29,3.8,2022-01-15,L,Away W,True,280.0,27796
+Brooklyn Nets,New Orleans Pelicans,1.5,2.75,2022-01-15,W,Home W,True,50,27846
+Oklahoma City Thunder,Cleveland Cavaliers,2.75,1.5,2022-01-15,L,Away W,True,50,27896
+Boston Celtics,Chicago Bulls,1.32,3.6,2022-01-15,W,Away W,False,-100,27796
+San Antonio Spurs,LA Clippers,-,-,2022-01-15,W,Home W,True,0,27796
+Sacramento Kings,Houston Rockets,1.54,2.65,2022-01-16,L,Away W,True,165.0,27961
+Minnesota Timberwolves,Golden State Warriors,1.53,2.7,2022-01-16,W,Home W,True,52,28013
+Detroit Pistons,Phoenix Suns,6.5,1.12,2022-01-16,L,Away W,True,12,28025
+Cleveland Cavaliers,Brooklyn Nets,1.62,2.4,2022-01-17,W,Home W,True,62,28087
+Miami Heat,Toronto Raptors,1.87,2.05,2022-01-17,W,Home W,True,86,28173
+Dallas Mavericks,Oklahoma City Thunder,1.12,6.5,2022-01-17,W,Home W,True,12,28185
+Golden State Warriors,Detroit Pistons,1.05,11.0,2022-01-18,W,Home W,True,5,28190
+Washington Wizards,Brooklyn Nets,1.87,1.95,2022-01-19,L,Away W,True,95,28285
+Philadelphia 76ers,Orlando Magic,1.12,6.75,2022-01-19,W,Home W,True,11,28296
+Miami Heat,Portland Trail Blazers,1.23,4.6,2022-01-19,W,Home W,True,23,28319
+Atlanta Hawks,Minnesota Timberwolves,1.8,2.05,2022-01-19,W,Home W,True,80,28399
+Chicago Bulls,Cleveland Cavaliers,2.4,1.62,2022-01-19,W,Home W,True,140.0,28539
+Milwaukee Bucks,Memphis Grizzlies,1.38,3.25,2022-01-19,W,Home W,True,37,28576
+Dallas Mavericks,Toronto Raptors,1.57,2.55,2022-01-19,W,Home W,True,57,28633
+San Antonio Spurs,Oklahoma City Thunder,1.36,3.4,2022-01-19,W,Home W,True,35,28668
+Sacramento Kings,Detroit Pistons,1.33,3.5,2022-01-19,L,Away W,True,250.0,28918
+Denver Nuggets,LA Clippers,-,-,2022-01-19,W,Away W,False,-100,28818
+New York Knicks,New Orleans Pelicans,1.62,2.4,2022-01-20,L,Away W,True,140.0,28958
+Dallas Mavericks,Phoenix Suns,2.1,1.77,2022-01-20,L,Away W,True,76,29034
+Philadelphia 76ers,LA Clippers,-,-,2022-01-21,L,Home W,False,-100,28934
+Milwaukee Bucks,Chicago Bulls,1.17,5.5,2022-01-21,W,Away W,False,-100,28834
+Utah Jazz,Detroit Pistons,1.08,8.5,2022-01-21,W,Home W,True,8,28842
+Denver Nuggets,Memphis Grizzlies,1.62,2.4,2022-01-21,L,Away W,True,140.0,28982
+New York Knicks,LA Clippers,-,-,2022-01-23,W,Home W,True,0,28982
+Washington Wizards,Boston Celtics,2.15,1.74,2022-01-23,L,Away W,True,74,29056
+Toronto Raptors,Portland Trail Blazers,1.29,3.8,2022-01-23,L,Away W,True,280.0,29336
+Dallas Mavericks,Memphis Grizzlies,1.59,2.5,2022-01-23,W,Home W,True,58,29394
+Denver Nuggets,Detroit Pistons,1.12,6.5,2022-01-23,W,Home W,True,12,29406
+Golden State Warriors,Utah Jazz,1.77,2.1,2022-01-23,W,Home W,True,76,29482
+Cleveland Cavaliers,New York Knicks,1.53,2.7,2022-01-24,W,Away W,False,-100,29382
+Oklahoma City Thunder,Chicago Bulls,1.91,1.91,2022-01-24,L,Away W,True,90,29472
+Washington Wizards,LA Clippers,-,-,2022-01-25,L,Away W,True,0,29472
+Detroit Pistons,Denver Nuggets,3.35,1.36,2022-01-25,L,Away W,True,36,29508
+Boston Celtics,Sacramento Kings,1.24,4.5,2022-01-25,W,Home W,True,23,29531
+Golden State Warriors,Dallas Mavericks,1.61,2.45,2022-01-25,W,Home W,True,60,29591
+Portland Trail Blazers,Minnesota Timberwolves,2.3,1.67,2022-01-25,L,Away W,True,66,29657
+Philadelphia 76ers,New Orleans Pelicans,1.15,5.75,2022-01-25,W,Home W,True,15,29672
+Orlando Magic,LA Clippers,-,-,2022-01-26,L,Away W,True,0,29672
+Cleveland Cavaliers,Milwaukee Bucks,2.6,1.56,2022-01-26,W,Home W,True,160.0,29832
+Atlanta Hawks,Sacramento Kings,1.18,5.25,2022-01-26,W,Home W,True,18,29850
+San Antonio Spurs,Memphis Grizzlies,2.5,1.59,2022-01-26,L,Away W,True,58,29908
+Portland Trail Blazers,Dallas Mavericks,2.6,1.56,2022-01-26,L,Away W,True,55,29963
+Golden State Warriors,Minnesota Timberwolves,1.42,3.0,2022-01-27,W,Home W,True,41,30004
+San Antonio Spurs,Chicago Bulls,1.77,2.1,2022-01-28,W,Home W,True,76,30080
+Milwaukee Bucks,New York Knicks,1.26,4.2,2022-01-28,W,Home W,True,26,30106
+New Orleans Pelicans,Denver Nuggets,2.45,1.61,2022-01-28,L,Away W,True,60,30166
+Chicago Bulls,Portland Trail Blazers,1.48,2.8,2022-01-30,W,Home W,True,47,30213
+Detroit Pistons,Cleveland Cavaliers,3.7,1.3,2022-01-30,W,Home W,True,270.0,30483
+Milwaukee Bucks,Denver Nuggets,1.4,3.1,2022-01-30,L,Away W,True,210.0,30693
+Orlando Magic,Dallas Mavericks,2.7,1.53,2022-01-30,W,Away W,False,-100,30593
+Phoenix Suns,San Antonio Spurs,1.1,7.5,2022-01-30,W,Home W,True,10,30603
+Cleveland Cavaliers,New Orleans Pelicans,1.53,2.7,2022-01-31,W,Home W,True,52,30655
+Philadelphia 76ers,Memphis Grizzlies,2.4,1.62,2022-01-31,W,Away W,False,-100,30555
+New York Knicks,Sacramento Kings,1.34,3.45,2022-01-31,W,Home W,True,34,30589
+Boston Celtics,Miami Heat,1.4,3.1,2022-01-31,W,Home W,True,40,30629
+Houston Rockets,Golden State Warriors,5.0,1.2,2022-01-31,L,Away W,True,20,30649
+Oklahoma City Thunder,Portland Trail Blazers,2.4,1.62,2022-01-31,W,Home W,True,140.0,30789
+Atlanta Hawks,Toronto Raptors,2.15,1.74,2022-01-31,L,Away W,True,74,30863
+Milwaukee Bucks,Washington Wizards,1.14,6.0,2022-02-01,W,Home W,True,14,30877
+Chicago Bulls,Orlando Magic,1.28,4.0,2022-02-01,W,Home W,True,27,30904
+San Antonio Spurs,Golden State Warriors,1.4,3.1,2022-02-01,L,Away W,True,210.0,31114
+Phoenix Suns,Brooklyn Nets,1.36,3.4,2022-02-01,W,Home W,True,35,31149
+Toronto Raptors,Miami Heat,1.8,2.05,2022-02-01,W,Home W,True,80,31229
+Philadelphia 76ers,Washington Wizards,1.18,5.25,2022-02-02,L,Home W,False,-100,31129
+Indiana Pacers,Orlando Magic,1.61,2.45,2022-02-02,L,Away W,True,145.0,31274
+New York Knicks,Memphis Grizzlies,2.5,1.59,2022-02-02,L,Away W,True,58,31332
+Dallas Mavericks,Oklahoma City Thunder,1.12,6.5,2022-02-02,L,Home W,False,-100,31232
+Sacramento Kings,Brooklyn Nets,2.8,1.48,2022-02-02,W,Home W,True,180.0,31412
+Los Angeles Lakers,Portland Trail Blazers,1.57,2.55,2022-02-02,W,Home W,True,57,31469
+Detroit Pistons,Minnesota Timberwolves,3.5,1.33,2022-02-03,L,Away W,True,33,31502
+Atlanta Hawks,Phoenix Suns,2.35,1.65,2022-02-03,W,Home W,True,135.0,31637
+Toronto Raptors,Chicago Bulls,1.53,2.7,2022-02-03,W,Home W,True,52,31689
+Indiana Pacers,Chicago Bulls,1.95,1.87,2022-02-04,L,Away W,True,86,31775
+Toronto Raptors,Atlanta Hawks,1.77,2.1,2022-02-04,W,Home W,True,76,31851
+Dallas Mavericks,Philadelphia 76ers,2.05,1.8,2022-02-04,W,Home W,True,105.0,31956
+Denver Nuggets,New Orleans Pelicans,1.43,2.95,2022-02-04,L,Away W,True,195.0,32151
+Orlando Magic,Memphis Grizzlies,4.0,1.28,2022-02-05,L,Away W,True,27,32178
+Washington Wizards,Phoenix Suns,3.7,1.3,2022-02-05,L,Away W,True,30,32208
+Los Angeles Lakers,New York Knicks,1.48,2.8,2022-02-05,W,Home W,True,47,32255
+Minnesota Timberwolves,Detroit Pistons,1.11,7.0,2022-02-06,W,Home W,True,11,32266
+Chicago Bulls,Philadelphia 76ers,2.5,1.59,2022-02-06,L,Away W,True,58,32324
+Dallas Mavericks,Atlanta Hawks,2.0,1.83,2022-02-06,W,Home W,True,100.0,32424
+Orlando Magic,Boston Celtics,4.6,1.23,2022-02-06,L,Away W,True,23,32447
+Houston Rockets,New Orleans Pelicans,3.3,1.37,2022-02-06,L,Away W,True,37,32484
+New Orleans Pelicans,Houston Rockets,1.25,4.3,2022-02-08,W,Home W,True,25,32509
+Memphis Grizzlies,LA Clippers,-,-,2022-02-08,W,Home W,True,0,32509
+Sacramento Kings,Minnesota Timberwolves,3.7,1.3,2022-02-09,W,Home W,True,270.0,32779
+Utah Jazz,Golden State Warriors,1.83,2.0,2022-02-09,W,Home W,True,83,32862
+Washington Wizards,Brooklyn Nets,1.87,1.95,2022-02-10,W,Away W,False,-100,32762
+New Orleans Pelicans,Miami Heat,2.55,1.57,2022-02-10,L,Away W,True,57,32819
+Houston Rockets,Toronto Raptors,3.65,1.31,2022-02-10,L,Away W,True,31,32850
+Phoenix Suns,Milwaukee Bucks,1.65,2.35,2022-02-10,W,Home W,True,64,32914
+Philadelphia 76ers,Oklahoma City Thunder,1.09,8.0,2022-02-11,W,Home W,True,9,32923
+Boston Celtics,Denver Nuggets,1.4,3.1,2022-02-11,W,Home W,True,40,32963
+Toronto Raptors,Denver Nuggets,1.48,2.8,2022-02-12,L,Away W,True,180.0,33143
+Miami Heat,Brooklyn Nets,1.14,6.0,2022-02-12,W,Home W,True,14,33157
+Dallas Mavericks,LA Clippers,-,-,2022-02-12,L,Away W,True,0,33157
+New Orleans Pelicans,Toronto Raptors,2.45,1.61,2022-02-14,W,Home W,True,145.0,33302
+Chicago Bulls,San Antonio Spurs,1.67,2.3,2022-02-14,W,Home W,True,66,33368
+Denver Nuggets,Orlando Magic,1.15,5.75,2022-02-14,W,Home W,True,15,33383
+Philadelphia 76ers,Boston Celtics,2.1,1.77,2022-02-15,L,Away W,True,76,33459
+Miami Heat,Dallas Mavericks,1.48,2.8,2022-02-15,L,Away W,True,180.0,33639
+Atlanta Hawks,Cleveland Cavaliers,1.71,2.2,2022-02-15,W,Home W,True,71,33710
+Phoenix Suns,LA Clippers,-,-,2022-02-15,W,Home W,True,0,33710
+New York Knicks,Brooklyn Nets,1.53,2.7,2022-02-16,L,Away W,True,170.0,33880
+Boston Celtics,Detroit Pistons,1.11,7.0,2022-02-16,L,Home W,False,-100,33780
+Chicago Bulls,Sacramento Kings,1.42,3.0,2022-02-16,W,Home W,True,41,33821
+Oklahoma City Thunder,San Antonio Spurs,3.8,1.29,2022-02-16,L,Away W,True,29,33850
+Phoenix Suns,Houston Rockets,1.05,11.0,2022-02-16,W,Home W,True,5,33855
+Golden State Warriors,Denver Nuggets,1.5,2.75,2022-02-16,L,Away W,True,175.0,34030
+New Orleans Pelicans,Dallas Mavericks,2.2,1.71,2022-02-17,L,Away W,True,71,34101
+LA Clippers,Houston Rockets,-,-,2022-02-17,W,Home W,True,0,34101
+Brooklyn Nets,Boston Celtics,4.3,1.25,2022-02-24,L,Away W,True,25,34126
+Oklahoma City Thunder,Phoenix Suns,5.5,1.17,2022-02-24,L,Away W,True,16,34142
+Minnesota Timberwolves,Philadelphia 76ers,2.2,1.71,2022-02-25,L,Away W,True,71,34213
+Los Angeles Lakers,LA Clippers,-,-,2022-02-25,L,Away W,True,0,34213
+Miami Heat,San Antonio Spurs,1.11,7.0,2022-02-26,W,Away W,False,-100,34113
+Milwaukee Bucks,Brooklyn Nets,1.2,5.0,2022-02-26,L,Home W,False,-100,34013
+Denver Nuggets,Sacramento Kings,1.29,3.9,2022-02-26,W,Home W,True,28,34041
+New York Knicks,Philadelphia 76ers,3.8,1.29,2022-02-27,L,Away W,True,29,34070
+Phoenix Suns,Utah Jazz,2.3,1.67,2022-02-27,L,Away W,True,66,34136
+Indiana Pacers,Boston Celtics,4.5,1.24,2022-02-27,W,Home W,True,350.0,34486
+Orlando Magic,Indiana Pacers,1.71,2.2,2022-02-28,W,Home W,True,71,34557
+Miami Heat,Chicago Bulls,1.53,2.7,2022-02-28,W,Home W,True,52,34609
+Memphis Grizzlies,San Antonio Spurs,1.26,4.2,2022-02-28,W,Home W,True,26,34635
+Houston Rockets,LA Clippers,-,-,2022-03-01,L,Away W,True,0,34635
+Orlando Magic,Indiana Pacers,2.1,1.77,2022-03-02,L,Away W,True,76,34711
+Philadelphia 76ers,New York Knicks,1.17,5.5,2022-03-02,W,Home W,True,16,34727
+Houston Rockets,Utah Jazz,9.5,1.07,2022-03-02,L,Away W,True,6,34733
+Detroit Pistons,Indiana Pacers,2.2,1.71,2022-03-04,W,Home W,True,120.0,34853
+Chicago Bulls,Milwaukee Bucks,2.75,1.5,2022-03-04,L,Away W,True,50,34903
+Toronto Raptors,Orlando Magic,1.32,3.6,2022-03-04,L,Away W,True,260.0,35163
+Oklahoma City Thunder,Minnesota Timberwolves,4.5,1.24,2022-03-04,L,Away W,True,23,35186
+Denver Nuggets,Houston Rockets,1.22,4.75,2022-03-04,W,Home W,True,22,35208
+Dallas Mavericks,Sacramento Kings,1.54,2.65,2022-03-05,W,Away W,False,-100,35108
+Memphis Grizzlies,Orlando Magic,1.06,10.0,2022-03-05,W,Home W,True,6,35114
+Miami Heat,Philadelphia 76ers,1.5,2.75,2022-03-05,W,Home W,True,50,35164
+Boston Celtics,Brooklyn Nets,1.45,2.9,2022-03-06,W,Home W,True,45,35209
+Milwaukee Bucks,Phoenix Suns,1.22,4.75,2022-03-06,W,Home W,True,22,35231
+Oklahoma City Thunder,Utah Jazz,8.5,1.08,2022-03-06,L,Away W,True,8,35239
+Cleveland Cavaliers,Toronto Raptors,1.5,2.75,2022-03-06,W,Home W,True,50,35289
+Philadelphia 76ers,Chicago Bulls,1.3,3.7,2022-03-07,W,Home W,True,30,35319
+Miami Heat,Houston Rockets,1.04,12.0,2022-03-07,W,Home W,True,4,35323
+Dallas Mavericks,Utah Jazz,1.95,1.87,2022-03-07,W,Home W,True,95,35418
+Sacramento Kings,New York Knicks,1.59,2.5,2022-03-07,L,Away W,True,150.0,35568
+Orlando Magic,Phoenix Suns,3.05,1.41,2022-03-08,L,Away W,True,40,35608
+Indiana Pacers,Cleveland Cavaliers,2.25,1.69,2022-03-08,L,Away W,True,68,35676
+Memphis Grizzlies,New Orleans Pelicans,1.3,3.7,2022-03-08,W,Home W,True,30,35706
+Oklahoma City Thunder,Milwaukee Bucks,8.0,1.09,2022-03-08,L,Away W,True,9,35715
+Detroit Pistons,Chicago Bulls,3.15,1.39,2022-03-09,L,Away W,True,39,35754
+Miami Heat,Phoenix Suns,1.56,2.6,2022-03-09,L,Home W,False,-100,35654
+Milwaukee Bucks,Atlanta Hawks,1.54,2.65,2022-03-09,W,Home W,True,54,35708
+New Orleans Pelicans,Orlando Magic,1.28,4.0,2022-03-09,L,Away W,True,300.0,36008
+Dallas Mavericks,New York Knicks,1.25,4.3,2022-03-09,L,Away W,True,330.0,36338
+Sacramento Kings,Denver Nuggets,3.2,1.38,2022-03-09,L,Away W,True,38,36376
+LA Clippers,Washington Wizards,-,-,2022-03-09,W,Home W,True,0,36376
+Denver Nuggets,Golden State Warriors,2.05,1.8,2022-03-10,L,Away W,True,80,36456
+Memphis Grizzlies,New York Knicks,1.24,4.4,2022-03-11,W,Home W,True,24,36480
+Miami Heat,Cleveland Cavaliers,1.29,3.8,2022-03-11,W,Home W,True,29,36509
+Phoenix Suns,Toronto Raptors,1.48,2.8,2022-03-11,L,Away W,True,180.0,36689
+San Antonio Spurs,Indiana Pacers,1.77,2.1,2022-03-12,L,Away W,True,110.0,36799
+Miami Heat,Minnesota Timberwolves,1.61,2.45,2022-03-12,L,Away W,True,145.0,36944
+Chicago Bulls,Cleveland Cavaliers,1.53,2.7,2022-03-12,W,Home W,True,52,36996
+Utah Jazz,Sacramento Kings,1.25,4.3,2022-03-12,W,Home W,True,25,37021
+Denver Nuggets,Toronto Raptors,1.36,3.35,2022-03-12,L,Away W,True,235.0,37256
+Brooklyn Nets,New York Knicks,1.42,3.0,2022-03-13,W,Away W,False,-100,37156
+Boston Celtics,Dallas Mavericks,1.36,3.4,2022-03-13,L,Away W,True,240.0,37396
+Orlando Magic,Philadelphia 76ers,6.0,1.14,2022-03-13,L,Away W,True,14,37410
+Oklahoma City Thunder,Memphis Grizzlies,9.0,1.07,2022-03-13,L,Away W,True,7,37417
+Phoenix Suns,Los Angeles Lakers,1.3,3.7,2022-03-13,W,Home W,True,30,37447
+Cleveland Cavaliers,LA Clippers,-,-,2022-03-14,W,Home W,True,0,37447
+Philadelphia 76ers,Denver Nuggets,1.61,2.45,2022-03-14,L,Away W,True,145.0,37592
+San Antonio Spurs,Minnesota Timberwolves,2.45,1.61,2022-03-14,L,Away W,True,60,37652
+Orlando Magic,Brooklyn Nets,5.0,1.2,2022-03-15,L,Away W,True,20,37672
+Miami Heat,Detroit Pistons,1.09,8.0,2022-03-15,W,Home W,True,9,37681
+Washington Wizards,Denver Nuggets,3.4,1.36,2022-03-16,L,Away W,True,35,37716
+Cleveland Cavaliers,Philadelphia 76ers,2.5,1.59,2022-03-16,L,Away W,True,58,37774
+Brooklyn Nets,Dallas Mavericks,2.35,1.65,2022-03-16,L,Away W,True,64,37838
+Houston Rockets,Phoenix Suns,5.25,1.18,2022-03-16,L,Away W,True,18,37856
+Utah Jazz,Chicago Bulls,1.37,3.3,2022-03-16,W,Home W,True,37,37893
+Sacramento Kings,Milwaukee Bucks,4.3,1.25,2022-03-16,L,Away W,True,25,37918
+Golden State Warriors,Boston Celtics,1.8,2.05,2022-03-16,L,Away W,True,105.0,38023
+Orlando Magic,Detroit Pistons,1.69,2.25,2022-03-17,L,Away W,True,125.0,38148
+Philadelphia 76ers,Dallas Mavericks,1.54,2.65,2022-03-18,W,Home W,True,54,38202
+Cleveland Cavaliers,Denver Nuggets,2.25,1.69,2022-03-18,W,Home W,True,125.0,38327
+Houston Rockets,Indiana Pacers,2.45,1.61,2022-03-18,L,Away W,True,60,38387
+Miami Heat,Oklahoma City Thunder,1.06,10.0,2022-03-18,W,Home W,True,6,38393
+San Antonio Spurs,New Orleans Pelicans,1.77,2.1,2022-03-18,L,Away W,True,110.0,38503
+Utah Jazz,LA Clippers,-,-,2022-03-18,W,Home W,True,0,38503
+Sacramento Kings,Boston Celtics,5.25,1.18,2022-03-18,L,Away W,True,18,38521
+Phoenix Suns,Chicago Bulls,1.53,2.7,2022-03-18,W,Home W,True,52,38573
+Cleveland Cavaliers,Detroit Pistons,1.43,2.95,2022-03-19,W,Home W,True,42,38615
+Washington Wizards,Los Angeles Lakers,2.0,1.83,2022-03-19,W,Home W,True,100.0,38715
+Sacramento Kings,Phoenix Suns,3.9,1.29,2022-03-20,L,Away W,True,28,38743
+Orlando Magic,Oklahoma City Thunder,1.29,3.9,2022-03-20,W,Away W,False,-100,38643
+New York Knicks,Utah Jazz,2.4,1.62,2022-03-20,L,Away W,True,62,38705
+Denver Nuggets,Boston Celtics,2.25,1.69,2022-03-20,L,Away W,True,68,38773
+Golden State Warriors,San Antonio Spurs,1.38,3.25,2022-03-20,L,Away W,True,225.0,38998
+Philadelphia 76ers,Toronto Raptors,1.29,3.9,2022-03-20,L,Away W,True,290.0,39288
+Philadelphia 76ers,Miami Heat,3.7,1.3,2022-03-21,W,Home W,True,270.0,39558
+Chicago Bulls,Toronto Raptors,1.61,2.45,2022-03-21,W,Home W,True,60,39618
+Oklahoma City Thunder,Boston Celtics,8.0,1.09,2022-03-21,L,Away W,True,9,39627
+Milwaukee Bucks,Chicago Bulls,1.38,3.25,2022-03-22,W,Home W,True,37,39664
+Denver Nuggets,LA Clippers,-,-,2022-03-22,W,Home W,True,0,39664
+Miami Heat,Golden State Warriors,1.2,5.0,2022-03-23,L,Away W,True,400.0,40064
+Memphis Grizzlies,Brooklyn Nets,1.91,1.91,2022-03-23,W,Home W,True,90,40154
+Boston Celtics,Utah Jazz,1.5,2.75,2022-03-23,W,Home W,True,50,40204
+Oklahoma City Thunder,Orlando Magic,2.1,1.77,2022-03-23,W,Home W,True,110.0,40314
+Minnesota Timberwolves,Phoenix Suns,1.8,2.05,2022-03-23,L,Away W,True,105.0,40419
+Dallas Mavericks,Houston Rockets,1.2,5.0,2022-03-23,W,Home W,True,20,40439
+Milwaukee Bucks,Washington Wizards,1.25,4.3,2022-03-24,W,Home W,True,25,40464
+Denver Nuggets,Phoenix Suns,1.87,1.95,2022-03-24,L,Away W,True,95,40559
+Detroit Pistons,Washington Wizards,1.59,2.5,2022-03-25,L,Away W,True,150.0,40709
+Atlanta Hawks,Golden State Warriors,1.77,2.1,2022-03-25,W,Home W,True,76,40785
+Minnesota Timberwolves,Dallas Mavericks,1.61,2.45,2022-03-25,W,Home W,True,60,40845
+Miami Heat,Brooklyn Nets,2.2,1.71,2022-03-26,L,Away W,True,71,40916
+Cleveland Cavaliers,Chicago Bulls,1.77,2.1,2022-03-26,L,Away W,True,110.0,41026
+Denver Nuggets,Oklahoma City Thunder,1.06,10.5,2022-03-26,W,Home W,True,5,41031
+Boston Celtics,Minnesota Timberwolves,1.4,3.1,2022-03-27,W,Home W,True,40,41071
+Phoenix Suns,Philadelphia 76ers,1.54,2.65,2022-03-27,W,Home W,True,54,41125
+Cleveland Cavaliers,Orlando Magic,1.25,4.3,2022-03-28,W,Home W,True,25,41150
+Miami Heat,Sacramento Kings,1.07,9.0,2022-03-28,W,Home W,True,7,41157
+New York Knicks,Chicago Bulls,2.45,1.61,2022-03-28,W,Home W,True,145.0,41302
+Philadelphia 76ers,Milwaukee Bucks,1.91,1.91,2022-03-29,L,Away W,True,90,41392
+Washington Wizards,Orlando Magic,1.61,2.45,2022-03-30,W,Home W,True,60,41452
+Toronto Raptors,Minnesota Timberwolves,1.71,2.2,2022-03-30,W,Home W,True,71,41523
+Boston Celtics,Miami Heat,1.5,2.75,2022-03-30,L,Away W,True,175.0,41698
+Houston Rockets,Sacramento Kings,2.3,1.67,2022-03-30,L,Away W,True,66,41764
+San Antonio Spurs,Memphis Grizzlies,2.75,1.5,2022-03-30,L,Away W,True,50,41814
+Golden State Warriors,Phoenix Suns,2.75,1.5,2022-03-30,L,Away W,True,50,41864
+Detroit Pistons,Philadelphia 76ers,4.75,1.22,2022-03-31,W,Away W,False,-100,41764
+Brooklyn Nets,Milwaukee Bucks,1.8,2.05,2022-03-31,L,Away W,True,105.0,41869
+Atlanta Hawks,Cleveland Cavaliers,1.39,3.15,2022-03-31,W,Home W,True,39,41908
+Chicago Bulls,LA Clippers,-,-,2022-03-31,W,Home W,True,0,41908
+Houston Rockets,Sacramento Kings,2.4,1.62,2022-04-01,L,Away W,True,62,41970
+Milwaukee Bucks,LA Clippers,-,-,2022-04-01,L,Home W,False,-100,41870
+Oklahoma City Thunder,Detroit Pistons,2.6,1.56,2022-04-01,L,Away W,True,55,41925
+Memphis Grizzlies,Phoenix Suns,3.65,1.31,2022-04-01,W,Home W,True,265.0,42190
+Atlanta Hawks,Brooklyn Nets,2.15,1.74,2022-04-02,W,Home W,True,115.0,42305
+Chicago Bulls,Miami Heat,2.2,1.71,2022-04-02,L,Away W,True,71,42376
+Milwaukee Bucks,Dallas Mavericks,1.36,3.4,2022-04-03,L,Away W,True,240.0,42616
+Boston Celtics,Washington Wizards,1.08,8.5,2022-04-03,W,Home W,True,8,42624
+Houston Rockets,Minnesota Timberwolves,8.5,1.08,2022-04-03,L,Away W,True,8,42632
+Sacramento Kings,Golden State Warriors,2.65,1.54,2022-04-03,L,Away W,True,54,42686
+Minnesota Timberwolves,Washington Wizards,1.13,6.25,2022-04-05,L,Home W,False,-100,42586
+Chicago Bulls,Milwaukee Bucks,3.35,1.36,2022-04-05,L,Away W,True,36,42622
+Utah Jazz,Memphis Grizzlies,1.42,3.0,2022-04-05,W,Home W,True,41,42663
+Atlanta Hawks,Washington Wizards,1.18,5.25,2022-04-06,W,Home W,True,18,42681
+Chicago Bulls,Boston Celtics,3.45,1.34,2022-04-06,L,Away W,True,34,42715
+Milwaukee Bucks,Boston Celtics,1.28,4.0,2022-04-07,W,Home W,True,27,42742
+Toronto Raptors,Philadelphia 76ers,2.35,1.65,2022-04-07,W,Home W,True,135.0,42877
+Minnesota Timberwolves,San Antonio Spurs,1.36,3.4,2022-04-07,W,Home W,True,35,42912
+Denver Nuggets,Memphis Grizzlies,1.56,2.6,2022-04-07,W,Home W,True,55,42967
+Detroit Pistons,Milwaukee Bucks,5.0,1.2,2022-04-08,L,Away W,True,20,42987
+Washington Wizards,New York Knicks,2.45,1.61,2022-04-08,L,Away W,True,60,43047
+Toronto Raptors,Houston Rockets,1.14,6.0,2022-04-08,W,Home W,True,14,43061
+Philadelphia 76ers,Indiana Pacers,1.09,8.0,2022-04-09,W,Home W,True,9,43070
+LA Clippers,Sacramento Kings,-,-,2022-04-09,W,Home W,True,0,43070
+Memphis Grizzlies,Boston Celtics,4.3,1.25,2022-04-10,L,Away W,True,25,43095
+New York Knicks,Toronto Raptors,1.91,1.91,2022-04-10,W,Home W,True,90,43185
+Brooklyn Nets,Indiana Pacers,1.05,11.0,2022-04-10,W,Home W,True,5,43190
+Cleveland Cavaliers,Milwaukee Bucks,1.26,4.2,2022-04-10,W,Home W,True,26,43216
+New Orleans Pelicans,Golden State Warriors,3.4,1.36,2022-04-10,L,Away W,True,35,43251
+Philadelphia 76ers,Detroit Pistons,1.39,3.15,2022-04-10,W,Home W,True,39,43290
+LA Clippers,New Orleans Pelicans,-,-,2022-04-15,L,Away W,True,0,43290
+Memphis Grizzlies,Minnesota Timberwolves,1.38,3.25,2022-04-16,L,Away W,True,225.0,43515
+Boston Celtics,Brooklyn Nets,1.59,2.5,2022-04-17,W,Away W,False,-100,43415
+Philadelphia 76ers,Toronto Raptors,1.32,3.6,2022-04-18,W,Home W,True,32,43447
+Dallas Mavericks,Utah Jazz,2.8,1.48,2022-04-18,W,Home W,True,180.0,43627
+Golden State Warriors,Denver Nuggets,1.34,3.45,2022-04-18,W,Home W,True,34,43661
+Memphis Grizzlies,Minnesota Timberwolves,1.36,3.4,2022-04-19,W,Home W,True,35,43696
+Phoenix Suns,New Orleans Pelicans,1.18,5.25,2022-04-19,L,Home W,False,-100,43596
+Boston Celtics,Brooklyn Nets,1.65,2.35,2022-04-20,W,Home W,True,64,43660
+Toronto Raptors,Philadelphia 76ers,2.1,1.77,2022-04-20,L,Away W,True,76,43736
+Milwaukee Bucks,Chicago Bulls,1.2,5.0,2022-04-20,L,Away W,True,400.0,44136

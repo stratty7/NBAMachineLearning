@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>NBA Machine Learning Picks</title>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {}
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-gray-900">
+    <main class="relative isolate">
+        <section class="mx-auto max-w-30xl px-4 sm:px-6 lg:px-8">
+            <h1 class="py-8 text-left text-4xl font-medium text-white">NBA Model History: Accuracy {{data.get("model")}}</h1>
+            <button  class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800" type="button" onclick="window.location.href='history-ml-2018';">2018 ML History</button>
+            <button  class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800" type="button" onclick="window.location.href='history-ml-2019';">2019 ML History</button>
+            <button  class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800" type="button" onclick="window.location.href='history-ml-2020';">2020 ML History</button>
+            <button  class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800" type="button" onclick="window.location.href='history-ml-2021';">2021 ML History</button>
+            <button  class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"  type="button" onclick="window.location.href='history-ml-2022';">2022 ML History</button>
+            <button  class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"  type="button" onclick="window.location.href='history-ml-2023';">2023 ML History</button>
+            <button  class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"  type="button" onclick="window.location.href='history-spread-2020';">2020 Spread History</button>
+            <button  class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"  type="button" onclick="window.location.href='history-spread-2021';">2021 Spread History</button>
+            <button  class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"  type="button" onclick="window.location.href='history-spread-2022';">2022 Spread History</button>
+                        <button  class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800" type="button" onclick="window.location.href='history-ou-2018';">2018 OU History</button>
+            <button  class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800" type="button" onclick="window.location.href='history-ou-2019';">2019 OU History</button>
+            <button  class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800" type="button" onclick="window.location.href='history-ou-2020';">2020 OU History</button>
+            <button  class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800" type="button" onclick="window.location.href='history-ou-2021';">2021 OU History</button>
+            <button  class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"  type="button" onclick="window.location.href='history-ou-2022';">2022 OU History</button>
+            <button  class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800"  type="button" onclick="window.location.href='/';">Predictions</button>
+            <section class="mx-auto flex bg-white/5 px-6 md:px-8 py-6 ring-1 ring-white/10 sm:rounded-3xl lg:mx-0 lg:max-w-none lg:flex-row lg:items-center xl:gap-x-20">
+                <table role="grid" class="min-w-full divide-y divide-gray-700">
+                    <thead>
+                        <tr>
+                            <th class="py-2.5 text-left text-base font-semibold text-white">Home Team</th>
+                            <th class="py-2.5 text-left text-base font-semibold text-white">Away Team</th>
+                            <th class="py-2.5 text-left text-base font-semibold text-white">Home Odds</th>
+                            <th class="py-2.5 text-left text-base font-semibold text-white">Away Odds</th>
+                            <th class="py-2.5 text-left text-base font-semibold text-white">Data</th>
+                            <th class="py-2.5 text-left text-base font-semibold text-white">Result</th>
+                            <th class="py-2.5 text-left text-base font-semibold text-white">Prediction</th>
+                            <th class="py-2.5 text-left text-base font-semibold text-white">Correct</th>
+                            <th class="py-2.5 text-left text-base font-semibold text-white">Bet Result</th>
+                            <th class="py-2.5 text-left text-base font-semibold text-white">Total</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-gray-700">
+                            {% for row in data.get("rows")  %}
+                            <tr>
+                                <td class="relative isolate text-white">
+                                  {{row["Home Team"]}}
+                                </td>
+                                <td class="relative isolate text-white">
+                                  {{row["Away Team"]}}
+                                </td>
+                               <td class="relative isolate text-white">
+                                  {{row["Home Odds"]}}
+                                </td>
+                               <td class="relative isolate text-white">
+                                  {{row["Away Odds"]}}
+                                </td>
+                                <td class="relative isolate text-white">
+                                  {{row["Date"]}}
+                                </td>
+                                <td class="relative isolate text-white">
+                                  {{row["Result"]}}
+                                </td>
+                                <td class="relative isolate text-white">
+                                  {{row["Prediction"]}}
+                                </td>
+                                <td class="relative isolate text-white">
+                                  {{row["Correct?"]}}
+                                </td>
+                                {% if row["Bet Result"]| int > 0 %}
+                                    <td class="relative isolate" style="color: green;">
+                                      ${{row["Bet Result"]}}
+                                    </td>
+                                {% else %}
+                                    <td class="relative isolate" style="color: red;">
+                                      ${{row["Bet Result"]}}
+                                    </td>
+
+                                {% endif %}
+                                <td class="relative isolate text-white">
+                                  ${{row["Total"]}}
+                                </td>
+                            </tr>
+                            {% endfor %}
+                    </tbody>
+                </table>
+            </section>
+        </section>
+
+        <div class="absolute inset-x-0 -top-16 -z-10 flex transform-gpu justify-center overflow-hidden blur-3xl" aria-hidden="true">
+            <div class="aspect-[1318/752] w-[82.375rem] flex-none bg-gradient-to-r from-[#80caff] to-[#4f46e5] opacity-15" style="clip-path: polygon(73.6% 51.7%, 91.7% 11.8%, 100% 46.4%, 97.4% 82.2%, 92.5% 84.9%, 75.7% 64%, 55.3% 47.5%, 46.5% 49.4%, 45% 62.9%, 50.3% 87.2%, 21.3% 64.1%, 0.1% 100%, 5.4% 51.1%, 21.4% 63.9%, 58.9% 0.2%, 73.6% 51.7%)"></div>
+        </div>
+        <div class="absolute inset-x-0 -bottom-24 -z-10 flex transform-gpu justify-center overflow-hidden blur-3xl" aria-hidden="true">
+            <div class="aspect-[1318/752] w-[82.375rem] flex-none rotate-180 bg-gradient-to-r from-[#80caff] to-[#4f46e5] opacity-15" style="clip-path: polygon(73.6% 51.7%, 91.7% 11.8%, 100% 46.4%, 97.4% 82.2%, 92.5% 84.9%, 75.7% 64%, 55.3% 47.5%, 46.5% 49.4%, 45% 62.9%, 50.3% 87.2%, 21.3% 64.1%, 0.1% 100%, 5.4% 51.1%, 21.4% 63.9%, 58.9% 0.2%, 73.6% 51.7%)"></div>
+        </div>
+    </main>
+    <script>
+        function perc2color(perc, min, max) {
+            var base = (max - min);
+            if (base == 0) {
+                perc = 100;
+            } else {
+                perc = (perc - min) / base * 100;
+            }
+
+            var colorClass = "rose-600";
+
+            if (perc < 50) {
+                colorClass = "red-500";
+            } else if (perc >= 50 && perc <= 54){
+                colorClass = "red-500";
+            } else if (perc >= 55 && perc <= 59){
+                colorClass = "orange-500";
+            } else if (perc >= 60 && perc <= 64){
+                colorClass = "blue-500";
+            } else if (perc >= 65 && perc <= 69){
+                colorClass = "indigo-500";
+            } else if (perc >= 70 && perc <= 74){
+                colorClass = "teal-500";
+            } else if (perc >= 75 && perc <= 80){
+                colorClass = "emerald-500";
+            } else {
+                colorClass = "green-500";
+            }
+            return colorClass;
+        }
+        function parsePerc(perc){
+            return parseFloat(perc);
+        }
+
+        function evScale(val) {
+            var colorClass = "rose-600";
+            if (val < -15) {
+                colorClass = "red-500";
+            } else if (val <= 0){
+                colorClass = "orange-500";
+            } else if (val >= 0 && val <= 5){
+                colorClass = "emerald-500";
+            } else if (val >= 5.01){
+                colorClass = "green-500";
+            }
+            return colorClass;
+        }
+
+        evs = document.getElementsByClassName("ev-value")
+        evconfs = document.getElementsByClassName("ev-confidence-value")
+        ous = document.getElementsByClassName("ou-confidence")
+        for (var i = 0; i < evs.length; i++) {
+            evs[i].classList.add('text-' + evScale(evs[i].textContent))
+        }
+        for (var i = 0; i < evconfs.length; i++) {
+            evconfs[i].classList.add('text-' + perc2color(parsePerc(evconfs[i].textContent), 0, 100))
+        }
+        for (var i = 0; i < ous.length; i++) {
+            ous[i].classList.add('text-' + perc2color(parsePerc(ous[i].textContent), 0, 100))
+        }
+    </script>
+</body>
+</html>

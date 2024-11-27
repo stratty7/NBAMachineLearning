@@ -1,0 +1,525 @@
+Home Team,Away Team,Date,Result,Prediction,Correct?,Bet Result,Total,spread
+Charlotte Hornets,New Orleans Pelicans,2022-10-21,W,1,True,72,72,-7.0
+Washington Wizards,Chicago Bulls,2022-10-21,L,1,False,-100,-28,1.5
+Indiana Pacers,San Antonio Spurs,2022-10-21,L,1,False,-100,-128,-3.5
+New York Knicks,Detroit Pistons,2022-10-21,L,1,False,-100,-228,7.5
+Brooklyn Nets,Toronto Raptors,2022-10-21,L,1,False,-100,-328,2.5
+Atlanta Hawks,Orlando Magic,2022-10-21,W,0,False,0,-328,9.5
+Miami Heat,Boston Celtics,2022-10-21,W,1,True,83,-245,-3.5
+Minnesota Timberwolves,Utah Jazz,2022-10-21,W,1,True,120.0,-125.0,8.0
+Houston Rockets,Memphis Grizzlies,2022-10-21,W,1,True,80,-45.0,-7.0
+Golden State Warriors,Denver Nuggets,2022-10-21,W,1,True,115.0,70.0,4.5
+Portland Trail Blazers,Phoenix Suns,2022-10-21,L,1,False,-100,-30.0,-5.0
+Philadelphia 76ers,San Antonio Spurs,2022-10-22,W,1,True,90,60.0,13.5
+Indiana Pacers,Detroit Pistons,2022-10-22,L,1,False,-100,-40.0,1.0
+Orlando Magic,Boston Celtics,2022-10-22,L,1,False,-100,-140.0,-9.0
+Milwaukee Bucks,Houston Rockets,2022-10-22,W,0,False,0,-140.0,13.0
+Miami Heat,Toronto Raptors,2022-10-22,W,1,True,83,-57.0,3.0
+Chicago Bulls,Cleveland Cavaliers,2022-10-22,W,1,True,125.0,68.0,-1.0
+Dallas Mavericks,Memphis Grizzlies,2022-10-22,L,1,False,-100,-32.0,6.0
+Denver Nuggets,Oklahoma City Thunder,2022-10-22,W,1,True,110.0,78.0,8.5
+Sacramento Kings,LA Clippers,2022-10-22,-,1,False,0,78.0,0
+Los Angeles Lakers,Portland Trail Blazers,2022-10-23,W,1,True,80,158.0,6.5
+Atlanta Hawks,Charlotte Hornets,2022-10-23,W,1,True,115.0,273.0,10.0
+Cleveland Cavaliers,Washington Wizards,2022-10-23,L,1,False,-100,173.0,-1.5
+New Orleans Pelicans,Utah Jazz,2022-10-23,W,1,True,80,253.0,8.5
+Oklahoma City Thunder,Minnesota Timberwolves,2022-10-23,W,1,True,83,336.0,-10.0
+Golden State Warriors,Sacramento Kings,2022-10-23,W,1,True,83,419.0,10.0
+LA Clippers,Phoenix Suns,2022-10-23,-,1,False,0,419.0,0
+Philadelphia 76ers,Indiana Pacers,2022-10-24,L,1,False,-100,319.0,12.5
+Miami Heat,Toronto Raptors,2022-10-24,W,1,True,100.0,419.0,3.5
+New York Knicks,Orlando Magic,2022-10-24,W,0,False,0,419.0,7.5
+Houston Rockets,Utah Jazz,2022-10-24,L,1,False,-100,319.0,-2.5
+Memphis Grizzlies,Brooklyn Nets,2022-10-24,L,1,False,-100,219.0,1.5
+Minnesota Timberwolves,San Antonio Spurs,2022-10-24,W,1,True,72,291.0,7.5
+Chicago Bulls,Boston Celtics,2022-10-24,L,1,False,-100,191.0,-10.5
+Portland Trail Blazers,Denver Nuggets,2022-10-24,W,0,False,0,191.0,-4.5
+Washington Wizards,Detroit Pistons,2022-10-25,W,0,False,0,191.0,4.5
+New Orleans Pelicans,Dallas Mavericks,2022-10-25,L,1,False,-100,91.0,-2.5
+Oklahoma City Thunder,LA Clippers,2022-10-25,-,1,False,0,91.0,0
+Phoenix Suns,Golden State Warriors,2022-10-25,L,1,False,-100,-9.0,1.5
+Cleveland Cavaliers,Orlando Magic,2022-10-26,L,1,False,-100,-109.0,8.5
+Detroit Pistons,Atlanta Hawks,2022-10-26,L,1,False,-100,-209.0,-7.5
+Milwaukee Bucks,Brooklyn Nets,2022-10-26,W,0,False,0,-209.0,3.5
+New York Knicks,Charlotte Hornets,2022-10-26,W,1,True,120.0,-89.0,7.5
+Toronto Raptors,Philadelphia 76ers,2022-10-26,L,1,False,-100,-189.0,-2.5
+Chicago Bulls,Indiana Pacers,2022-10-26,W,0,False,0,-189.0,7.0
+Minnesota Timberwolves,San Antonio Spurs,2022-10-26,L,1,False,-100,-289.0,9.5
+Utah Jazz,Houston Rockets,2022-10-26,W,1,True,72,-217.0,9.5
+Denver Nuggets,Los Angeles Lakers,2022-10-26,L,1,False,-100,-317.0,4.5
+Portland Trail Blazers,Miami Heat,2022-10-26,W,1,True,83,-234.0,1.5
+Brooklyn Nets,Dallas Mavericks,2022-10-27,W,1,True,83,-151.0,-3.0
+Oklahoma City Thunder,LA Clippers,2022-10-27,-,1,False,0,-151.0,0
+Sacramento Kings,Memphis Grizzlies,2022-10-27,W,1,True,83,-68.0,4.5
+Golden State Warriors,Miami Heat,2022-10-27,W,0,False,0,-68.0,6.0
+Detroit Pistons,Atlanta Hawks,2022-10-28,W,1,True,115.0,47.0,-6.0
+Orlando Magic,Charlotte Hornets,2022-10-28,L,1,False,-100,-53.0,-1.5
+Washington Wizards,Indiana Pacers,2022-10-28,W,1,True,125.0,72.0,5.0
+Toronto Raptors,Philadelphia 76ers,2022-10-28,W,1,True,72,144.0,4.5
+Boston Celtics,Cleveland Cavaliers,2022-10-28,W,1,True,72,216.0,6.5
+Milwaukee Bucks,New York Knicks,2022-10-28,W,0,False,0,216.0,6.5
+Minnesota Timberwolves,Los Angeles Lakers,2022-10-28,W,0,False,0,216.0,8.5
+San Antonio Spurs,Chicago Bulls,2022-10-28,L,1,False,-100,116.0,-4.5
+Denver Nuggets,Utah Jazz,2022-10-28,L,1,False,-100,16.0,7.5
+Portland Trail Blazers,Houston Rockets,2022-10-28,W,0,False,0,16.0,4.5
+Phoenix Suns,New Orleans Pelicans,2022-10-28,L,1,False,-100,-84.0,8.5
+Sacramento Kings,Miami Heat,2022-10-29,L,1,False,-100,-184.0,-4.0
+Charlotte Hornets,Golden State Warriors,2022-10-29,L,1,False,-100,-284.0,-10.0
+Brooklyn Nets,Indiana Pacers,2022-10-29,W,1,True,105.0,-179.0,11.5
+Chicago Bulls,Philadelphia 76ers,2022-10-29,W,1,True,105.0,-74.0,-2.5
+Milwaukee Bucks,Atlanta Hawks,2022-10-29,L,1,False,-100,-174.0,5.5
+Dallas Mavericks,Oklahoma City Thunder,2022-10-29,W,1,True,83,-91.0,10.5
+Utah Jazz,Memphis Grizzlies,2022-10-29,L,1,False,-100,-191.0,-3.5
+LA Clippers,New Orleans Pelicans,2022-10-30,-,1,False,0,-191.0,0
+Detroit Pistons,Golden State Warriors,2022-10-30,L,1,False,-100,-291.0,-7.5
+San Antonio Spurs,Minnesota Timberwolves,2022-10-30,L,1,False,-100,-391.0,-7.0
+Dallas Mavericks,Orlando Magic,2022-10-30,W,1,True,100.0,-291.0,9.0
+Phoenix Suns,Houston Rockets,2022-10-30,L,1,False,-100,-391.0,13.0
+Los Angeles Lakers,Denver Nuggets,2022-10-30,L,1,False,-100,-491.0,-2.5
+Washington Wizards,Philadelphia 76ers,2022-10-31,W,1,True,80,-411.0,-2.5
+Charlotte Hornets,Sacramento Kings,2022-10-31,W,1,True,125.0,-286.0,-3.5
+Brooklyn Nets,Indiana Pacers,2022-10-31,W,1,True,105.0,-181.0,8.0
+Toronto Raptors,Atlanta Hawks,2022-10-31,L,1,False,-100,-281.0,2.0
+Milwaukee Bucks,Detroit Pistons,2022-10-31,W,1,True,100.0,-181.0,12.5
+Utah Jazz,Memphis Grizzlies,2022-10-31,L,1,False,-100,-281.0,-3.5
+LA Clippers,Houston Rockets,2022-10-31,-,1,False,0,-281.0,0
+Brooklyn Nets,Chicago Bulls,2022-11-01,W,1,True,83,-198.0,2.0
+Miami Heat,Golden State Warriors,2022-11-01,L,1,False,-100,-298.0,1.0
+Oklahoma City Thunder,Orlando Magic,2022-11-01,W,0,False,0,-298.0,3.5
+Phoenix Suns,Minnesota Timberwolves,2022-11-01,W,0,False,0,-298.0,4.0
+Philadelphia 76ers,Washington Wizards,2022-11-02,W,1,True,120.0,-178.0,5.5
+New York Knicks,Atlanta Hawks,2022-11-02,W,1,True,115.0,-63.0,2.5
+Miami Heat,Sacramento Kings,2022-11-02,W,1,True,83,20.0,4.5
+Cleveland Cavaliers,Boston Celtics,2022-11-02,L,1,False,-100,-80.0,-1.5
+Houston Rockets,LA Clippers,2022-11-02,-,1,False,0,-80.0,0
+Milwaukee Bucks,Detroit Pistons,2022-11-02,W,0,False,0,-80.0,11.5
+San Antonio Spurs,Toronto Raptors,2022-11-02,W,1,True,80,0.0,-6.5
+Chicago Bulls,Charlotte Hornets,2022-11-02,W,0,False,0,0.0,6.5
+Dallas Mavericks,Utah Jazz,2022-11-02,W,1,True,80,80.0,6.5
+Portland Trail Blazers,Memphis Grizzlies,2022-11-02,W,0,False,0,80.0,-5.5
+Los Angeles Lakers,New Orleans Pelicans,2022-11-02,L,1,False,-100,-20.0,-2.5
+Orlando Magic,Golden State Warriors,2022-11-03,L,1,False,-100,-120.0,-9.5
+Oklahoma City Thunder,Denver Nuggets,2022-11-03,W,1,True,115.0,-5.0,-6.5
+Detroit Pistons,Cleveland Cavaliers,2022-11-04,W,1,True,105.0,100.0,-4.0
+Washington Wizards,Brooklyn Nets,2022-11-04,W,1,True,110.0,210.0,3.0
+Philadelphia 76ers,New York Knicks,2022-11-04,W,1,True,72,282.0,1.5
+Indiana Pacers,Miami Heat,2022-11-04,L,1,False,-100,182.0,-3.0
+Boston Celtics,Chicago Bulls,2022-11-04,W,1,True,115.0,297.0,7.5
+San Antonio Spurs,LA Clippers,2022-11-04,-,1,False,0,297.0,0
+Memphis Grizzlies,Charlotte Hornets,2022-11-04,L,1,False,-100,197.0,11.5
+Dallas Mavericks,Toronto Raptors,2022-11-04,W,1,True,90,287.0,4.0
+New Orleans Pelicans,Golden State Warriors,2022-11-04,W,1,True,110.0,397.0,10.5
+Phoenix Suns,Portland Trail Blazers,2022-11-04,W,1,True,83,480.0,12.0
+Minnesota Timberwolves,Milwaukee Bucks,2022-11-04,W,1,True,115.0,595.0,-2.0
+Los Angeles Lakers,Utah Jazz,2022-11-04,W,1,True,110.0,705.0,3.0
+Orlando Magic,Sacramento Kings,2022-11-05,L,1,False,-100,605.0,-4.5
+Charlotte Hornets,Brooklyn Nets,2022-11-05,W,1,True,83,688.0,-3.5
+New York Knicks,Boston Celtics,2022-11-05,W,1,True,115.0,803.0,-4.0
+Atlanta Hawks,New Orleans Pelicans,2022-11-05,W,0,False,0,803.0,1.5
+Milwaukee Bucks,Oklahoma City Thunder,2022-11-05,W,0,False,0,803.0,5.5
+Minnesota Timberwolves,Houston Rockets,2022-11-05,W,0,False,0,803.0,7.5
+Denver Nuggets,San Antonio Spurs,2022-11-05,W,0,False,0,803.0,12.0
+Phoenix Suns,Portland Trail Blazers,2022-11-05,L,1,False,-100,703.0,12.0
+Los Angeles Lakers,Cleveland Cavaliers,2022-11-06,W,1,True,83,786.0,-5.5
+Toronto Raptors,Chicago Bulls,2022-11-06,L,1,False,-100,686.0,4.0
+Memphis Grizzlies,Washington Wizards,2022-11-06,W,1,True,105.0,791.0,9.5
+LA Clippers,Utah Jazz,2022-11-06,-,1,False,0,791.0,0
+Charlotte Hornets,Washington Wizards,2022-11-07,W,1,True,100.0,891.0,2.5
+Orlando Magic,Houston Rockets,2022-11-07,W,1,True,90,981.0,0.5
+Detroit Pistons,Oklahoma City Thunder,2022-11-07,L,1,False,-100,881.0,-4.5
+Indiana Pacers,New Orleans Pelicans,2022-11-07,L,1,False,-100,781.0,-1.5
+Philadelphia 76ers,Phoenix Suns,2022-11-07,L,1,False,-100,681.0,5.5
+Atlanta Hawks,Milwaukee Bucks,2022-11-07,L,1,False,-100,581.0,3.5
+Miami Heat,Portland Trail Blazers,2022-11-07,W,1,True,80,661.0,11.5
+Chicago Bulls,Toronto Raptors,2022-11-07,L,1,False,-100,561.0,12.5
+Memphis Grizzlies,Boston Celtics,2022-11-07,W,1,True,115.0,676.0,1.5
+Minnesota Timberwolves,New York Knicks,2022-11-07,W,0,False,0,676.0,-16.5
+San Antonio Spurs,Denver Nuggets,2022-11-07,L,1,False,-100,576.0,-10.5
+Dallas Mavericks,Brooklyn Nets,2022-11-07,L,0,True,0,576.0,3.5
+Golden State Warriors,Sacramento Kings,2022-11-07,L,1,False,-100,476.0,-2.5
+Utah Jazz,Los Angeles Lakers,2022-11-07,L,1,False,-100,376.0,8.5
+LA Clippers,Cleveland Cavaliers,2022-11-07,-,1,False,0,376.0,0
+Orlando Magic,Dallas Mavericks,2022-11-09,L,1,False,-100,276.0,-8.5
+Indiana Pacers,Denver Nuggets,2022-11-09,L,1,False,-100,176.0,-4.5
+Charlotte Hornets,Portland Trail Blazers,2022-11-09,W,1,True,115.0,291.0,-1.5
+Boston Celtics,Detroit Pistons,2022-11-09,W,0,False,0,291.0,13.0
+Toronto Raptors,Houston Rockets,2022-11-09,W,1,True,83,374.0,10.0
+Atlanta Hawks,Utah Jazz,2022-11-09,W,1,True,100.0,474.0,4.5
+Brooklyn Nets,New York Knicks,2022-11-09,L,1,False,-100,374.0,3.5
+Oklahoma City Thunder,Milwaukee Bucks,2022-11-09,W,1,True,100.0,474.0,-1.5
+Minnesota Timberwolves,Phoenix Suns,2022-11-09,W,1,True,115.0,589.0,1.5
+Chicago Bulls,New Orleans Pelicans,2022-11-09,W,1,True,120.0,709.0,-2.0
+San Antonio Spurs,Memphis Grizzlies,2022-11-09,L,1,False,-100,609.0,-5.5
+Sacramento Kings,Cleveland Cavaliers,2022-11-09,L,1,False,-100,509.0,-4.5
+LA Clippers,Los Angeles Lakers,2022-11-09,-,1,False,0,509.0,0
+Washington Wizards,Dallas Mavericks,2022-11-10,L,1,False,-100,409.0,-6.0
+Atlanta Hawks,Philadelphia 76ers,2022-11-10,W,0,False,0,409.0,1.0
+Miami Heat,Charlotte Hornets,2022-11-10,W,1,True,120.0,529.0,10.5
+New Orleans Pelicans,Portland Trail Blazers,2022-11-10,W,1,True,72,601.0,10.0
+Orlando Magic,Phoenix Suns,2022-11-11,L,1,False,-100,501.0,-7.5
+Boston Celtics,Denver Nuggets,2022-11-11,L,1,False,-100,401.0,4.0
+New York Knicks,Detroit Pistons,2022-11-11,W,1,True,125.0,526.0,9.5
+Oklahoma City Thunder,Toronto Raptors,2022-11-11,L,1,False,-100,426.0,-5.5
+San Antonio Spurs,Milwaukee Bucks,2022-11-11,L,1,False,-100,326.0,2.0
+Memphis Grizzlies,Minnesota Timberwolves,2022-11-11,L,1,False,-100,226.0,4.5
+Golden State Warriors,Cleveland Cavaliers,2022-11-11,L,1,False,-100,126.0,3.0
+Los Angeles Lakers,Sacramento Kings,2022-11-11,W,1,True,90,216.0,-4.5
+LA Clippers,Brooklyn Nets,2022-11-12,-,1,False,0,216.0,0
+Washington Wizards,Utah Jazz,2022-11-12,L,1,False,-100,116.0,-4.0
+Indiana Pacers,Toronto Raptors,2022-11-12,L,1,False,-100,16.0,3.0
+Detroit Pistons,Boston Celtics,2022-11-12,W,1,True,110.0,126.0,-9.0
+Philadelphia 76ers,Atlanta Hawks,2022-11-12,L,1,False,-100,26.0,2.5
+Miami Heat,Charlotte Hornets,2022-11-12,L,1,False,-100,-74.0,8.5
+New Orleans Pelicans,Houston Rockets,2022-11-12,L,1,False,-100,-174.0,10.5
+Dallas Mavericks,Portland Trail Blazers,2022-11-12,W,1,True,83,-91.0,7.0
+New York Knicks,Oklahoma City Thunder,2022-11-13,W,1,True,80,-11.0,5.5
+Washington Wizards,Memphis Grizzlies,2022-11-13,L,1,False,-100,-111.0,0.5
+Cleveland Cavaliers,Minnesota Timberwolves,2022-11-13,W,1,True,83,-28.0,1.0
+Philadelphia 76ers,Utah Jazz,2022-11-13,L,1,False,-100,-128.0,3.5
+Chicago Bulls,Denver Nuggets,2022-11-13,W,1,True,90,-38.0,-1.5
+Sacramento Kings,Golden State Warriors,2022-11-13,L,1,False,-100,-138.0,-4.0
+Los Angeles Lakers,Brooklyn Nets,2022-11-13,L,1,False,-100,-238.0,-5.0
+Orlando Magic,Charlotte Hornets,2022-11-14,W,1,True,100.0,-138.0,-1.5
+Detroit Pistons,Toronto Raptors,2022-11-14,W,1,True,90,-48.0,-3.5
+Boston Celtics,Oklahoma City Thunder,2022-11-14,W,1,True,115.0,67.0,11.5
+Miami Heat,Phoenix Suns,2022-11-14,W,1,True,83,150.0,2.5
+Milwaukee Bucks,Atlanta Hawks,2022-11-14,W,1,True,115.0,265.0,4.0
+Houston Rockets,LA Clippers,2022-11-14,-,1,False,0,265.0,0
+Golden State Warriors,San Antonio Spurs,2022-11-14,L,1,False,-100,165.0,9.0
+New Orleans Pelicans,Memphis Grizzlies,2022-11-15,L,1,False,-100,65.0,1.5
+Dallas Mavericks,LA Clippers,2022-11-15,-,1,False,0,65.0,0
+Utah Jazz,New York Knicks,2022-11-15,W,1,True,83,148.0,4.0
+Sacramento Kings,Brooklyn Nets,2022-11-15,W,0,False,0,148.0,1.5
+Portland Trail Blazers,San Antonio Spurs,2022-11-15,W,1,True,120.0,268.0,8.5
+Orlando Magic,Minnesota Timberwolves,2022-11-16,W,1,True,115.0,383.0,-8.0
+Washington Wizards,Oklahoma City Thunder,2022-11-16,W,1,True,105.0,488.0,5.0
+Charlotte Hornets,Indiana Pacers,2022-11-16,W,1,True,120.0,608.0,-1.0
+Toronto Raptors,Miami Heat,2022-11-16,W,0,False,0,608.0,3.0
+Atlanta Hawks,Boston Celtics,2022-11-16,W,1,True,105.0,713.0,-1.0
+Milwaukee Bucks,Cleveland Cavaliers,2022-11-16,L,1,False,-100,613.0,2.5
+New Orleans Pelicans,Chicago Bulls,2022-11-16,L,1,False,-100,513.0,1.5
+Dallas Mavericks,Houston Rockets,2022-11-16,L,0,True,0,513.0,6.5
+Phoenix Suns,Golden State Warriors,2022-11-16,L,1,False,-100,413.0,-2.5
+Denver Nuggets,New York Knicks,2022-11-16,W,1,True,120.0,533.0,2.5
+Sacramento Kings,San Antonio Spurs,2022-11-17,W,0,False,0,533.0,7.0
+Portland Trail Blazers,Brooklyn Nets,2022-11-17,W,1,True,115.0,648.0,3.0
+LA Clippers,Detroit Pistons,2022-11-17,-,1,False,0,648.0,0
+Washington Wizards,Miami Heat,2022-11-18,W,1,True,83,731.0,8.0
+Cleveland Cavaliers,Charlotte Hornets,2022-11-18,W,1,True,83,814.0,11.5
+Philadelphia 76ers,Milwaukee Bucks,2022-11-18,W,0,False,0,814.0,-3.5
+Memphis Grizzlies,Oklahoma City Thunder,2022-11-18,L,1,False,-100,714.0,6.5
+Houston Rockets,Indiana Pacers,2022-11-18,W,1,True,105.0,819.0,-5.5
+Chicago Bulls,Orlando Magic,2022-11-18,W,1,True,90,909.0,8.5
+Dallas Mavericks,Denver Nuggets,2022-11-18,L,1,False,-100,809.0,9.5
+New Orleans Pelicans,Boston Celtics,2022-11-18,W,1,True,120.0,929.0,-5.5
+Utah Jazz,Phoenix Suns,2022-11-18,W,1,True,90,1019.0,4.5
+Golden State Warriors,New York Knicks,2022-11-18,L,1,False,-100,919.0,7.5
+Los Angeles Lakers,Detroit Pistons,2022-11-18,W,0,False,0,919.0,6.5
+Atlanta Hawks,Toronto Raptors,2022-11-19,W,1,True,110.0,1029.0,5.5
+Indiana Pacers,Orlando Magic,2022-11-19,W,1,True,83,1112.0,4.5
+Philadelphia 76ers,Minnesota Timberwolves,2022-11-19,W,0,False,0,1112.0,-3.5
+Portland Trail Blazers,Utah Jazz,2022-11-19,W,1,True,125.0,1237.0,4.5
+LA Clippers,San Antonio Spurs,2022-11-19,-,1,False,0,1237.0,0
+Phoenix Suns,New York Knicks,2022-11-20,L,1,False,-100,1137.0,6.0
+Washington Wizards,Charlotte Hornets,2022-11-20,W,1,True,115.0,1252.0,5.0
+Sacramento Kings,Detroit Pistons,2022-11-20,W,1,True,100.0,1352.0,10.5
+Brooklyn Nets,Memphis Grizzlies,2022-11-20,W,0,False,0,1352.0,7.5
+Cleveland Cavaliers,Miami Heat,2022-11-20,W,0,False,0,1352.0,7.0
+Houston Rockets,Golden State Warriors,2022-11-20,L,1,False,-100,1252.0,-10.5
+Dallas Mavericks,Denver Nuggets,2022-11-20,W,1,True,83,1335.0,10.5
+Los Angeles Lakers,San Antonio Spurs,2022-11-20,L,1,False,-100,1235.0,6.5
+Indiana Pacers,Orlando Magic,2022-11-21,W,0,False,0,1235.0,7.0
+Cleveland Cavaliers,Atlanta Hawks,2022-11-21,W,0,False,0,1235.0,3.5
+Chicago Bulls,Boston Celtics,2022-11-21,L,1,False,-100,1135.0,-5.5
+Oklahoma City Thunder,New York Knicks,2022-11-21,W,1,True,90,1225.0,2.0
+Milwaukee Bucks,Portland Trail Blazers,2022-11-21,W,1,True,90,1315.0,10.0
+New Orleans Pelicans,Golden State Warriors,2022-11-21,L,1,False,-100,1215.0,11.0
+Minnesota Timberwolves,Miami Heat,2022-11-21,W,1,True,90,1305.0,8.5
+LA Clippers,Utah Jazz,2022-11-21,-,1,False,0,1305.0,0
+Philadelphia 76ers,Brooklyn Nets,2022-11-22,W,0,False,0,1305.0,-8.0
+Memphis Grizzlies,Sacramento Kings,2022-11-22,W,1,True,110.0,1415.0,2.5
+Denver Nuggets,Detroit Pistons,2022-11-22,W,1,True,110.0,1525.0,11.5
+Phoenix Suns,Los Angeles Lakers,2022-11-22,L,1,False,-100,1425.0,9.5
+Charlotte Hornets,Philadelphia 76ers,2022-11-23,L,1,False,-100,1325.0,4.0
+Cleveland Cavaliers,Portland Trail Blazers,2022-11-23,L,1,False,-100,1225.0,7.0
+Indiana Pacers,Minnesota Timberwolves,2022-11-23,W,1,True,83,1308.0,-4.5
+Toronto Raptors,Brooklyn Nets,2022-11-23,W,1,True,80,1388.0,-2.5
+Atlanta Hawks,Sacramento Kings,2022-11-23,L,1,False,-100,1288.0,4.5
+Miami Heat,Washington Wizards,2022-11-23,L,1,False,-100,1188.0,5.0
+Boston Celtics,Dallas Mavericks,2022-11-23,W,0,False,0,1188.0,6.0
+Milwaukee Bucks,Chicago Bulls,2022-11-23,W,1,True,83,1271.0,7.5
+Oklahoma City Thunder,Denver Nuggets,2022-11-23,W,1,True,72,1343.0,-1.0
+San Antonio Spurs,New Orleans Pelicans,2022-11-23,W,1,True,105.0,1448.0,-5.5
+Utah Jazz,Detroit Pistons,2022-11-23,W,1,True,80,1528.0,11.5
+Golden State Warriors,LA Clippers,2022-11-23,-,1,False,0,1528.0,0
+Charlotte Hornets,Minnesota Timberwolves,2022-11-25,L,1,False,-100,1428.0,-6.5
+Orlando Magic,Philadelphia 76ers,2022-11-25,W,1,True,100.0,1528.0,1.5
+New York Knicks,Portland Trail Blazers,2022-11-25,W,1,True,80,1608.0,4.0
+Milwaukee Bucks,Cleveland Cavaliers,2022-11-25,L,1,False,-100,1508.0,4.0
+Memphis Grizzlies,New Orleans Pelicans,2022-11-25,L,1,False,-100,1408.0,2.5
+Houston Rockets,Atlanta Hawks,2022-11-25,L,1,False,-100,1308.0,-7.0
+Indiana Pacers,Brooklyn Nets,2022-11-25,L,1,False,-100,1208.0,-3.5
+San Antonio Spurs,Los Angeles Lakers,2022-11-25,W,1,True,90,1298.0,-4.0
+Boston Celtics,Sacramento Kings,2022-11-25,W,0,False,0,1298.0,7.5
+Miami Heat,Washington Wizards,2022-11-25,W,1,True,72,1370.0,3.0
+Oklahoma City Thunder,Chicago Bulls,2022-11-25,L,1,False,-100,1270.0,-3.0
+Phoenix Suns,Detroit Pistons,2022-11-25,W,1,True,83,1353.0,10.5
+Golden State Warriors,Utah Jazz,2022-11-25,L,1,False,-100,1253.0,8.0
+LA Clippers,Denver Nuggets,2022-11-25,-,1,False,0,1253.0,0
+Toronto Raptors,Dallas Mavericks,2022-11-26,L,1,False,-100,1153.0,-2.5
+San Antonio Spurs,Los Angeles Lakers,2022-11-26,W,1,True,115.0,1268.0,1.0
+Phoenix Suns,Utah Jazz,2022-11-26,W,1,True,115.0,1383.0,6.5
+Brooklyn Nets,Portland Trail Blazers,2022-11-27,W,0,False,0,1383.0,7.5
+Minnesota Timberwolves,Golden State Warriors,2022-11-27,W,1,True,100.0,1483.0,-1.5
+LA Clippers,Indiana Pacers,2022-11-27,-,1,False,0,1483.0,0
+Detroit Pistons,Cleveland Cavaliers,2022-11-27,W,1,True,72,1555.0,-8.0
+Boston Celtics,Washington Wizards,2022-11-27,W,0,False,0,1555.0,8.0
+New York Knicks,Memphis Grizzlies,2022-11-27,W,1,True,110.0,1665.0,-1.5
+Orlando Magic,Philadelphia 76ers,2022-11-27,W,1,True,90,1755.0,-1.0
+Milwaukee Bucks,Dallas Mavericks,2022-11-27,W,0,False,0,1755.0,6.0
+Washington Wizards,Minnesota Timberwolves,2022-11-28,W,0,False,0,1755.0,4.5
+Philadelphia 76ers,Atlanta Hawks,2022-11-28,W,0,False,0,1755.0,2.5
+Brooklyn Nets,Orlando Magic,2022-11-28,W,1,True,125.0,1880.0,8.5
+Boston Celtics,Charlotte Hornets,2022-11-28,W,0,False,0,1880.0,11.0
+Toronto Raptors,Cleveland Cavaliers,2022-11-28,L,1,False,-100,1780.0,5.0
+New Orleans Pelicans,Oklahoma City Thunder,2022-11-28,W,1,True,125.0,1905.0,5.5
+Denver Nuggets,Houston Rockets,2022-11-28,W,0,False,0,1905.0,11.0
+Utah Jazz,Chicago Bulls,2022-11-28,W,1,True,80,1985.0,2.0
+Sacramento Kings,Phoenix Suns,2022-11-28,W,1,True,83,2068.0,-1.0
+Los Angeles Lakers,Indiana Pacers,2022-11-28,W,1,True,72,2140.0,3.5
+Detroit Pistons,New York Knicks,2022-11-29,W,1,True,80,2220.0,-4.5
+Dallas Mavericks,Golden State Warriors,2022-11-29,L,1,False,-100,2120.0,1.0
+Portland Trail Blazers,LA Clippers,2022-11-29,-,1,False,0,2120.0,0
+Orlando Magic,Atlanta Hawks,2022-11-30,W,1,True,80,2200.0,-6.5
+Cleveland Cavaliers,Philadelphia 76ers,2022-11-30,L,1,False,-100,2100.0,4.0
+New York Knicks,Milwaukee Bucks,2022-11-30,W,1,True,115.0,2215.0,-4.5
+Brooklyn Nets,Washington Wizards,2022-11-30,W,1,True,105.0,2320.0,7.5
+Boston Celtics,Miami Heat,2022-11-30,W,0,False,0,2320.0,12.5
+New Orleans Pelicans,Toronto Raptors,2022-11-30,W,0,False,0,2320.0,6.5
+Oklahoma City Thunder,San Antonio Spurs,2022-11-30,L,1,False,-100,2220.0,-1.5
+Minnesota Timberwolves,Memphis Grizzlies,2022-11-30,L,1,False,-100,2120.0,-2.5
+Denver Nuggets,Houston Rockets,2022-11-30,W,1,True,125.0,2245.0,21.5
+Phoenix Suns,Chicago Bulls,2022-11-30,W,0,False,0,2245.0,8.5
+Utah Jazz,LA Clippers,2022-11-30,-,1,False,0,2245.0,0
+Sacramento Kings,Indiana Pacers,2022-11-30,W,0,False,0,2245.0,4.5
+Los Angeles Lakers,Portland Trail Blazers,2022-11-30,L,1,False,-100,2145.0,6.0
+Detroit Pistons,Dallas Mavericks,2022-12-01,L,1,False,-100,2045.0,-8.0
+Charlotte Hornets,Washington Wizards,2022-12-02,L,1,False,-100,1945.0,-4.0
+Cleveland Cavaliers,Orlando Magic,2022-12-02,W,1,True,80,2025.0,11.5
+Atlanta Hawks,Denver Nuggets,2022-12-02,L,1,False,-100,1925.0,0.5
+Boston Celtics,Miami Heat,2022-12-02,W,1,True,90,2015.0,5.5
+Brooklyn Nets,Toronto Raptors,2022-12-02,W,1,True,100.0,2115.0,10.5
+Milwaukee Bucks,Los Angeles Lakers,2022-12-02,L,0,True,0,2115.0,7.5
+San Antonio Spurs,New Orleans Pelicans,2022-12-02,W,1,True,83,2198.0,-7.5
+Memphis Grizzlies,Philadelphia 76ers,2022-12-02,W,0,False,0,2198.0,6.5
+Phoenix Suns,Houston Rockets,2022-12-02,W,1,True,90,2288.0,11.5
+Utah Jazz,Indiana Pacers,2022-12-02,L,1,False,-100,2188.0,4.0
+Golden State Warriors,Chicago Bulls,2022-12-02,W,0,False,0,2188.0,7.5
+New York Knicks,Dallas Mavericks,2022-12-03,W,1,True,90,2278.0,-1.0
+LA Clippers,Sacramento Kings,2022-12-03,-,1,False,0,2278.0,0
+Charlotte Hornets,Milwaukee Bucks,2022-12-03,W,1,True,110.0,2388.0,-1.5
+Toronto Raptors,Orlando Magic,2022-12-03,L,1,False,-100,2288.0,11.5
+Minnesota Timberwolves,Oklahoma City Thunder,2022-12-03,W,1,True,125.0,2413.0,5.0
+Golden State Warriors,Houston Rockets,2022-12-03,W,0,False,0,2413.0,11.5
+Utah Jazz,Portland Trail Blazers,2022-12-03,W,1,True,115.0,2528.0,5.0
+New Orleans Pelicans,Denver Nuggets,2022-12-04,L,1,False,-100,2428.0,2.0
+San Antonio Spurs,Phoenix Suns,2022-12-04,W,1,True,120.0,2548.0,-10.0
+Brooklyn Nets,Boston Celtics,2022-12-04,W,1,True,90,2638.0,-2.5
+Washington Wizards,Los Angeles Lakers,2022-12-04,W,1,True,80,2718.0,2.0
+Sacramento Kings,Chicago Bulls,2022-12-04,W,0,False,0,2718.0,3.0
+New York Knicks,Cleveland Cavaliers,2022-12-04,L,1,False,-100,2618.0,-3.0
+Detroit Pistons,Memphis Grizzlies,2022-12-04,W,1,True,90,2708.0,-6.5
+Portland Trail Blazers,Indiana Pacers,2022-12-04,L,1,False,-100,2608.0,5.5
+Orlando Magic,Milwaukee Bucks,2022-12-05,L,1,False,-100,2508.0,-10.5
+Charlotte Hornets,LA Clippers,2022-12-05,-,1,False,0,2508.0,0
+Toronto Raptors,Boston Celtics,2022-12-05,W,1,True,83,2591.0,1.5
+Atlanta Hawks,Oklahoma City Thunder,2022-12-05,W,1,True,115.0,2706.0,6.5
+Houston Rockets,Philadelphia 76ers,2022-12-05,L,1,False,-100,2606.0,-8.0
+Memphis Grizzlies,Miami Heat,2022-12-05,W,0,False,0,2606.0,-5.5
+Dallas Mavericks,Phoenix Suns,2022-12-05,L,1,False,-100,2506.0,3.5
+Golden State Warriors,Indiana Pacers,2022-12-05,W,1,True,125.0,2631.0,12.5
+Cleveland Cavaliers,Los Angeles Lakers,2022-12-06,L,1,False,-100,2531.0,5.5
+Miami Heat,Detroit Pistons,2022-12-06,W,1,True,120.0,2651.0,9.5
+Denver Nuggets,Dallas Mavericks,2022-12-06,W,1,True,90,2741.0,4.5
+Orlando Magic,LA Clippers,2022-12-07,-,1,False,0,2741.0,0
+New York Knicks,Atlanta Hawks,2022-12-07,L,1,False,-100,2641.0,2.0
+Toronto Raptors,Los Angeles Lakers,2022-12-07,W,0,False,0,2641.0,12.5
+Brooklyn Nets,Charlotte Hornets,2022-12-07,L,0,True,0,2641.0,10.5
+New Orleans Pelicans,Detroit Pistons,2022-12-07,L,0,True,0,2641.0,11.0
+Memphis Grizzlies,Oklahoma City Thunder,2022-12-07,L,1,False,-100,2541.0,8.5
+Chicago Bulls,Washington Wizards,2022-12-07,W,1,True,115.0,2656.0,5.0
+Milwaukee Bucks,Sacramento Kings,2022-12-07,W,0,False,0,2656.0,7.0
+Minnesota Timberwolves,Indiana Pacers,2022-12-07,L,1,False,-100,2556.0,5.5
+Utah Jazz,Golden State Warriors,2022-12-07,W,1,True,83,2639.0,5.5
+Phoenix Suns,Boston Celtics,2022-12-07,W,1,True,80,2719.0,1.5
+Miami Heat,LA Clippers,2022-12-08,-,1,False,0,2719.0,0
+San Antonio Spurs,Houston Rockets,2022-12-08,W,0,False,0,2719.0,-2.5
+Portland Trail Blazers,Denver Nuggets,2022-12-08,L,1,False,-100,2619.0,-1.5
+Charlotte Hornets,New York Knicks,2022-12-09,W,1,True,83,2702.0,-4.0
+Indiana Pacers,Washington Wizards,2022-12-09,L,1,False,-100,2602.0,4.0
+Orlando Magic,Toronto Raptors,2022-12-09,L,1,False,-100,2502.0,-7.5
+Cleveland Cavaliers,Sacramento Kings,2022-12-09,L,0,True,0,2502.0,3.5
+Philadelphia 76ers,Los Angeles Lakers,2022-12-09,L,1,False,-100,2402.0,5.0
+Brooklyn Nets,Atlanta Hawks,2022-12-09,W,1,True,115.0,2517.0,7.5
+Memphis Grizzlies,Detroit Pistons,2022-12-09,W,0,False,0,2517.0,10.5
+Utah Jazz,Minnesota Timberwolves,2022-12-09,W,1,True,100.0,2617.0,-0.5
+Dallas Mavericks,Milwaukee Bucks,2022-12-09,W,1,True,72,2689.0,-1.0
+Miami Heat,San Antonio Spurs,2022-12-10,W,1,True,125.0,2814.0,12.5
+Indiana Pacers,Brooklyn Nets,2022-12-10,W,1,True,125.0,2939.0,8.5
+Washington Wizards,LA Clippers,2022-12-10,-,1,False,0,2939.0,0
+Cleveland Cavaliers,Oklahoma City Thunder,2022-12-10,L,1,False,-100,2839.0,4.5
+Chicago Bulls,Dallas Mavericks,2022-12-10,L,1,False,-100,2739.0,5.5
+Denver Nuggets,Utah Jazz,2022-12-10,W,1,True,83,2822.0,11.5
+Portland Trail Blazers,Minnesota Timberwolves,2022-12-10,L,1,False,-100,2722.0,5.5
+New Orleans Pelicans,Phoenix Suns,2022-12-11,W,0,False,0,2722.0,4.0
+Detroit Pistons,Los Angeles Lakers,2022-12-11,W,1,True,110.0,2832.0,-5.5
+New York Knicks,Sacramento Kings,2022-12-11,L,1,False,-100,2732.0,2.5
+Philadelphia 76ers,Charlotte Hornets,2022-12-11,W,0,False,0,2732.0,10.5
+Orlando Magic,Toronto Raptors,2022-12-11,L,1,False,-100,2632.0,-7.0
+Atlanta Hawks,Chicago Bulls,2022-12-11,W,1,True,90,2722.0,3.5
+Houston Rockets,Milwaukee Bucks,2022-12-11,L,1,False,-100,2622.0,-10.0
+Washington Wizards,Brooklyn Nets,2022-12-12,W,1,True,80,2702.0,-5.5
+Indiana Pacers,Miami Heat,2022-12-12,W,1,True,115.0,2817.0,-3.5
+Memphis Grizzlies,Atlanta Hawks,2022-12-12,W,0,False,0,2817.0,9.5
+Dallas Mavericks,Oklahoma City Thunder,2022-12-12,W,1,True,72,2889.0,8.5
+San Antonio Spurs,Cleveland Cavaliers,2022-12-12,L,1,False,-100,2789.0,-9.5
+Portland Trail Blazers,Minnesota Timberwolves,2022-12-12,W,0,False,0,2789.0,4.0
+LA Clippers,Boston Celtics,2022-12-12,-,1,False,0,2789.0,0
+Philadelphia 76ers,Sacramento Kings,2022-12-13,W,0,False,0,2789.0,4.5
+Milwaukee Bucks,Golden State Warriors,2022-12-13,W,0,False,0,2789.0,3.0
+Houston Rockets,Phoenix Suns,2022-12-13,L,1,False,-100,2689.0,-7.0
+Utah Jazz,New Orleans Pelicans,2022-12-13,L,1,False,-100,2589.0,-2.0
+Los Angeles Lakers,Boston Celtics,2022-12-13,W,1,True,90,2679.0,-4.0
+Orlando Magic,Atlanta Hawks,2022-12-14,L,1,False,-100,2579.0,-3.0
+Indiana Pacers,Golden State Warriors,2022-12-14,W,0,False,0,2579.0,-4.5
+Charlotte Hornets,Detroit Pistons,2022-12-14,W,1,True,72,2651.0,4.5
+Toronto Raptors,Sacramento Kings,2022-12-14,W,1,True,120.0,2771.0,5.0
+Chicago Bulls,New York Knicks,2022-12-14,W,1,True,100.0,2871.0,3.5
+San Antonio Spurs,Portland Trail Blazers,2022-12-14,W,1,True,125.0,2996.0,-7.5
+Oklahoma City Thunder,Miami Heat,2022-12-14,L,1,False,-100,2896.0,-3.0
+Dallas Mavericks,Cleveland Cavaliers,2022-12-14,W,1,True,120.0,3016.0,2.5
+Denver Nuggets,Washington Wizards,2022-12-14,L,1,False,-100,2916.0,11.5
+LA Clippers,Minnesota Timberwolves,2022-12-14,-,1,False,0,2916.0,0
+Memphis Grizzlies,Milwaukee Bucks,2022-12-15,L,1,False,-100,2816.0,3.0
+Houston Rockets,Miami Heat,2022-12-15,W,1,True,115.0,2931.0,-2.5
+Utah Jazz,New Orleans Pelicans,2022-12-15,L,1,False,-100,2831.0,-1.0
+LA Clippers,Phoenix Suns,2022-12-15,-,1,False,0,2831.0,0
+Charlotte Hornets,Atlanta Hawks,2022-12-16,W,1,True,72,2903.0,1.5
+Detroit Pistons,Sacramento Kings,2022-12-16,W,1,True,105.0,3008.0,-6.5
+Cleveland Cavaliers,Indiana Pacers,2022-12-16,W,1,True,72,3080.0,8.0
+Boston Celtics,Orlando Magic,2022-12-16,L,0,True,0,3080.0,13.0
+Philadelphia 76ers,Golden State Warriors,2022-12-16,W,0,False,0,3080.0,9.0
+Toronto Raptors,Brooklyn Nets,2022-12-16,W,1,True,90,3170.0,-1.0
+Chicago Bulls,New York Knicks,2022-12-16,W,1,True,110.0,3280.0,3.0
+Oklahoma City Thunder,Minnesota Timberwolves,2022-12-16,W,1,True,72,3352.0,4.5
+Dallas Mavericks,Portland Trail Blazers,2022-12-16,L,1,False,-100,3252.0,4.0
+Los Angeles Lakers,Denver Nuggets,2022-12-16,L,1,False,-100,3152.0,-1.5
+LA Clippers,Washington Wizards,2022-12-17,-,1,False,0,3152.0,0
+San Antonio Spurs,Miami Heat,2022-12-17,W,1,True,72,3224.0,-8.0
+Houston Rockets,Portland Trail Blazers,2022-12-17,W,1,True,90,3314.0,-3.0
+Cleveland Cavaliers,Dallas Mavericks,2022-12-17,W,1,True,110.0,3424.0,9.0
+Milwaukee Bucks,Utah Jazz,2022-12-17,L,1,False,-100,3324.0,2.0
+Oklahoma City Thunder,Memphis Grizzlies,2022-12-17,L,1,False,-100,3224.0,-11.0
+Phoenix Suns,New Orleans Pelicans,2022-12-17,L,1,False,-100,3124.0,3.0
+Boston Celtics,Orlando Magic,2022-12-18,L,0,True,0,3124.0,11.0
+Indiana Pacers,New York Knicks,2022-12-18,W,1,True,120.0,3244.0,-1.0
+Detroit Pistons,Brooklyn Nets,2022-12-18,L,1,False,-100,3144.0,-8.5
+Toronto Raptors,Golden State Warriors,2022-12-18,W,1,True,83,3227.0,6.0
+Minnesota Timberwolves,Chicago Bulls,2022-12-18,W,0,False,0,3227.0,-2.0
+Denver Nuggets,Charlotte Hornets,2022-12-18,W,1,True,115.0,3342.0,9.0
+Los Angeles Lakers,Washington Wizards,2022-12-18,W,1,True,90,3432.0,3.0
+Cleveland Cavaliers,Utah Jazz,2022-12-19,L,1,False,-100,3332.0,7.5
+Philadelphia 76ers,Toronto Raptors,2022-12-19,W,1,True,115.0,3447.0,6.5
+Atlanta Hawks,Orlando Magic,2022-12-19,W,1,True,100.0,3547.0,9.0
+Minnesota Timberwolves,Dallas Mavericks,2022-12-19,L,1,False,-100,3447.0,-6.0
+Houston Rockets,San Antonio Spurs,2022-12-19,W,1,True,125.0,3572.0,4.5
+New Orleans Pelicans,Milwaukee Bucks,2022-12-19,W,1,True,105.0,3677.0,-0.5
+Oklahoma City Thunder,Portland Trail Blazers,2022-12-19,L,1,False,-100,3577.0,-4.5
+Phoenix Suns,Los Angeles Lakers,2022-12-19,L,1,False,-100,3477.0,11.5
+Sacramento Kings,Charlotte Hornets,2022-12-19,W,1,True,83,3560.0,10.0
+Detroit Pistons,Utah Jazz,2022-12-20,W,1,True,83,3643.0,-2.5
+Miami Heat,Chicago Bulls,2022-12-20,W,1,True,83,3726.0,1.5
+New York Knicks,Golden State Warriors,2022-12-20,W,0,False,0,3726.0,6.0
+Phoenix Suns,Washington Wizards,2022-12-20,W,1,True,83,3809.0,7.5
+Denver Nuggets,Memphis Grizzlies,2022-12-20,W,0,False,0,3809.0,-1.0
+Cleveland Cavaliers,Milwaukee Bucks,2022-12-21,L,1,False,-100,3709.0,2.5
+Philadelphia 76ers,Detroit Pistons,2022-12-21,L,1,False,-100,3609.0,12.0
+New York Knicks,Toronto Raptors,2022-12-21,W,1,True,80,3689.0,2.0
+Brooklyn Nets,Golden State Warriors,2022-12-21,L,1,False,-100,3589.0,10.5
+Atlanta Hawks,Chicago Bulls,2022-12-21,W,1,True,115.0,3704.0,5.0
+Boston Celtics,Indiana Pacers,2022-12-21,W,1,True,105.0,3809.0,9.5
+Oklahoma City Thunder,Portland Trail Blazers,2022-12-21,L,1,False,-100,3709.0,-4.0
+Minnesota Timberwolves,Dallas Mavericks,2022-12-21,W,1,True,83,3792.0,-2.5
+Houston Rockets,Orlando Magic,2022-12-21,W,1,True,72,3864.0,1.0
+Sacramento Kings,Los Angeles Lakers,2022-12-21,W,0,False,0,3864.0,8.0
+LA Clippers,Charlotte Hornets,2022-12-21,-,1,False,0,3864.0,0
+New Orleans Pelicans,San Antonio Spurs,2022-12-22,L,1,False,-100,3764.0,8.5
+Utah Jazz,Washington Wizards,2022-12-22,W,0,False,0,3764.0,7.0
+Orlando Magic,San Antonio Spurs,2022-12-23,L,1,False,-100,3664.0,6.0
+Philadelphia 76ers,LA Clippers,2022-12-23,-,0,False,0,3664.0,0
+Brooklyn Nets,Milwaukee Bucks,2022-12-23,L,1,False,-100,3564.0,2.5
+Cleveland Cavaliers,Toronto Raptors,2022-12-23,W,1,True,105.0,3669.0,4.5
+Atlanta Hawks,Detroit Pistons,2022-12-23,W,0,False,0,3669.0,9.5
+New York Knicks,Chicago Bulls,2022-12-23,W,1,True,120.0,3789.0,4.5
+Boston Celtics,Minnesota Timberwolves,2022-12-23,L,1,False,-100,3689.0,10.5
+Houston Rockets,Dallas Mavericks,2022-12-23,L,1,False,-100,3589.0,-7.0
+Oklahoma City Thunder,New Orleans Pelicans,2022-12-23,W,1,True,83,3672.0,2.0
+Miami Heat,Indiana Pacers,2022-12-23,W,1,True,110.0,3782.0,6.0
+Denver Nuggets,Portland Trail Blazers,2022-12-23,W,0,False,0,3782.0,6.0
+Sacramento Kings,Washington Wizards,2022-12-23,W,1,True,80,3862.0,7.5
+Phoenix Suns,Memphis Grizzlies,2022-12-23,L,0,True,0,3862.0,-3.5
+Los Angeles Lakers,Charlotte Hornets,2022-12-23,W,1,True,80,3942.0,3.0
+New York Knicks,Philadelphia 76ers,2022-12-25,W,1,True,105.0,4047.0,-2.0
+Dallas Mavericks,Los Angeles Lakers,2022-12-25,L,1,False,-100,3947.0,7.5
+Boston Celtics,Milwaukee Bucks,2022-12-25,W,0,False,0,3947.0,5.5
+Golden State Warriors,Memphis Grizzlies,2022-12-25,L,1,False,-100,3847.0,-7.0
+Denver Nuggets,Phoenix Suns,2022-12-25,W,1,True,120.0,3967.0,4.0
+Cleveland Cavaliers,Brooklyn Nets,2022-12-26,W,1,True,125.0,4092.0,2.0
+Detroit Pistons,LA Clippers,2022-12-26,-,1,False,0,4092.0,0
+Miami Heat,Minnesota Timberwolves,2022-12-26,W,0,False,0,4092.0,0.5
+New Orleans Pelicans,Indiana Pacers,2022-12-26,L,1,False,-100,3992.0,1.5
+Chicago Bulls,Houston Rockets,2022-12-26,W,1,True,100.0,4092.0,7.0
+San Antonio Spurs,Utah Jazz,2022-12-26,L,1,False,-100,3992.0,-5.0
+Portland Trail Blazers,Charlotte Hornets,2022-12-26,L,1,False,-100,3892.0,5.5
+Orlando Magic,Los Angeles Lakers,2022-12-27,W,1,True,80,3972.0,3.0
+Washington Wizards,Philadelphia 76ers,2022-12-27,L,1,False,-100,3872.0,-5.0
+Toronto Raptors,LA Clippers,2022-12-27,-,1,False,0,3872.0,0
+Indiana Pacers,Atlanta Hawks,2022-12-27,L,1,False,-100,3772.0,-2.0
+Boston Celtics,Houston Rockets,2022-12-27,W,0,False,0,3772.0,15.0
+Memphis Grizzlies,Phoenix Suns,2022-12-27,W,1,True,83,3855.0,7.5
+Oklahoma City Thunder,San Antonio Spurs,2022-12-27,L,1,False,-100,3755.0,6.5
+Dallas Mavericks,New York Knicks,2022-12-27,W,1,True,105.0,3860.0,5.5
+Golden State Warriors,Charlotte Hornets,2022-12-27,W,1,True,125.0,3985.0,5.5
+Sacramento Kings,Denver Nuggets,2022-12-27,W,1,True,83,4068.0,-3.5
+Washington Wizards,Phoenix Suns,2022-12-28,L,1,False,-100,3968.0,-2.5
+Detroit Pistons,Orlando Magic,2022-12-28,L,1,False,-100,3868.0,-1.0
+Atlanta Hawks,Brooklyn Nets,2022-12-28,L,1,False,-100,3768.0,-7.0
+Miami Heat,Los Angeles Lakers,2022-12-28,L,1,False,-100,3668.0,8.5
+Chicago Bulls,Milwaukee Bucks,2022-12-28,L,1,False,-100,3568.0,-2.5
+New Orleans Pelicans,Minnesota Timberwolves,2022-12-28,W,1,True,115.0,3683.0,6.5
+Sacramento Kings,Denver Nuggets,2022-12-28,W,1,True,72,3755.0,3.5
+Golden State Warriors,Utah Jazz,2022-12-28,W,0,False,0,3755.0,-4.5
+Indiana Pacers,Cleveland Cavaliers,2022-12-29,L,1,False,-100,3655.0,-6.5
+Charlotte Hornets,Oklahoma City Thunder,2022-12-29,L,1,False,-100,3555.0,2.5
+Boston Celtics,LA Clippers,2022-12-29,-,0,False,0,3555.0,0
+Toronto Raptors,Memphis Grizzlies,2022-12-29,W,1,True,80,3635.0,-10.5
+San Antonio Spurs,New York Knicks,2022-12-29,L,1,False,-100,3535.0,2.5
+Dallas Mavericks,Houston Rockets,2022-12-29,L,1,False,-100,3435.0,14.5
+Orlando Magic,Washington Wizards,2022-12-30,W,1,True,115.0,3550.0,-4.5
+Atlanta Hawks,Los Angeles Lakers,2022-12-30,W,1,True,120.0,3670.0,9.5
+Toronto Raptors,Phoenix Suns,2022-12-30,L,1,False,-100,3570.0,2.0
+Milwaukee Bucks,Minnesota Timberwolves,2022-12-30,L,1,False,-100,3470.0,7.5
+Chicago Bulls,Detroit Pistons,2022-12-30,L,1,False,-100,3370.0,7.5
+New Orleans Pelicans,Philadelphia 76ers,2022-12-30,L,1,False,-100,3270.0,-1.0
+Denver Nuggets,Miami Heat,2022-12-30,W,0,False,0,3270.0,4.5
+Golden State Warriors,Portland Trail Blazers,2022-12-30,L,1,False,-100,3170.0,1.0
+Sacramento Kings,Utah Jazz,2022-12-30,W,1,True,105.0,3275.0,3.5
+Indiana Pacers,LA Clippers,2022-12-31,-,0,False,0,3275.0,0
+Charlotte Hornets,Brooklyn Nets,2022-12-31,W,1,True,83,3358.0,-6.5
+Chicago Bulls,Cleveland Cavaliers,2022-12-31,L,1,False,-100,3258.0,-1.5
+Houston Rockets,New York Knicks,2022-12-31,W,1,True,105.0,3363.0,-3.5
+San Antonio Spurs,Dallas Mavericks,2022-12-31,L,1,False,-100,3263.0,-7.5
+Minnesota Timberwolves,Detroit Pistons,2022-12-31,L,0,True,0,3263.0,7.0
+Oklahoma City Thunder,Philadelphia 76ers,2022-12-31,W,1,True,105.0,3368.0,-2.5
+Memphis Grizzlies,New Orleans Pelicans,2022-12-31,L,1,False,-100,3268.0,6.5
+Utah Jazz,Miami Heat,2022-12-31,W,1,True,100.0,3368.0,4.0

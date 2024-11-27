@@ -1,0 +1,808 @@
+Home Team,Away Team,Home Odds,Away Odds,Date,Result,Prediction,Correct?,Bet Result,Total
+Boston Celtics,Toronto Raptors,,,2019-10-25,Over,Over,True,105.0,105
+Charlotte Hornets,Minnesota Timberwolves,,,2019-10-25,-,Under,False,0,105
+Brooklyn Nets,New York Knicks,,,2019-10-25,Under,Under,True,120.0,225
+Oklahoma City Thunder,Washington Wizards,,,2019-10-25,Under,Under,True,83,308
+New Orleans Pelicans,Dallas Mavericks,,,2019-10-25,Over,Over,True,115.0,423
+Memphis Grizzlies,Chicago Bulls,,,2019-10-25,Under,Under,True,100.0,523
+Denver Nuggets,Phoenix Suns,,,2019-10-25,Under,Under,True,80,603
+Sacramento Kings,Portland Trail Blazers,,,2019-10-25,Over,Over,True,80,683
+Los Angeles Lakers,Utah Jazz,,,2019-10-25,Under,Under,True,83,766
+Milwaukee Bucks,Miami Heat,,,2019-10-26,Over,Over,True,105.0,871
+Detroit Pistons,Philadelphia 76ers,,,2019-10-26,Over,Over,True,90,961
+New York Knicks,Boston Celtics,,,2019-10-26,Over,Over,True,120.0,1081
+Atlanta Hawks,Orlando Magic,,,2019-10-26,Under,Under,True,125.0,1206
+Cleveland Cavaliers,Indiana Pacers,,,2019-10-26,Under,Under,True,72,1278
+Chicago Bulls,Toronto Raptors,,,2019-10-26,Under,Under,True,105.0,1383
+Houston Rockets,New Orleans Pelicans,,,2019-10-26,Over,Over,True,115.0,1498
+San Antonio Spurs,Washington Wizards,,,2019-10-26,Over,Over,True,110.0,1608
+Utah Jazz,Sacramento Kings,,,2019-10-26,Under,Under,True,72,1680
+Phoenix Suns,LA Clippers,,,2019-10-26,-,Over,False,0,1680
+Oklahoma City Thunder,Golden State Warriors,,,2019-10-27,Under,Under,True,120.0,1800
+Memphis Grizzlies,Brooklyn Nets,,,2019-10-27,Over,Over,True,115.0,1915
+Minnesota Timberwolves,Miami Heat,,,2019-10-27,Over,Over,True,110.0,2025
+Dallas Mavericks,Portland Trail Blazers,,,2019-10-27,Over,Over,True,83,2108
+Los Angeles Lakers,Charlotte Hornets,,,2019-10-27,-,Over,False,0,2108
+Detroit Pistons,Indiana Pacers,,,2019-10-28,Under,Under,True,100.0,2208
+New York Knicks,Chicago Bulls,,,2019-10-28,Under,Under,True,80,2288
+Atlanta Hawks,Philadelphia 76ers,,,2019-10-28,Under,Under,True,90,2378
+Toronto Raptors,Orlando Magic,,,2019-10-28,Under,Under,True,110.0,2488
+New Orleans Pelicans,Golden State Warriors,,,2019-10-28,Over,Over,True,83,2571
+Milwaukee Bucks,Cleveland Cavaliers,,,2019-10-28,Over,Over,True,83,2654
+Houston Rockets,Oklahoma City Thunder,,,2019-10-28,Over,Over,True,100.0,2754
+San Antonio Spurs,Portland Trail Blazers,,,2019-10-28,Over,Over,True,90,2844
+Phoenix Suns,Utah Jazz,,,2019-10-28,Under,Under,True,105.0,2949
+Sacramento Kings,Denver Nuggets,,,2019-10-28,Under,Under,True,90,3039
+LA Clippers,Charlotte Hornets,,,2019-10-28,-,Under,False,0,3039
+Miami Heat,Atlanta Hawks,,,2019-10-29,Under,Under,True,83,3122
+Denver Nuggets,Dallas Mavericks,,,2019-10-29,Under,Under,True,72,3194
+Los Angeles Lakers,Memphis Grizzlies,,,2019-10-29,Under,Under,True,83,3277
+Orlando Magic,New York Knicks,,,2019-10-30,Under,Under,True,80,3357
+Philadelphia 76ers,Minnesota Timberwolves,,,2019-10-30,Under,Over,False,-100,3257
+Cleveland Cavaliers,Chicago Bulls,,,2019-10-30,Over,Over,True,72,3329
+Toronto Raptors,Detroit Pistons,,,2019-10-30,Over,Over,True,100.0,3429
+Brooklyn Nets,Indiana Pacers,,,2019-10-30,Over,Over,True,72,3501
+Boston Celtics,Milwaukee Bucks,,,2019-10-30,Under,Under,True,115.0,3616
+Washington Wizards,Houston Rockets,,,2019-10-30,Over,Over,True,83,3699
+Oklahoma City Thunder,Portland Trail Blazers,,,2019-10-30,Under,Over,False,-100,3599
+Sacramento Kings,Charlotte Hornets,,,2019-10-30,-,Over,False,0,3599
+Utah Jazz,LA Clippers,,,2019-10-30,-,Under,False,0,3599
+Golden State Warriors,Phoenix Suns,,,2019-10-30,Over,Over,True,105.0,3704
+Atlanta Hawks,Miami Heat,,,2019-10-31,Under,Under,True,125.0,3829
+New Orleans Pelicans,Denver Nuggets,,,2019-10-31,Over,Over,True,105.0,3934
+LA Clippers,San Antonio Spurs,,,2019-10-31,-,Under,False,0,3934
+Brooklyn Nets,Houston Rockets,,,2019-11-01,Under,Under,True,80,4014
+Orlando Magic,Milwaukee Bucks,,,2019-11-01,Under,Under,True,110.0,4124
+Indiana Pacers,Cleveland Cavaliers,,,2019-11-01,Under,Under,True,83,4207
+Boston Celtics,New York Knicks,,,2019-11-01,Under,Under,True,72,4279
+Chicago Bulls,Detroit Pistons,,,2019-11-01,Under,Under,True,115.0,4394
+Dallas Mavericks,Los Angeles Lakers,,,2019-11-01,Over,Over,True,110.0,4504
+Sacramento Kings,Utah Jazz,,,2019-11-01,Under,Under,True,83,4587
+Golden State Warriors,San Antonio Spurs,,,2019-11-01,Over,Over,True,110.0,4697
+Oklahoma City Thunder,New Orleans Pelicans,,,2019-11-02,Under,Under,True,120.0,4817
+Detroit Pistons,Brooklyn Nets,,,2019-11-02,Under,Under,True,125.0,4942
+Orlando Magic,Denver Nuggets,,,2019-11-02,Under,Under,True,83,5025
+Memphis Grizzlies,Phoenix Suns,,,2019-11-02,Under,Under,True,83,5108
+Washington Wizards,Minnesota Timberwolves,,,2019-11-02,Over,Over,True,120.0,5228
+Milwaukee Bucks,Toronto Raptors,,,2019-11-02,Under,Under,True,105.0,5333
+Golden State Warriors,Charlotte Hornets,,,2019-11-02,-,Under,False,0,5333
+Portland Trail Blazers,Philadelphia 76ers,,,2019-11-02,Over,Under,False,-100,5233
+Indiana Pacers,Chicago Bulls,,,2019-11-03,Under,Under,True,125.0,5358
+Miami Heat,Houston Rockets,,,2019-11-03,Under,Under,True,125.0,5483
+New York Knicks,Sacramento Kings,,,2019-11-03,Under,Over,False,-100,5383
+San Antonio Spurs,Los Angeles Lakers,,,2019-11-03,Under,Under,True,83,5466
+Cleveland Cavaliers,Dallas Mavericks,,,2019-11-03,Over,Over,True,110.0,5576
+LA Clippers,Utah Jazz,,,2019-11-03,-,Under,False,0,5576
+Washington Wizards,Detroit Pistons,,,2019-11-04,Under,Under,True,110.0,5686
+Brooklyn Nets,New Orleans Pelicans,,,2019-11-04,Over,Over,True,120.0,5806
+Minnesota Timberwolves,Milwaukee Bucks,,,2019-11-04,Over,Over,True,110.0,5916
+Memphis Grizzlies,Houston Rockets,,,2019-11-04,Under,Under,True,83,5999
+Phoenix Suns,Philadelphia 76ers,,,2019-11-04,Under,Under,False,-100,5899
+Golden State Warriors,Portland Trail Blazers,,,2019-11-04,Over,Over,True,90,5989
+Cleveland Cavaliers,Boston Celtics,,,2019-11-05,Over,Over,True,83,6072
+Charlotte Hornets,Indiana Pacers,,,2019-11-05,-,Over,False,0,6072
+Atlanta Hawks,San Antonio Spurs,,,2019-11-05,Under,Under,True,125.0,6197
+Oklahoma City Thunder,Orlando Magic,,,2019-11-05,Under,Under,True,105.0,6302
+Chicago Bulls,Los Angeles Lakers,,,2019-11-05,Over,Under,False,-100,6202
+Denver Nuggets,Miami Heat,,,2019-11-05,Under,Under,True,83,6285
+Detroit Pistons,New York Knicks,,,2019-11-06,Over,Over,True,110.0,6395
+Indiana Pacers,Washington Wizards,,,2019-11-06,Over,Over,True,72,6467
+Toronto Raptors,Sacramento Kings,,,2019-11-06,Over,Over,True,72,6539
+Houston Rockets,Golden State Warriors,,,2019-11-06,Over,Over,True,120.0,6659
+Atlanta Hawks,Chicago Bulls,,,2019-11-06,Under,Under,True,83,6742
+Memphis Grizzlies,Minnesota Timberwolves,,,2019-11-06,Over,Over,True,100.0,6842
+Dallas Mavericks,Orlando Magic,,,2019-11-06,Over,Over,True,115.0,6957
+Utah Jazz,Philadelphia 76ers,,,2019-11-06,Under,Under,True,125.0,7082
+LA Clippers,Milwaukee Bucks,,,2019-11-06,-,Over,False,0,7082
+Charlotte Hornets,Boston Celtics,,,2019-11-07,-,Under,False,0,7082
+San Antonio Spurs,Oklahoma City Thunder,,,2019-11-07,Over,Over,True,90,7172
+Phoenix Suns,Miami Heat,,,2019-11-07,Over,Over,True,105.0,7277
+LA Clippers,Portland Trail Blazers,,,2019-11-07,-,Under,False,0,7277
+Indiana Pacers,Detroit Pistons,,,2019-11-08,Over,Over,True,110.0,7387
+Washington Wizards,Cleveland Cavaliers,,,2019-11-08,Under,Under,True,105.0,7492
+Orlando Magic,Memphis Grizzlies,,,2019-11-08,Under,Under,True,83,7575
+Atlanta Hawks,Sacramento Kings,,,2019-11-08,Over,Over,True,83,7658
+Minnesota Timberwolves,Golden State Warriors,,,2019-11-08,Over,Over,True,80,7738
+New Orleans Pelicans,Toronto Raptors,,,2019-11-08,Under,Under,True,83,7821
+Dallas Mavericks,New York Knicks,,,2019-11-08,Under,Under,True,83,7904
+Utah Jazz,Milwaukee Bucks,,,2019-11-08,Under,Under,True,72,7976
+Denver Nuggets,Philadelphia 76ers,,,2019-11-08,Under,Under,True,83,8059
+Portland Trail Blazers,Brooklyn Nets,,,2019-11-08,Over,Over,True,83,8142
+Los Angeles Lakers,Miami Heat,,,2019-11-08,Under,Under,True,83,8225
+San Antonio Spurs,Boston Celtics,,,2019-11-09,Over,Over,True,120.0,8345
+Charlotte Hornets,New Orleans Pelicans,,,2019-11-09,-,Under,False,0,8345
+Oklahoma City Thunder,Golden State Warriors,,,2019-11-09,Over,Over,True,110.0,8455
+Memphis Grizzlies,Dallas Mavericks,,,2019-11-09,Over,Over,True,105.0,8560
+Chicago Bulls,Houston Rockets,,,2019-11-09,Under,Under,True,90,8650
+Minnesota Timberwolves,Denver Nuggets,,,2019-11-10,Under,Under,True,72,8722
+Orlando Magic,Indiana Pacers,,,2019-11-10,Over,Over,True,115.0,8837
+Philadelphia 76ers,Charlotte Hornets,,,2019-11-10,-,Over,False,0,8837
+Oklahoma City Thunder,Milwaukee Bucks,,,2019-11-10,Over,Over,True,125.0,8962
+New York Knicks,Cleveland Cavaliers,,,2019-11-10,Under,Under,True,105.0,9067
+Phoenix Suns,Brooklyn Nets,,,2019-11-10,Over,Over,True,125.0,9192
+Portland Trail Blazers,Atlanta Hawks,,,2019-11-10,Over,Over,True,83,9275
+Los Angeles Lakers,Toronto Raptors,,,2019-11-10,Over,Over,True,100.0,9375
+Detroit Pistons,Minnesota Timberwolves,,,2019-11-11,Over,Over,True,72,9447
+Boston Celtics,Dallas Mavericks,,,2019-11-11,Over,Over,True,110.0,9557
+San Antonio Spurs,Memphis Grizzlies,,,2019-11-11,Under,Under,True,83,9640
+New Orleans Pelicans,Houston Rockets,,,2019-11-11,Under,Under,True,105.0,9745
+Golden State Warriors,Utah Jazz,,,2019-11-11,Over,Under,False,-100,9645
+LA Clippers,Toronto Raptors,,,2019-11-11,-,Under,False,0,9645
+Philadelphia 76ers,Cleveland Cavaliers,,,2019-11-12,Under,Under,True,90,9735
+Indiana Pacers,Oklahoma City Thunder,,,2019-11-12,Under,Under,True,115.0,9850
+Miami Heat,Detroit Pistons,,,2019-11-12,Over,Over,True,100.0,9950
+Chicago Bulls,New York Knicks,,,2019-11-12,Over,Over,True,125.0,10075
+Phoenix Suns,Los Angeles Lakers,,,2019-11-12,Over,Over,True,125.0,10200
+Denver Nuggets,Atlanta Hawks,,,2019-11-12,Over,Over,True,83,10283
+Utah Jazz,Brooklyn Nets,,,2019-11-12,Over,Over,True,100.0,10383
+Sacramento Kings,Portland Trail Blazers,,,2019-11-12,Under,Under,True,90,10473
+Orlando Magic,Philadelphia 76ers,,,2019-11-13,Over,Over,True,100.0,10573
+Charlotte Hornets,Memphis Grizzlies,,,2019-11-13,-,Over,False,0,10573
+Houston Rockets,LA Clippers,,,2019-11-13,-,Under,False,0,10573
+Boston Celtics,Washington Wizards,,,2019-11-13,Over,Over,True,120.0,10693
+Minnesota Timberwolves,San Antonio Spurs,,,2019-11-13,Over,Over,True,72,10765
+Portland Trail Blazers,Toronto Raptors,,,2019-11-13,Under,Under,True,83,10848
+Los Angeles Lakers,Golden State Warriors,,,2019-11-13,Under,Under,True,120.0,10968
+Cleveland Cavaliers,Miami Heat,,,2019-11-14,Under,Under,True,72,11040
+Milwaukee Bucks,Chicago Bulls,,,2019-11-14,Over,Over,True,100.0,11140
+New York Knicks,Dallas Mavericks,,,2019-11-14,Under,Under,True,110.0,11250
+New Orleans Pelicans,LA Clippers,,,2019-11-14,-,Over,False,0,11250
+Phoenix Suns,Atlanta Hawks,,,2019-11-14,Over,Over,True,120.0,11370
+Denver Nuggets,Brooklyn Nets,,,2019-11-14,Under,Under,True,72,11442
+Charlotte Hornets,Detroit Pistons,,,2019-11-15,-,Under,False,0,11442
+Orlando Magic,San Antonio Spurs,,,2019-11-15,Over,Over,True,80,11522
+Minnesota Timberwolves,Washington Wizards,,,2019-11-15,Over,Over,True,120.0,11642
+Houston Rockets,Indiana Pacers,,,2019-11-15,Under,Under,True,72,11714
+Oklahoma City Thunder,Philadelphia 76ers,,,2019-11-15,Over,Over,True,80,11794
+Memphis Grizzlies,Utah Jazz,,,2019-11-15,Under,Under,True,72,11866
+Golden State Warriors,Boston Celtics,,,2019-11-15,Under,Under,True,72,11938
+Los Angeles Lakers,Sacramento Kings,,,2019-11-15,Under,Under,True,125.0,12063
+Chicago Bulls,Brooklyn Nets,,,2019-11-16,Under,Under,True,120.0,12183
+Indiana Pacers,Milwaukee Bucks,,,2019-11-16,Under,Under,True,90,12273
+New York Knicks,Charlotte Hornets,,,2019-11-16,-,Under,False,0,12273
+Minnesota Timberwolves,Houston Rockets,,,2019-11-16,Under,Under,True,100.0,12373
+Miami Heat,New Orleans Pelicans,,,2019-11-16,Under,Under,True,90,12463
+Dallas Mavericks,Toronto Raptors,,,2019-11-16,Under,Under,True,120.0,12583
+San Antonio Spurs,Portland Trail Blazers,,,2019-11-16,Over,Over,True,100.0,12683
+LA Clippers,Atlanta Hawks,,,2019-11-16,-,Over,False,0,12683
+Cleveland Cavaliers,Philadelphia 76ers,,,2019-11-17,Under,Under,True,120.0,12803
+Sacramento Kings,Boston Celtics,,,2019-11-17,Under,Under,True,105.0,12908
+Memphis Grizzlies,Denver Nuggets,,,2019-11-17,Over,Over,True,100.0,13008
+Orlando Magic,Washington Wizards,,,2019-11-17,Over,Over,True,115.0,13123
+New Orleans Pelicans,Golden State Warriors,,,2019-11-17,Under,Under,True,110.0,13233
+Los Angeles Lakers,Atlanta Hawks,,,2019-11-17,Over,Under,False,-100,13133
+New York Knicks,Cleveland Cavaliers,,,2019-11-18,Over,Over,True,125.0,13258
+Brooklyn Nets,Indiana Pacers,,,2019-11-18,Under,Under,True,72,13330
+Toronto Raptors,Charlotte Hornets,,,2019-11-18,-,Over,False,0,13330
+Chicago Bulls,Milwaukee Bucks,,,2019-11-18,Under,Under,True,100.0,13430
+Houston Rockets,Portland Trail Blazers,,,2019-11-18,Over,Over,True,83,13513
+Dallas Mavericks,San Antonio Spurs,,,2019-11-18,Over,Over,True,90,13603
+Utah Jazz,Minnesota Timberwolves,,,2019-11-18,Under,Under,True,120.0,13723
+Phoenix Suns,Boston Celtics,,,2019-11-18,Under,Under,True,90,13813
+LA Clippers,Oklahoma City Thunder,,,2019-11-18,-,Under,False,0,13813
+New Orleans Pelicans,Portland Trail Blazers,,,2019-11-19,Under,Under,True,110.0,13923
+Memphis Grizzlies,Golden State Warriors,,,2019-11-19,Under,Under,True,115.0,14038
+Sacramento Kings,Phoenix Suns,,,2019-11-19,Over,Over,True,90,14128
+Los Angeles Lakers,Oklahoma City Thunder,,,2019-11-19,Over,Under,False,-100,14028
+Philadelphia 76ers,New York Knicks,,,2019-11-20,Under,Under,True,83,14111
+Washington Wizards,San Antonio Spurs,,,2019-11-20,Over,Over,True,125.0,14236
+Miami Heat,Cleveland Cavaliers,,,2019-11-20,Over,Over,True,100.0,14336
+Atlanta Hawks,Milwaukee Bucks,,,2019-11-20,Over,Over,True,120.0,14456
+Dallas Mavericks,Golden State Warriors,,,2019-11-20,Over,Under,False,-100,14356
+Brooklyn Nets,Charlotte Hornets,,,2019-11-20,-,Under,False,0,14356
+Toronto Raptors,Orlando Magic,,,2019-11-20,Over,Over,True,115.0,14471
+Chicago Bulls,Detroit Pistons,,,2019-11-20,Under,Under,True,120.0,14591
+Minnesota Timberwolves,Utah Jazz,,,2019-11-20,Under,Under,True,105.0,14696
+Denver Nuggets,Houston Rockets,,,2019-11-20,Under,Under,True,72,14768
+LA Clippers,Boston Celtics,,,2019-11-20,-,Under,False,0,14768
+Milwaukee Bucks,Portland Trail Blazers,,,2019-11-21,Over,Over,True,83,14851
+Phoenix Suns,New Orleans Pelicans,,,2019-11-21,Over,Over,True,72,14923
+Detroit Pistons,Atlanta Hawks,,,2019-11-22,Over,Over,True,105.0,15028
+Washington Wizards,Charlotte Hornets,,,2019-11-22,-,Over,False,0,15028
+Brooklyn Nets,Sacramento Kings,,,2019-11-22,Under,Under,True,115.0,15143
+Philadelphia 76ers,San Antonio Spurs,,,2019-11-22,Under,Under,True,100.0,15243
+Chicago Bulls,Miami Heat,,,2019-11-22,Over,Over,True,83,15326
+Oklahoma City Thunder,Los Angeles Lakers,,,2019-11-22,Over,Over,True,110.0,15436
+Dallas Mavericks,Cleveland Cavaliers,,,2019-11-22,Over,Over,True,90,15526
+Denver Nuggets,Boston Celtics,,,2019-11-22,Under,Under,True,105.0,15631
+Utah Jazz,Golden State Warriors,,,2019-11-22,Over,Over,True,80,15711
+LA Clippers,Houston Rockets,,,2019-11-22,-,Over,False,0,15711
+Minnesota Timberwolves,Phoenix Suns,,,2019-11-23,Under,Under,True,72,15783
+Charlotte Hornets,Chicago Bulls,,,2019-11-23,-,Over,False,0,15783
+Indiana Pacers,Orlando Magic,,,2019-11-23,Over,Over,True,80,15863
+Philadelphia 76ers,Miami Heat,,,2019-11-23,Under,Under,True,83,15946
+New York Knicks,San Antonio Spurs,,,2019-11-23,Under,Under,True,83,16029
+Atlanta Hawks,Toronto Raptors,,,2019-11-23,Over,Over,True,90,16119
+Memphis Grizzlies,Los Angeles Lakers,,,2019-11-23,Under,Under,True,90,16209
+Cleveland Cavaliers,Portland Trail Blazers,,,2019-11-23,Under,Under,True,72,16281
+Milwaukee Bucks,Detroit Pistons,,,2019-11-23,Under,Under,True,80,16361
+Utah Jazz,New Orleans Pelicans,,,2019-11-23,Over,Over,True,83,16444
+Houston Rockets,Dallas Mavericks,,,2019-11-24,Over,Over,True,125.0,16569
+Washington Wizards,Sacramento Kings,,,2019-11-24,Under,Under,True,100.0,16669
+New York Knicks,Brooklyn Nets,,,2019-11-24,Under,Under,True,80,16749
+Denver Nuggets,Phoenix Suns,,,2019-11-24,Over,Over,True,72,16821
+LA Clippers,New Orleans Pelicans,,,2019-11-24,-,Over,False,0,16821
+Detroit Pistons,Orlando Magic,,,2019-11-25,Under,Under,True,125.0,16946
+Indiana Pacers,Memphis Grizzlies,,,2019-11-25,Over,Over,True,83,17029
+Cleveland Cavaliers,Brooklyn Nets,,,2019-11-25,Under,Under,True,90,17119
+Toronto Raptors,Philadelphia 76ers,,,2019-11-25,Under,Under,True,83,17202
+Boston Celtics,Sacramento Kings,,,2019-11-25,Under,Under,True,80,17282
+Miami Heat,Charlotte Hornets,,,2019-11-25,-,Over,False,0,17282
+Atlanta Hawks,Minnesota Timberwolves,,,2019-11-25,Over,Over,True,83,17365
+Milwaukee Bucks,Utah Jazz,,,2019-11-25,Over,Over,True,110.0,17475
+Chicago Bulls,Portland Trail Blazers,,,2019-11-25,Under,Under,True,105.0,17580
+San Antonio Spurs,Los Angeles Lakers,,,2019-11-25,Under,Under,True,90,17670
+Golden State Warriors,Oklahoma City Thunder,,,2019-11-25,Under,Under,True,100.0,17770
+Dallas Mavericks,LA Clippers,,,2019-11-26,-,Under,False,0,17770
+Denver Nuggets,Washington Wizards,,,2019-11-26,Under,Under,True,80,17850
+Indiana Pacers,Utah Jazz,,,2019-11-27,Over,Over,True,83,17933
+Boston Celtics,Brooklyn Nets,,,2019-11-27,Over,Over,True,100.0,18033
+Philadelphia 76ers,Sacramento Kings,,,2019-11-27,Under,Under,True,80,18113
+Cleveland Cavaliers,Orlando Magic,,,2019-11-27,Over,Over,True,100.0,18213
+Charlotte Hornets,Detroit Pistons,,,2019-11-27,-,Over,False,0,18213
+Toronto Raptors,New York Knicks,,,2019-11-27,Over,Over,True,120.0,18333
+Milwaukee Bucks,Atlanta Hawks,,,2019-11-27,Under,Under,True,83,18416
+Memphis Grizzlies,LA Clippers,,,2019-11-27,-,Over,False,0,18416
+Houston Rockets,Miami Heat,,,2019-11-27,Under,Under,True,115.0,18531
+San Antonio Spurs,Minnesota Timberwolves,,,2019-11-27,Under,Under,True,83,18614
+Phoenix Suns,Washington Wizards,,,2019-11-27,Over,Over,True,83,18697
+New Orleans Pelicans,Los Angeles Lakers,,,2019-11-27,Under,Under,True,125.0,18822
+Portland Trail Blazers,Oklahoma City Thunder,,,2019-11-27,Over,Over,True,83,18905
+Golden State Warriors,Chicago Bulls,,,2019-11-27,Under,Under,True,120.0,19025
+Brooklyn Nets,Boston Celtics,,,2019-11-29,Over,Under,False,-100,18925
+Detroit Pistons,Charlotte Hornets,,,2019-11-29,-,Over,False,0,18925
+Orlando Magic,Toronto Raptors,,,2019-11-29,Under,Under,True,115.0,19040
+New York Knicks,Philadelphia 76ers,,,2019-11-29,Under,Under,True,90,19130
+Cleveland Cavaliers,Milwaukee Bucks,,,2019-11-29,Over,Over,True,120.0,19250
+Indiana Pacers,Atlanta Hawks,,,2019-11-29,Under,Under,True,120.0,19370
+Miami Heat,Golden State Warriors,,,2019-11-29,Over,Over,True,80,19450
+Oklahoma City Thunder,New Orleans Pelicans,,,2019-11-29,Under,Under,True,105.0,19555
+Memphis Grizzlies,Utah Jazz,,,2019-11-29,Under,Under,True,125.0,19680
+San Antonio Spurs,LA Clippers,,,2019-11-29,-,Under,False,0,19680
+Phoenix Suns,Dallas Mavericks,,,2019-11-29,Over,Over,True,80,19760
+Portland Trail Blazers,Chicago Bulls,,,2019-11-29,Under,Under,True,110.0,19870
+Los Angeles Lakers,Washington Wizards,,,2019-11-29,Under,Under,True,72,19942
+Sacramento Kings,Denver Nuggets,,,2019-11-30,Under,Under,True,90,20032
+Philadelphia 76ers,Indiana Pacers,,,2019-11-30,Over,Over,True,105.0,20137
+Milwaukee Bucks,Charlotte Hornets,,,2019-11-30,-,Over,False,0,20137
+Houston Rockets,Atlanta Hawks,,,2019-11-30,Over,Over,True,72,20209
+Brooklyn Nets,Miami Heat,,,2019-12-01,Under,Under,True,83,20292
+New York Knicks,Boston Celtics,,,2019-12-01,Over,Over,True,90,20382
+Minnesota Timberwolves,Memphis Grizzlies,,,2019-12-01,Under,Under,True,100.0,20482
+Los Angeles Lakers,Dallas Mavericks,,,2019-12-01,Under,Under,True,83,20565
+Detroit Pistons,San Antonio Spurs,,,2019-12-01,Over,Over,True,72,20637
+New Orleans Pelicans,Oklahoma City Thunder,,,2019-12-01,Under,Under,True,80,20717
+Orlando Magic,Golden State Warriors,,,2019-12-01,Under,Under,True,110.0,20827
+Toronto Raptors,Utah Jazz,,,2019-12-01,Over,Over,True,80,20907
+LA Clippers,Washington Wizards,,,2019-12-01,-,Over,False,0,20907
+Philadelphia 76ers,Utah Jazz,,,2019-12-02,Under,Under,True,110.0,21017
+Charlotte Hornets,Phoenix Suns,,,2019-12-02,-,Under,False,0,21017
+Atlanta Hawks,Golden State Warriors,,,2019-12-02,Under,Under,True,90,21107
+Memphis Grizzlies,Indiana Pacers,,,2019-12-02,Over,Over,True,80,21187
+Milwaukee Bucks,New York Knicks,,,2019-12-02,Under,Under,True,83,21270
+Sacramento Kings,Chicago Bulls,,,2019-12-02,Over,Over,True,100.0,21370
+Cleveland Cavaliers,Detroit Pistons,,,2019-12-03,Over,Over,True,110.0,21480
+Washington Wizards,Orlando Magic,,,2019-12-03,Over,Over,True,110.0,21590
+New Orleans Pelicans,Dallas Mavericks,,,2019-12-03,Under,Under,True,125.0,21715
+Toronto Raptors,Miami Heat,,,2019-12-03,Over,Over,True,83,21798
+San Antonio Spurs,Houston Rockets,,,2019-12-03,Over,Over,True,90,21888
+Denver Nuggets,Los Angeles Lakers,,,2019-12-03,Under,Under,True,115.0,22003
+LA Clippers,Portland Trail Blazers,,,2019-12-03,-,Under,False,0,22003
+Detroit Pistons,Milwaukee Bucks,,,2019-12-04,Over,Over,True,83,22086
+Orlando Magic,Phoenix Suns,,,2019-12-04,Over,Over,True,115.0,22201
+Charlotte Hornets,Golden State Warriors,,,2019-12-04,-,Under,False,0,22201
+Atlanta Hawks,Brooklyn Nets,,,2019-12-04,Over,Over,True,125.0,22326
+Boston Celtics,Miami Heat,,,2019-12-04,Under,Under,True,100.0,22426
+Chicago Bulls,Memphis Grizzlies,,,2019-12-04,Under,Under,True,72,22498
+Oklahoma City Thunder,Indiana Pacers,,,2019-12-04,Under,Under,True,105.0,22603
+Dallas Mavericks,Minnesota Timberwolves,,,2019-12-04,Over,Over,True,83,22686
+Utah Jazz,Los Angeles Lakers,,,2019-12-04,Over,Over,True,105.0,22791
+Portland Trail Blazers,Sacramento Kings,,,2019-12-04,Over,Over,True,115.0,22906
+Washington Wizards,Philadelphia 76ers,,,2019-12-05,Under,Under,True,83,22989
+Toronto Raptors,Houston Rockets,,,2019-12-05,Under,Under,True,80,23069
+New York Knicks,Denver Nuggets,,,2019-12-05,Over,Over,True,80,23149
+New Orleans Pelicans,Phoenix Suns,,,2019-12-05,Over,Over,True,72,23221
+Detroit Pistons,Indiana Pacers,,,2019-12-06,Under,Under,True,100.0,23321
+Cleveland Cavaliers,Orlando Magic,,,2019-12-06,Under,Under,True,83,23404
+Charlotte Hornets,Brooklyn Nets,,,2019-12-06,-,Under,False,0,23404
+Oklahoma City Thunder,Minnesota Timberwolves,,,2019-12-06,Over,Over,True,105.0,23509
+Miami Heat,Washington Wizards,,,2019-12-06,Under,Under,True,83,23592
+Chicago Bulls,Golden State Warriors,,,2019-12-06,Under,Under,True,83,23675
+Boston Celtics,Denver Nuggets,,,2019-12-06,Under,Under,False,-100,23575
+Milwaukee Bucks,LA Clippers,,,2019-12-06,-,Under,False,0,23575
+San Antonio Spurs,Sacramento Kings,,,2019-12-06,Under,Over,False,-100,23475
+Portland Trail Blazers,Los Angeles Lakers,,,2019-12-06,Over,Over,True,125.0,23600
+Dallas Mavericks,New Orleans Pelicans,,,2019-12-07,Under,Over,False,-100,23500
+Philadelphia 76ers,Cleveland Cavaliers,,,2019-12-07,Over,Over,True,120.0,23620
+New York Knicks,Indiana Pacers,,,2019-12-07,Under,Under,True,72,23692
+Houston Rockets,Phoenix Suns,,,2019-12-07,Under,Under,True,90,23782
+Utah Jazz,Memphis Grizzlies,,,2019-12-07,Over,Over,True,83,23865
+Brooklyn Nets,Denver Nuggets,,,2019-12-08,Under,Under,True,125.0,23990
+Charlotte Hornets,Atlanta Hawks,,,2019-12-08,-,Over,False,0,23990
+Philadelphia 76ers,Toronto Raptors,,,2019-12-08,Over,Over,True,125.0,24115
+Miami Heat,Chicago Bulls,,,2019-12-08,Over,Over,True,105.0,24220
+Washington Wizards,LA Clippers,,,2019-12-08,-,Under,False,0,24220
+Dallas Mavericks,Sacramento Kings,,,2019-12-08,Under,Under,False,-100,24120
+Portland Trail Blazers,Oklahoma City Thunder,,,2019-12-08,Under,Under,True,120.0,24240
+Los Angeles Lakers,Minnesota Timberwolves,,,2019-12-08,Over,Under,False,-100,24140
+Indiana Pacers,LA Clippers,,,2019-12-09,-,Under,False,0,24140
+Boston Celtics,Cleveland Cavaliers,,,2019-12-09,Under,Under,True,83,24223
+Chicago Bulls,Toronto Raptors,,,2019-12-09,Under,Under,True,100.0,24323
+New Orleans Pelicans,Detroit Pistons,,,2019-12-09,Under,Under,True,83,24406
+Houston Rockets,Sacramento Kings,,,2019-12-09,Over,Over,True,90,24496
+Milwaukee Bucks,Orlando Magic,,,2019-12-09,Under,Under,True,90,24586
+Phoenix Suns,Minnesota Timberwolves,,,2019-12-09,Under,Under,False,-100,24486
+Utah Jazz,Oklahoma City Thunder,,,2019-12-09,Under,Under,True,83,24569
+Golden State Warriors,Memphis Grizzlies,,,2019-12-09,Under,Under,True,72,24641
+Philadelphia 76ers,Denver Nuggets,,,2019-12-10,Under,Under,True,83,24724
+Charlotte Hornets,Washington Wizards,,,2019-12-10,-,Under,False,0,24724
+Miami Heat,Atlanta Hawks,,,2019-12-10,Over,Over,True,100.0,24824
+Portland Trail Blazers,New York Knicks,,,2019-12-10,Under,Under,True,90,24914
+Indiana Pacers,Boston Celtics,,,2019-12-11,Over,Over,True,120.0,25034
+Toronto Raptors,LA Clippers,,,2019-12-11,-,Under,False,0,25034
+Orlando Magic,Los Angeles Lakers,,,2019-12-11,Under,Under,True,100.0,25134
+Cleveland Cavaliers,Houston Rockets,,,2019-12-11,Under,Under,True,120.0,25254
+Brooklyn Nets,Charlotte Hornets,,,2019-12-11,-,Over,False,0,25254
+Minnesota Timberwolves,Utah Jazz,,,2019-12-11,Over,Over,True,72,25326
+Chicago Bulls,Atlanta Hawks,,,2019-12-11,Over,Over,True,72,25398
+Phoenix Suns,Memphis Grizzlies,,,2019-12-11,Under,Under,True,120.0,25518
+Milwaukee Bucks,New Orleans Pelicans,,,2019-12-11,Over,Over,True,80,25598
+Sacramento Kings,Oklahoma City Thunder,,,2019-12-11,Under,Under,True,125.0,25723
+Golden State Warriors,New York Knicks,,,2019-12-11,Over,Over,True,115.0,25838
+Boston Celtics,Philadelphia 76ers,,,2019-12-12,Over,Over,True,80,25918
+San Antonio Spurs,Cleveland Cavaliers,,,2019-12-12,Over,Over,True,125.0,26043
+Detroit Pistons,Dallas Mavericks,,,2019-12-12,Over,Over,True,72,26115
+Denver Nuggets,Portland Trail Blazers,,,2019-12-12,Under,Under,True,83,26198
+Orlando Magic,Houston Rockets,,,2019-12-13,Over,Over,True,120.0,26318
+Philadelphia 76ers,New Orleans Pelicans,,,2019-12-13,Over,Over,True,110.0,26428
+Atlanta Hawks,Indiana Pacers,,,2019-12-13,Under,Under,True,83,26511
+Memphis Grizzlies,Milwaukee Bucks,,,2019-12-13,Over,Over,True,90,26601
+Miami Heat,Los Angeles Lakers,,,2019-12-13,Over,Over,True,90,26691
+Minnesota Timberwolves,LA Clippers,,,2019-12-13,-,Over,False,0,26691
+Chicago Bulls,Charlotte Hornets,,,2019-12-13,-,Under,False,0,26691
+Sacramento Kings,New York Knicks,,,2019-12-13,Under,Under,True,100.0,26791
+Utah Jazz,Golden State Warriors,,,2019-12-13,Over,Over,True,90,26881
+Phoenix Suns,San Antonio Spurs,,,2019-12-14,Over,Over,True,110.0,26991
+Toronto Raptors,Brooklyn Nets,,,2019-12-14,Under,Under,True,120.0,27111
+Chicago Bulls,LA Clippers,,,2019-12-14,-,Under,False,0,27111
+Memphis Grizzlies,Washington Wizards,,,2019-12-14,Over,Over,True,80,27191
+Dallas Mavericks,Miami Heat,,,2019-12-14,Over,Over,True,80,27271
+Milwaukee Bucks,Cleveland Cavaliers,,,2019-12-14,Over,Over,True,115.0,27386
+Houston Rockets,Detroit Pistons,,,2019-12-14,Under,Under,True,83,27469
+Denver Nuggets,Oklahoma City Thunder,,,2019-12-14,Over,Over,True,125.0,27594
+New Orleans Pelicans,Orlando Magic,,,2019-12-15,Over,Under,False,-100,27494
+Indiana Pacers,Charlotte Hornets,,,2019-12-15,-,Under,False,0,27494
+Brooklyn Nets,Philadelphia 76ers,,,2019-12-15,Under,Under,True,100.0,27594
+Atlanta Hawks,Los Angeles Lakers,,,2019-12-15,Under,Under,True,83,27677
+Denver Nuggets,New York Knicks,,,2019-12-15,Over,Over,True,80,27757
+Golden State Warriors,Sacramento Kings,,,2019-12-15,Under,Under,True,115.0,27872
+Detroit Pistons,Washington Wizards,,,2019-12-16,Over,Over,True,115.0,27987
+Toronto Raptors,Cleveland Cavaliers,,,2019-12-16,Over,Over,True,110.0,28097
+Oklahoma City Thunder,Chicago Bulls,,,2019-12-16,Over,Over,True,83,28180
+Memphis Grizzlies,Miami Heat,,,2019-12-16,Over,Over,True,90,28270
+Houston Rockets,San Antonio Spurs,,,2019-12-16,Under,Under,True,105.0,28375
+Milwaukee Bucks,Dallas Mavericks,,,2019-12-16,Over,Over,True,120.0,28495
+Phoenix Suns,Portland Trail Blazers,,,2019-12-16,Under,Under,True,115.0,28610
+Charlotte Hornets,Sacramento Kings,,,2019-12-17,-,Over,False,0,28610
+Indiana Pacers,Los Angeles Lakers,,,2019-12-17,Under,Under,True,83,28693
+New York Knicks,Atlanta Hawks,,,2019-12-17,Over,Over,True,83,28776
+New Orleans Pelicans,Brooklyn Nets,,,2019-12-17,Under,Under,True,125.0,28901
+Utah Jazz,Orlando Magic,,,2019-12-17,Over,Over,True,115.0,29016
+LA Clippers,Phoenix Suns,,,2019-12-17,-,Under,False,0,29016
+Washington Wizards,Chicago Bulls,,,2019-12-18,Under,Under,True,120.0,29136
+Detroit Pistons,Toronto Raptors,,,2019-12-18,Under,Under,True,80,29216
+Cleveland Cavaliers,Charlotte Hornets,,,2019-12-18,-,Under,False,0,29216
+Philadelphia 76ers,Miami Heat,,,2019-12-18,Under,Under,True,110.0,29326
+Minnesota Timberwolves,New Orleans Pelicans,,,2019-12-18,Under,Under,True,100.0,29426
+Oklahoma City Thunder,Memphis Grizzlies,,,2019-12-18,Over,Over,True,125.0,29551
+Dallas Mavericks,Boston Celtics,,,2019-12-18,Under,Under,True,83,29634
+Denver Nuggets,Orlando Magic,,,2019-12-18,Over,Over,True,125.0,29759
+Portland Trail Blazers,Golden State Warriors,,,2019-12-18,Over,Over,True,125.0,29884
+Atlanta Hawks,Utah Jazz,,,2019-12-19,Under,Under,True,120.0,30004
+Milwaukee Bucks,Los Angeles Lakers,,,2019-12-19,Under,Under,True,110.0,30114
+San Antonio Spurs,Brooklyn Nets,,,2019-12-19,Over,Over,True,105.0,30219
+LA Clippers,Houston Rockets,,,2019-12-19,-,Over,False,0,30219
+Indiana Pacers,Sacramento Kings,,,2019-12-20,Over,Over,True,90,30309
+Cleveland Cavaliers,Memphis Grizzlies,,,2019-12-20,Under,Under,True,115.0,30424
+Toronto Raptors,Washington Wizards,,,2019-12-20,Over,Over,True,80,30504
+Boston Celtics,Detroit Pistons,,,2019-12-20,Under,Under,True,100.0,30604
+Miami Heat,New York Knicks,,,2019-12-20,Over,Over,True,72,30676
+Oklahoma City Thunder,Phoenix Suns,,,2019-12-20,Over,Over,True,125.0,30801
+Philadelphia 76ers,Dallas Mavericks,,,2019-12-20,Over,Over,True,105.0,30906
+Denver Nuggets,Minnesota Timberwolves,,,2019-12-20,Under,Under,True,83,30989
+Portland Trail Blazers,Orlando Magic,,,2019-12-20,Over,Over,True,110.0,31099
+Golden State Warriors,New Orleans Pelicans,,,2019-12-20,Under,Over,False,-100,30999
+Charlotte Hornets,Utah Jazz,,,2019-12-21,-,Under,False,0,30999
+Brooklyn Nets,Atlanta Hawks,,,2019-12-21,Over,Over,True,120.0,31119
+Philadelphia 76ers,Washington Wizards,,,2019-12-21,Over,Over,True,125.0,31244
+Detroit Pistons,Chicago Bulls,,,2019-12-21,Over,Over,True,72,31316
+New York Knicks,Milwaukee Bucks,,,2019-12-21,Under,Over,False,-100,31216
+Memphis Grizzlies,Sacramento Kings,,,2019-12-21,Over,Over,True,83,31299
+San Antonio Spurs,LA Clippers,,,2019-12-21,-,Over,False,0,31299
+Phoenix Suns,Houston Rockets,,,2019-12-21,Over,Over,True,120.0,31419
+Portland Trail Blazers,Minnesota Timberwolves,,,2019-12-21,Under,Under,True,120.0,31539
+Toronto Raptors,Dallas Mavericks,,,2019-12-22,Under,Under,False,-100,31439
+Boston Celtics,Charlotte Hornets,,,2019-12-22,-,Over,False,0,31439
+Milwaukee Bucks,Indiana Pacers,,,2019-12-22,Under,Under,True,100.0,31539
+Oklahoma City Thunder,LA Clippers,,,2019-12-22,-,Over,False,0,31539
+Los Angeles Lakers,Denver Nuggets,,,2019-12-22,Over,Over,True,120.0,31659
+Detroit Pistons,Philadelphia 76ers,,,2019-12-23,Over,Over,True,110.0,31769
+Indiana Pacers,Toronto Raptors,,,2019-12-23,Over,Over,True,72,31841
+Orlando Magic,Chicago Bulls,,,2019-12-23,Under,Under,True,90,31931
+New York Knicks,Washington Wizards,,,2019-12-23,Over,Under,False,-100,31831
+Cleveland Cavaliers,Atlanta Hawks,,,2019-12-23,Over,Over,True,125.0,31956
+Miami Heat,Utah Jazz,,,2019-12-23,Under,Under,True,100.0,32056
+Memphis Grizzlies,San Antonio Spurs,,,2019-12-23,Over,Over,True,90,32146
+Phoenix Suns,Denver Nuggets,,,2019-12-23,Over,Over,True,105.0,32251
+Sacramento Kings,Houston Rockets,,,2019-12-23,Under,Under,True,125.0,32376
+Portland Trail Blazers,New Orleans Pelicans,,,2019-12-23,Under,Under,True,83,32459
+Golden State Warriors,Minnesota Timberwolves,,,2019-12-23,Under,Under,True,115.0,32574
+Toronto Raptors,Boston Celtics,,,2019-12-25,Over,Over,True,72,32646
+Philadelphia 76ers,Milwaukee Bucks,,,2019-12-25,Over,Over,True,80,32726
+Golden State Warriors,Houston Rockets,,,2019-12-25,Under,Under,True,110.0,32836
+Los Angeles Lakers,LA Clippers,,,2019-12-25,-,Under,False,0,32836
+Denver Nuggets,New Orleans Pelicans,,,2019-12-25,Under,Under,True,105.0,32941
+Detroit Pistons,Washington Wizards,,,2019-12-26,Over,Over,True,83,33024
+Oklahoma City Thunder,Memphis Grizzlies,,,2019-12-26,Under,Over,False,-100,32924
+Brooklyn Nets,New York Knicks,,,2019-12-26,Under,Under,True,100.0,33024
+Dallas Mavericks,San Antonio Spurs,,,2019-12-26,Under,Under,True,80,33104
+Sacramento Kings,Minnesota Timberwolves,,,2019-12-26,Under,Under,True,72,33176
+Utah Jazz,Portland Trail Blazers,,,2019-12-26,Over,Over,True,120.0,33296
+Boston Celtics,Cleveland Cavaliers,,,2019-12-27,Over,Over,True,83,33379
+Orlando Magic,Philadelphia 76ers,,,2019-12-27,Under,Under,True,125.0,33504
+Charlotte Hornets,Oklahoma City Thunder,,,2019-12-27,-,Under,False,0,33504
+Atlanta Hawks,Milwaukee Bucks,,,2019-12-27,Under,Under,True,120.0,33624
+Miami Heat,Indiana Pacers,,,2019-12-27,Over,Over,True,80,33704
+Golden State Warriors,Phoenix Suns,,,2019-12-27,Under,Under,True,120.0,33824
+Denver Nuggets,Memphis Grizzlies,,,2019-12-28,Over,Over,True,120.0,33944
+New Orleans Pelicans,Indiana Pacers,,,2019-12-28,Under,Under,True,90,34034
+Boston Celtics,Toronto Raptors,,,2019-12-28,Under,Under,True,100.0,34134
+Miami Heat,Philadelphia 76ers,,,2019-12-28,Over,Over,True,72,34206
+Washington Wizards,New York Knicks,,,2019-12-28,Under,Under,True,120.0,34326
+Minnesota Timberwolves,Cleveland Cavaliers,,,2019-12-28,Under,Under,True,90,34416
+Houston Rockets,Brooklyn Nets,,,2019-12-28,Under,Under,True,90,34506
+Chicago Bulls,Atlanta Hawks,,,2019-12-28,Under,Under,True,83,34589
+Milwaukee Bucks,Orlando Magic,,,2019-12-28,Under,Under,True,105.0,34694
+Golden State Warriors,Dallas Mavericks,,,2019-12-28,Over,Over,True,72,34766
+San Antonio Spurs,Detroit Pistons,,,2019-12-28,Over,Over,True,72,34838
+Sacramento Kings,Phoenix Suns,,,2019-12-28,Under,Under,True,83,34921
+Portland Trail Blazers,Los Angeles Lakers,,,2019-12-28,Over,Over,True,83,35004
+LA Clippers,Utah Jazz,,,2019-12-28,-,Over,False,0,35004
+Toronto Raptors,Oklahoma City Thunder,,,2019-12-29,Under,Under,True,83,35087
+New Orleans Pelicans,Houston Rockets,,,2019-12-29,Over,Over,True,110.0,35197
+Memphis Grizzlies,Charlotte Hornets,,,2019-12-29,-,Over,False,0,35197
+Denver Nuggets,Sacramento Kings,,,2019-12-29,Over,Over,True,72,35269
+Los Angeles Lakers,Dallas Mavericks,,,2019-12-29,Under,Under,True,115.0,35384
+Orlando Magic,Atlanta Hawks,,,2019-12-30,Under,Under,True,115.0,35499
+Washington Wizards,Miami Heat,,,2019-12-30,Over,Over,True,125.0,35624
+Minnesota Timberwolves,Brooklyn Nets,,,2019-12-30,Over,Over,True,90,35714
+Chicago Bulls,Milwaukee Bucks,,,2019-12-30,Over,Over,True,100.0,35814
+Utah Jazz,Detroit Pistons,,,2019-12-30,Under,Under,True,80,35894
+Portland Trail Blazers,Phoenix Suns,,,2019-12-30,Over,Over,True,72,35966
+Charlotte Hornets,Boston Celtics,,,2019-12-31,-,Over,False,0,35966
+Indiana Pacers,Philadelphia 76ers,,,2019-12-31,Over,Over,True,110.0,36076
+Sacramento Kings,LA Clippers,,,2019-12-31,-,Under,False,0,36076
+San Antonio Spurs,Golden State Warriors,,,2019-12-31,Over,Over,True,72,36148
+Toronto Raptors,Cleveland Cavaliers,,,2019-12-31,Under,Under,True,110.0,36258
+Houston Rockets,Denver Nuggets,,,2019-12-31,Over,Over,True,80,36338
+Oklahoma City Thunder,Dallas Mavericks,,,2019-12-31,Under,Under,True,80,36418
+Los Angeles Lakers,Phoenix Suns,,,2020-01-01,Under,Under,True,72,36490
+Cleveland Cavaliers,Charlotte Hornets,,,2020-01-02,-,Over,False,0,36490
+Chicago Bulls,Utah Jazz,,,2020-01-02,Under,Under,True,80,36570
+San Antonio Spurs,Oklahoma City Thunder,,,2020-01-02,Under,Under,True,105.0,36675
+Sacramento Kings,Memphis Grizzlies,,,2020-01-02,Over,Over,True,80,36755
+LA Clippers,Detroit Pistons,,,2020-01-02,-,Under,False,0,36755
+Phoenix Suns,New York Knicks,,,2020-01-03,Over,Over,True,100.0,36855
+LA Clippers,Memphis Grizzlies,,,2020-01-04,-,Under,False,0,36855
+Orlando Magic,Utah Jazz,,,2020-01-04,Under,Under,True,105.0,36960
+Cleveland Cavaliers,Oklahoma City Thunder,,,2020-01-04,Over,Over,True,125.0,37085
+Sacramento Kings,New Orleans Pelicans,,,2020-01-04,Over,Over,True,72,37157
+Orlando Magic,Brooklyn Nets,,,2020-01-06,Under,Under,True,115.0,37272
+Philadelphia 76ers,Oklahoma City Thunder,,,2020-01-06,Over,Over,True,115.0,37387
+New Orleans Pelicans,Utah Jazz,,,2020-01-06,Over,Over,True,80,37467
+San Antonio Spurs,Milwaukee Bucks,,,2020-01-06,Over,Over,True,100.0,37567
+Toronto Raptors,Portland Trail Blazers,,,2020-01-07,Under,Under,True,80,37647
+Brooklyn Nets,Oklahoma City Thunder,,,2020-01-07,Under,Under,True,90,37737
+Phoenix Suns,Sacramento Kings,,,2020-01-07,Under,Under,True,72,37809
+Los Angeles Lakers,New York Knicks,,,2020-01-07,Under,Under,True,83,37892
+Charlotte Hornets,Toronto Raptors,,,2020-01-08,-,Over,False,0,37892
+Indiana Pacers,Miami Heat,,,2020-01-08,Over,Over,True,115.0,38007
+Dallas Mavericks,Denver Nuggets,,,2020-01-08,Under,Under,True,105.0,38112
+Atlanta Hawks,Houston Rockets,,,2020-01-08,Over,Over,True,90,38202
+New Orleans Pelicans,Chicago Bulls,,,2020-01-08,Over,Over,True,105.0,38307
+Utah Jazz,New York Knicks,,,2020-01-08,Over,Over,True,125.0,38432
+Golden State Warriors,Milwaukee Bucks,,,2020-01-08,Under,Under,True,83,38515
+Detroit Pistons,Cleveland Cavaliers,,,2020-01-09,Over,Over,True,100.0,38615
+Philadelphia 76ers,Boston Celtics,,,2020-01-09,Under,Under,True,80,38695
+Brooklyn Nets,Miami Heat,,,2020-01-10,Over,Over,True,100.0,38795
+New York Knicks,New Orleans Pelicans,,,2020-01-10,Over,Over,True,125.0,38920
+Chicago Bulls,Indiana Pacers,,,2020-01-10,Over,Over,True,90,39010
+Dallas Mavericks,Los Angeles Lakers,,,2020-01-10,Over,Over,True,115.0,39125
+Utah Jazz,Charlotte Hornets,,,2020-01-10,-,Under,False,0,39125
+Houston Rockets,Minnesota Timberwolves,,,2020-01-11,Over,Over,True,115.0,39240
+Boston Celtics,New Orleans Pelicans,,,2020-01-11,Over,Over,True,105.0,39345
+Detroit Pistons,Chicago Bulls,,,2020-01-11,Under,Under,True,90,39435
+Oklahoma City Thunder,Los Angeles Lakers,,,2020-01-11,Over,Over,True,72,39507
+Dallas Mavericks,Philadelphia 76ers,,,2020-01-11,Under,Under,True,72,39579
+Denver Nuggets,Cleveland Cavaliers,,,2020-01-11,Under,Under,True,83,39662
+Portland Trail Blazers,Milwaukee Bucks,,,2020-01-11,Under,Under,True,90,39752
+New York Knicks,Miami Heat,,,2020-01-12,Over,Over,True,72,39824
+Toronto Raptors,San Antonio Spurs,,,2020-01-12,Under,Over,False,-100,39724
+Indiana Pacers,Philadelphia 76ers,,,2020-01-13,Under,Under,True,83,39807
+Detroit Pistons,New Orleans Pelicans,,,2020-01-13,Under,Under,True,80,39887
+Boston Celtics,Chicago Bulls,,,2020-01-13,Under,Under,True,115.0,40002
+Minnesota Timberwolves,Oklahoma City Thunder,,,2020-01-13,Over,Over,True,120.0,40122
+Portland Trail Blazers,Charlotte Hornets,,,2020-01-13,-,Over,False,0,40122
+Sacramento Kings,Orlando Magic,,,2020-01-13,Over,Over,True,120.0,40242
+Los Angeles Lakers,Cleveland Cavaliers,,,2020-01-13,Over,Over,True,72,40314
+Atlanta Hawks,Phoenix Suns,,,2020-01-14,Over,Over,True,83,40397
+Milwaukee Bucks,New York Knicks,,,2020-01-14,Over,Over,True,120.0,40517
+LA Clippers,Cleveland Cavaliers,,,2020-01-14,-,Over,False,0,40517
+Philadelphia 76ers,Brooklyn Nets,,,2020-01-15,Over,Over,True,115.0,40632
+Boston Celtics,Detroit Pistons,,,2020-01-15,Over,Over,True,72,40704
+Miami Heat,San Antonio Spurs,,,2020-01-15,Under,Under,True,110.0,40814
+Denver Nuggets,Charlotte Hornets,,,2020-01-15,-,Under,False,0,40814
+Houston Rockets,Portland Trail Blazers,,,2020-01-15,Under,Under,True,115.0,40929
+Sacramento Kings,Dallas Mavericks,,,2020-01-15,Over,Over,True,83,41012
+Los Angeles Lakers,Orlando Magic,,,2020-01-15,Over,Over,True,100.0,41112
+New Orleans Pelicans,Utah Jazz,,,2020-01-16,Over,Under,False,-100,41012
+Golden State Warriors,Denver Nuggets,,,2020-01-16,Over,Over,True,120.0,41132
+Oklahoma City Thunder,Miami Heat,,,2020-01-17,Over,Over,True,80,41212
+San Antonio Spurs,Atlanta Hawks,,,2020-01-17,Over,Over,True,80,41292
+Dallas Mavericks,Portland Trail Blazers,,,2020-01-17,Over,Over,True,125.0,41417
+New Orleans Pelicans,LA Clippers,,,2020-01-18,-,Over,False,0,41417
+Brooklyn Nets,Milwaukee Bucks,,,2020-01-18,Under,Under,True,90,41507
+Boston Celtics,Phoenix Suns,,,2020-01-18,Over,Over,True,105.0,41612
+Atlanta Hawks,Detroit Pistons,,,2020-01-18,Over,Over,True,115.0,41727
+New York Knicks,Philadelphia 76ers,,,2020-01-18,Under,Under,True,125.0,41852
+Chicago Bulls,Cleveland Cavaliers,,,2020-01-18,Over,Over,True,115.0,41967
+Houston Rockets,Los Angeles Lakers,,,2020-01-18,Over,Over,True,105.0,42072
+Golden State Warriors,Orlando Magic,,,2020-01-18,Under,Under,True,110.0,42182
+Oklahoma City Thunder,Portland Trail Blazers,,,2020-01-18,Over,Over,True,120.0,42302
+Utah Jazz,Sacramento Kings,,,2020-01-18,Over,Over,True,120.0,42422
+San Antonio Spurs,Miami Heat,,,2020-01-19,Under,Under,True,125.0,42547
+Washington Wizards,Detroit Pistons,,,2020-01-20,Under,Under,True,115.0,42662
+Atlanta Hawks,Toronto Raptors,,,2020-01-20,Over,Over,True,90,42752
+Brooklyn Nets,Philadelphia 76ers,,,2020-01-20,Over,Over,True,110.0,42862
+Miami Heat,Sacramento Kings,,,2020-01-20,Over,Over,True,90,42952
+Milwaukee Bucks,Chicago Bulls,,,2020-01-20,Under,Under,True,105.0,43057
+Cleveland Cavaliers,New York Knicks,,,2020-01-20,Under,Under,True,90,43147
+Charlotte Hornets,Orlando Magic,,,2020-01-20,-,Over,False,0,43147
+Memphis Grizzlies,New Orleans Pelicans,,,2020-01-20,Over,Under,False,-100,43047
+Houston Rockets,Oklahoma City Thunder,,,2020-01-20,Under,Under,True,100.0,43147
+Boston Celtics,Los Angeles Lakers,,,2020-01-20,Over,Over,True,83,43230
+Minnesota Timberwolves,Denver Nuggets,,,2020-01-20,Under,Under,True,125.0,43355
+Utah Jazz,Indiana Pacers,,,2020-01-20,Under,Under,True,120.0,43475
+Phoenix Suns,San Antonio Spurs,,,2020-01-20,Over,Over,True,120.0,43595
+Portland Trail Blazers,Golden State Warriors,,,2020-01-20,Over,Over,True,115.0,43710
+Dallas Mavericks,LA Clippers,,,2020-01-21,-,Under,False,0,43710
+Orlando Magic,Oklahoma City Thunder,,,2020-01-22,Over,Over,True,110.0,43820
+New York Knicks,Los Angeles Lakers,,,2020-01-22,Under,Under,True,83,43903
+Toronto Raptors,Philadelphia 76ers,,,2020-01-22,Under,Under,True,83,43986
+Atlanta Hawks,LA Clippers,,,2020-01-22,-,Under,False,0,43986
+Boston Celtics,Memphis Grizzlies,,,2020-01-22,Under,Under,True,83,44069
+New Orleans Pelicans,San Antonio Spurs,,,2020-01-22,Over,Over,True,83,44152
+Phoenix Suns,Indiana Pacers,,,2020-01-22,Under,Under,True,120.0,44272
+Golden State Warriors,Utah Jazz,,,2020-01-22,Over,Over,True,72,44344
+Brooklyn Nets,Los Angeles Lakers,,,2020-01-23,Over,Over,True,100.0,44444
+Portland Trail Blazers,Dallas Mavericks,,,2020-01-23,Over,Over,True,105.0,44549
+Charlotte Hornets,Milwaukee Bucks,,,2020-01-24,-,Under,False,0,44549
+Orlando Magic,Boston Celtics,,,2020-01-24,Under,Under,True,80,44629
+Detroit Pistons,Memphis Grizzlies,,,2020-01-24,Over,Under,False,-100,44529
+New York Knicks,Toronto Raptors,,,2020-01-24,Over,Under,False,-100,44429
+New Orleans Pelicans,Denver Nuggets,,,2020-01-24,Under,Under,True,120.0,44549
+Oklahoma City Thunder,Atlanta Hawks,,,2020-01-24,Over,Over,True,115.0,44664
+Utah Jazz,Dallas Mavericks,,,2020-01-25,Under,Over,False,-100,44564
+Detroit Pistons,Brooklyn Nets,,,2020-01-25,Over,Over,True,83,44647
+Philadelphia 76ers,Los Angeles Lakers,,,2020-01-25,Under,Under,True,120.0,44767
+San Antonio Spurs,Toronto Raptors,,,2020-01-26,Under,Under,True,110.0,44877
+Memphis Grizzlies,Phoenix Suns,,,2020-01-26,Under,Under,True,105.0,44982
+Portland Trail Blazers,Indiana Pacers,,,2020-01-26,Over,Over,True,90,45072
+Miami Heat,Orlando Magic,,,2020-01-27,Under,Under,True,72,45144
+Chicago Bulls,San Antonio Spurs,,,2020-01-27,Over,Over,True,100.0,45244
+Utah Jazz,Houston Rockets,,,2020-01-27,Over,Over,True,115.0,45359
+Philadelphia 76ers,Golden State Warriors,,,2020-01-28,Over,Over,True,90,45449
+Miami Heat,Boston Celtics,,,2020-01-28,Under,Under,True,72,45521
+Cleveland Cavaliers,New Orleans Pelicans,,,2020-01-28,Over,Over,True,100.0,45621
+Toronto Raptors,Atlanta Hawks,,,2020-01-28,Over,Over,True,105.0,45726
+Memphis Grizzlies,Denver Nuggets,,,2020-01-28,Under,Under,True,100.0,45826
+Dallas Mavericks,Phoenix Suns,,,2020-01-28,Over,Over,True,120.0,45946
+Indiana Pacers,Chicago Bulls,,,2020-01-29,Over,Over,True,83,46029
+Brooklyn Nets,Detroit Pistons,,,2020-01-29,Over,Over,True,90,46119
+New York Knicks,Memphis Grizzlies,,,2020-01-29,Over,Over,True,72,46191
+Cleveland Cavaliers,Toronto Raptors,,,2020-01-30,Over,Over,True,83,46274
+Washington Wizards,Charlotte Hornets,,,2020-01-30,-,Over,False,0,46274
+Atlanta Hawks,Philadelphia 76ers,,,2020-01-30,Over,Over,True,83,46357
+Boston Celtics,Golden State Warriors,,,2020-01-30,Over,Over,True,105.0,46462
+LA Clippers,Sacramento Kings,,,2020-01-30,-,Under,False,0,46462
+Detroit Pistons,Toronto Raptors,,,2020-01-31,Under,Under,True,105.0,46567
+Brooklyn Nets,Chicago Bulls,,,2020-01-31,Over,Over,True,80,46647
+New Orleans Pelicans,Memphis Grizzlies,,,2020-01-31,Over,Over,True,105.0,46752
+Milwaukee Bucks,Denver Nuggets,,,2020-01-31,Over,Over,True,110.0,46862
+Los Angeles Lakers,Portland Trail Blazers,,,2020-01-31,Over,Over,True,125.0,46987
+Orlando Magic,Miami Heat,,,2020-02-01,Under,Under,True,83,47070
+Indiana Pacers,New York Knicks,,,2020-02-01,Under,Under,True,115.0,47185
+Washington Wizards,Brooklyn Nets,,,2020-02-01,Under,Under,True,83,47268
+Cleveland Cavaliers,Golden State Warriors,,,2020-02-01,Over,Over,True,83,47351
+Boston Celtics,Philadelphia 76ers,,,2020-02-01,Under,Under,True,120.0,47471
+Dallas Mavericks,Atlanta Hawks,,,2020-02-01,Under,Under,True,100.0,47571
+Portland Trail Blazers,Utah Jazz,,,2020-02-01,Over,Over,True,110.0,47681
+Sacramento Kings,Los Angeles Lakers,,,2020-02-01,Over,Over,True,120.0,47801
+Detroit Pistons,Denver Nuggets,,,2020-02-02,Over,Over,True,100.0,47901
+Houston Rockets,New Orleans Pelicans,,,2020-02-02,Under,Under,True,90,47991
+Milwaukee Bucks,Phoenix Suns,,,2020-02-02,Over,Over,True,120.0,48111
+Toronto Raptors,Chicago Bulls,,,2020-02-02,Over,Over,True,105.0,48216
+Cleveland Cavaliers,New York Knicks,,,2020-02-03,Over,Over,True,83,48299
+Washington Wizards,Golden State Warriors,,,2020-02-03,Over,Over,True,105.0,48404
+Indiana Pacers,Dallas Mavericks,,,2020-02-03,Under,Under,True,72,48476
+Charlotte Hornets,Orlando Magic,,,2020-02-03,-,Over,False,0,48476
+Brooklyn Nets,Phoenix Suns,,,2020-02-03,Under,Under,True,120.0,48596
+Miami Heat,Philadelphia 76ers,,,2020-02-03,Over,Over,True,80,48676
+Atlanta Hawks,Boston Celtics,,,2020-02-03,Over,Over,True,125.0,48801
+Memphis Grizzlies,Detroit Pistons,,,2020-02-03,Under,Under,True,110.0,48911
+New Orleans Pelicans,Milwaukee Bucks,,,2020-02-04,Under,Under,True,115.0,49026
+Houston Rockets,Charlotte Hornets,,,2020-02-04,-,Over,False,0,49026
+Denver Nuggets,Portland Trail Blazers,,,2020-02-04,Over,Over,True,105.0,49131
+Los Angeles Lakers,San Antonio Spurs,,,2020-02-04,Over,Over,True,83,49214
+Toronto Raptors,Indiana Pacers,,,2020-02-05,Over,Over,True,120.0,49334
+Oklahoma City Thunder,Cleveland Cavaliers,,,2020-02-05,Under,Over,False,-100,49234
+Dallas Mavericks,Memphis Grizzlies,,,2020-02-05,Under,Under,True,90,49324
+Utah Jazz,Denver Nuggets,,,2020-02-05,Under,Under,True,125.0,49449
+LA Clippers,Miami Heat,,,2020-02-05,-,Under,False,0,49449
+New York Knicks,Orlando Magic,,,2020-02-06,Over,Over,True,105.0,49554
+Chicago Bulls,New Orleans Pelicans,,,2020-02-06,Over,Over,True,90,49644
+Milwaukee Bucks,Philadelphia 76ers,,,2020-02-06,Under,Under,True,125.0,49769
+Portland Trail Blazers,San Antonio Spurs,,,2020-02-06,Over,Over,True,115.0,49884
+Los Angeles Lakers,Houston Rockets,,,2020-02-06,Under,Under,True,83,49967
+Washington Wizards,Dallas Mavericks,,,2020-02-07,Over,Over,True,72,50039
+Philadelphia 76ers,Memphis Grizzlies,,,2020-02-07,Over,Over,True,105.0,50144
+Boston Celtics,Atlanta Hawks,,,2020-02-07,Under,Under,True,80,50224
+Indiana Pacers,Toronto Raptors,,,2020-02-07,Over,Over,True,90,50314
+Phoenix Suns,Houston Rockets,,,2020-02-07,Under,Under,True,100.0,50414
+Utah Jazz,Portland Trail Blazers,,,2020-02-07,Over,Over,True,110.0,50524
+Orlando Magic,Milwaukee Bucks,,,2020-02-08,Under,Under,True,90,50614
+Detroit Pistons,New York Knicks,,,2020-02-08,Under,Under,True,125.0,50739
+Charlotte Hornets,Dallas Mavericks,,,2020-02-08,-,Under,False,0,50739
+Indiana Pacers,New Orleans Pelicans,,,2020-02-08,Over,Over,True,105.0,50844
+Minnesota Timberwolves,LA Clippers,,,2020-02-08,-,Over,False,0,50844
+Sacramento Kings,San Antonio Spurs,,,2020-02-08,Under,Under,True,83,50927
+Oklahoma City Thunder,Boston Celtics,,,2020-02-09,Over,Over,True,125.0,51052
+Atlanta Hawks,New York Knicks,,,2020-02-09,Over,Over,True,120.0,51172
+Philadelphia 76ers,Chicago Bulls,,,2020-02-09,Over,Over,True,90,51262
+Washington Wizards,Memphis Grizzlies,,,2020-02-09,Under,Under,True,100.0,51362
+Indiana Pacers,Brooklyn Nets,,,2020-02-10,Under,Under,True,125.0,51487
+Orlando Magic,Atlanta Hawks,,,2020-02-10,Over,Over,True,72,51559
+Detroit Pistons,Charlotte Hornets,,,2020-02-10,-,Under,False,0,51559
+Toronto Raptors,Minnesota Timberwolves,,,2020-02-10,Over,Over,True,105.0,51664
+Milwaukee Bucks,Sacramento Kings,,,2020-02-10,Over,Over,True,105.0,51769
+Dallas Mavericks,Utah Jazz,,,2020-02-10,Over,Over,True,120.0,51889
+Denver Nuggets,San Antonio Spurs,,,2020-02-10,Over,Over,True,72,51961
+Washington Wizards,Chicago Bulls,,,2020-02-11,Over,Over,True,115.0,52076
+Philadelphia 76ers,LA Clippers,,,2020-02-11,-,Under,False,0,52076
+New Orleans Pelicans,Portland Trail Blazers,,,2020-02-11,Over,Over,True,80,52156
+Oklahoma City Thunder,San Antonio Spurs,,,2020-02-11,Under,Under,True,110.0,52266
+Houston Rockets,Boston Celtics,,,2020-02-11,Under,Under,True,100.0,52366
+Orlando Magic,Detroit Pistons,,,2020-02-12,Over,Over,True,125.0,52491
+Cleveland Cavaliers,Atlanta Hawks,,,2020-02-12,Under,Under,True,83,52574
+New York Knicks,Washington Wizards,,,2020-02-12,Under,Under,True,80,52654
+Brooklyn Nets,Toronto Raptors,,,2020-02-12,Under,Under,True,80,52734
+Indiana Pacers,Milwaukee Bucks,,,2020-02-12,Over,Over,True,80,52814
+Minnesota Timberwolves,Charlotte Hornets,,,2020-02-12,-,Under,False,0,52814
+Memphis Grizzlies,Portland Trail Blazers,,,2020-02-12,Under,Over,False,-100,52714
+Dallas Mavericks,Sacramento Kings,,,2020-02-12,Over,Over,True,115.0,52829
+Utah Jazz,Miami Heat,,,2020-02-12,Under,Under,True,80,52909
+Boston Celtics,LA Clippers,,,2020-02-13,-,Over,False,0,52909
+New Orleans Pelicans,Oklahoma City Thunder,,,2020-02-13,Over,Over,True,110.0,53019
+Detroit Pistons,Milwaukee Bucks,,,2020-02-20,Over,Over,True,100.0,53119
+Atlanta Hawks,Miami Heat,,,2020-02-20,Over,Over,True,115.0,53234
+Chicago Bulls,Charlotte Hornets,,,2020-02-20,-,Under,False,0,53234
+Sacramento Kings,Memphis Grizzlies,,,2020-02-20,Over,Over,True,83,53317
+Orlando Magic,Dallas Mavericks,,,2020-02-21,Over,Over,True,105.0,53422
+Minnesota Timberwolves,Boston Celtics,,,2020-02-21,Over,Over,True,115.0,53537
+Oklahoma City Thunder,Denver Nuggets,,,2020-02-21,Under,Under,True,83,53620
+Utah Jazz,San Antonio Spurs,,,2020-02-21,Under,Under,True,83,53703
+Portland Trail Blazers,New Orleans Pelicans,,,2020-02-21,Over,Under,False,-100,53603
+Los Angeles Lakers,Memphis Grizzlies,,,2020-02-21,Under,Under,True,115.0,53718
+LA Clippers,Sacramento Kings,,,2020-02-22,-,Under,False,0,53718
+Charlotte Hornets,Brooklyn Nets,,,2020-02-22,-,Under,False,0,53718
+Atlanta Hawks,Dallas Mavericks,,,2020-02-22,Under,Under,True,72,53790
+Miami Heat,Cleveland Cavaliers,,,2020-02-22,Over,Over,True,72,53862
+Chicago Bulls,Phoenix Suns,,,2020-02-22,Under,Under,True,100.0,53962
+Milwaukee Bucks,Philadelphia 76ers,,,2020-02-22,Under,Under,True,110.0,54072
+Los Angeles Lakers,Boston Celtics,,,2020-02-23,Over,Over,True,115.0,54187
+Toronto Raptors,Indiana Pacers,,,2020-02-23,Under,Under,True,115.0,54302
+Denver Nuggets,Minnesota Timberwolves,,,2020-02-23,Over,Under,False,-100,54202
+Oklahoma City Thunder,San Antonio Spurs,,,2020-02-23,Over,Over,True,83,54285
+Chicago Bulls,Washington Wizards,,,2020-02-23,Over,Over,True,83,54368
+Portland Trail Blazers,Detroit Pistons,,,2020-02-23,Under,Under,True,100.0,54468
+Washington Wizards,Milwaukee Bucks,,,2020-02-24,Over,Over,True,83,54551
+Cleveland Cavaliers,Miami Heat,,,2020-02-24,Over,Under,False,-100,54451
+Philadelphia 76ers,Atlanta Hawks,,,2020-02-24,Over,Over,True,72,54523
+Brooklyn Nets,Orlando Magic,,,2020-02-24,Over,Over,True,90,54613
+Houston Rockets,New York Knicks,,,2020-02-24,Over,Over,True,120.0,54733
+Dallas Mavericks,Minnesota Timberwolves,,,2020-02-24,Over,Over,True,115.0,54848
+Utah Jazz,Phoenix Suns,,,2020-02-24,Over,Over,True,125.0,54973
+LA Clippers,Memphis Grizzlies,,,2020-02-24,-,Under,False,0,54973
+Indiana Pacers,Charlotte Hornets,,,2020-02-25,-,Over,False,0,54973
+Chicago Bulls,Oklahoma City Thunder,,,2020-02-25,Over,Over,True,120.0,55093
+Denver Nuggets,Detroit Pistons,,,2020-02-25,Under,Under,True,100.0,55193
+Portland Trail Blazers,Boston Celtics,,,2020-02-25,Under,Under,True,105.0,55298
+Cleveland Cavaliers,Philadelphia 76ers,,,2020-02-26,Under,Under,True,83,55381
+Charlotte Hornets,New York Knicks,,,2020-02-26,-,Over,False,0,55381
+Atlanta Hawks,Orlando Magic,,,2020-02-26,Over,Over,True,125.0,55506
+San Antonio Spurs,Dallas Mavericks,,,2020-02-26,Under,Under,True,80,55586
+Miami Heat,Minnesota Timberwolves,,,2020-02-26,Over,Over,True,115.0,55701
+Houston Rockets,Memphis Grizzlies,,,2020-02-26,Over,Over,True,100.0,55801
+Phoenix Suns,LA Clippers,,,2020-02-26,-,Under,False,0,55801
+Utah Jazz,Boston Celtics,,,2020-02-26,Under,Under,True,115.0,55916
+Philadelphia 76ers,New York Knicks,,,2020-02-27,Over,Under,False,-100,55816
+Oklahoma City Thunder,Sacramento Kings,,,2020-02-27,Under,Over,False,-100,55716
+Indiana Pacers,Portland Trail Blazers,,,2020-02-27,Under,Over,False,-100,55616
+Golden State Warriors,Los Angeles Lakers,,,2020-02-27,Under,Under,True,120.0,55736
+Orlando Magic,Minnesota Timberwolves,,,2020-02-28,Over,Over,True,100.0,55836
+Toronto Raptors,Charlotte Hornets,,,2020-02-28,-,Under,False,0,55836
+New Orleans Pelicans,Cleveland Cavaliers,,,2020-02-28,Under,Under,True,100.0,55936
+Memphis Grizzlies,Sacramento Kings,,,2020-02-28,Under,Under,True,125.0,56061
+Milwaukee Bucks,Oklahoma City Thunder,,,2020-02-28,Under,Under,True,72,56133
+Miami Heat,Dallas Mavericks,,,2020-02-28,Over,Over,True,80,56213
+New York Knicks,Chicago Bulls,,,2020-02-29,Over,Over,True,90,56303
+Miami Heat,Brooklyn Nets,,,2020-02-29,Over,Over,True,120.0,56423
+Atlanta Hawks,Portland Trail Blazers,,,2020-02-29,Over,Over,True,83,56506
+Cleveland Cavaliers,Indiana Pacers,,,2020-02-29,Over,Under,False,-100,56406
+Boston Celtics,Houston Rockets,,,2020-02-29,Under,Under,True,72,56478
+San Antonio Spurs,Orlando Magic,,,2020-02-29,Over,Over,True,110.0,56588
+Charlotte Hornets,Milwaukee Bucks,,,2020-03-01,-,Under,False,0,56588
+LA Clippers,Philadelphia 76ers,,,2020-03-01,-,Over,False,0,56588
+Minnesota Timberwolves,Dallas Mavericks,,,2020-03-01,Under,Under,True,100.0,56688
+Denver Nuggets,Toronto Raptors,,,2020-03-01,Over,Over,True,100.0,56788
+New Orleans Pelicans,Los Angeles Lakers,,,2020-03-01,Over,Over,True,100.0,56888
+New York Knicks,Houston Rockets,,,2020-03-02,Over,Over,True,125.0,57013
+Orlando Magic,Portland Trail Blazers,,,2020-03-02,Over,Over,True,90,57103
+Atlanta Hawks,Memphis Grizzlies,,,2020-03-02,Under,Under,True,83,57186
+Miami Heat,Milwaukee Bucks,,,2020-03-02,Under,Under,True,120.0,57306
+Chicago Bulls,Dallas Mavericks,,,2020-03-02,Under,Under,True,125.0,57431
+San Antonio Spurs,Indiana Pacers,,,2020-03-02,Over,Over,True,83,57514
+Charlotte Hornets,San Antonio Spurs,,,2020-03-03,-,Under,False,0,57514
+Boston Celtics,Brooklyn Nets,,,2020-03-03,Over,Over,True,125.0,57639
+Oklahoma City Thunder,LA Clippers,,,2020-03-03,-,Over,False,0,57639
+New Orleans Pelicans,Minnesota Timberwolves,,,2020-03-03,Over,Over,True,90,57729
+Phoenix Suns,Toronto Raptors,,,2020-03-03,Over,Over,True,125.0,57854
+Los Angeles Lakers,Philadelphia 76ers,,,2020-03-03,Over,Over,True,105.0,57959
+Cleveland Cavaliers,Boston Celtics,,,2020-03-04,Over,Over,True,90,58049
+New York Knicks,Utah Jazz,,,2020-03-04,Under,Under,True,83,58132
+Brooklyn Nets,Memphis Grizzlies,,,2020-03-04,Under,Under,True,115.0,58247
+Minnesota Timberwolves,Chicago Bulls,,,2020-03-04,Under,Under,True,115.0,58362
+Dallas Mavericks,New Orleans Pelicans,,,2020-03-04,Over,Over,True,90,58452
+Milwaukee Bucks,Indiana Pacers,,,2020-03-04,Under,Under,True,120.0,58572
+Charlotte Hornets,Denver Nuggets,,,2020-03-05,-,Over,False,0,58572
+Houston Rockets,LA Clippers,,,2020-03-05,-,Under,False,0,58572
+Golden State Warriors,Toronto Raptors,,,2020-03-05,Over,Over,True,115.0,58687
+Washington Wizards,Atlanta Hawks,,,2020-03-06,Under,Under,True,105.0,58792
+Brooklyn Nets,San Antonio Spurs,,,2020-03-06,Over,Over,True,80,58872
+Boston Celtics,Utah Jazz,,,2020-03-06,Under,Under,True,83,58955
+New Orleans Pelicans,Miami Heat,,,2020-03-06,Under,Under,True,80,59035
+Minnesota Timberwolves,Orlando Magic,,,2020-03-06,Over,Over,True,110.0,59145
+Chicago Bulls,Indiana Pacers,,,2020-03-06,Under,Under,True,80,59225
+Dallas Mavericks,Memphis Grizzlies,,,2020-03-06,Under,Over,False,-100,59125
+Phoenix Suns,Portland Trail Blazers,,,2020-03-06,Over,Over,True,105.0,59230
+Los Angeles Lakers,Milwaukee Bucks,,,2020-03-06,Under,Under,True,90,59320
+Charlotte Hornets,Houston Rockets,,,2020-03-07,-,Under,False,0,59320
+Cleveland Cavaliers,Denver Nuggets,,,2020-03-07,Under,Under,True,105.0,59425
+Golden State Warriors,Philadelphia 76ers,,,2020-03-07,Over,Over,True,80,59505
+Portland Trail Blazers,Sacramento Kings,,,2020-03-07,Over,Over,True,110.0,59615
+Brooklyn Nets,Chicago Bulls,,,2020-03-08,Under,Under,True,80,59695
+LA Clippers,Los Angeles Lakers,,,2020-03-08,-,Under,False,0,59695
+Minnesota Timberwolves,New Orleans Pelicans,,,2020-03-08,Under,Under,True,105.0,59800
+Boston Celtics,Oklahoma City Thunder,,,2020-03-08,Under,Under,True,105.0,59905
+Phoenix Suns,Milwaukee Bucks,,,2020-03-08,Over,Over,True,83,59988
+Washington Wizards,Miami Heat,,,2020-03-08,Under,Under,True,100.0,60088
+Houston Rockets,Orlando Magic,,,2020-03-08,Under,Under,True,90,60178
+Cleveland Cavaliers,San Antonio Spurs,,,2020-03-08,Over,Over,True,110.0,60288
+Sacramento Kings,Toronto Raptors,,,2020-03-08,Over,Over,True,100.0,60388
+Atlanta Hawks,Charlotte Hornets,,,2020-03-09,-,Over,False,0,60388
+Chicago Bulls,Cleveland Cavaliers,,,2020-03-10,Under,Under,True,83,60471
+Houston Rockets,Minnesota Timberwolves,,,2020-03-10,Under,Under,True,105.0,60576
+Memphis Grizzlies,Orlando Magic,,,2020-03-10,Over,Over,True,115.0,60691
+Los Angeles Lakers,Brooklyn Nets,,,2020-03-10,Under,Under,True,72,60763
+Golden State Warriors,LA Clippers,,,2020-03-10,-,Over,False,0,60763
+Philadelphia 76ers,Detroit Pistons,,,2020-03-11,Over,Over,True,115.0,60878

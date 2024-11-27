@@ -1,0 +1,525 @@
+Home Team,Away Team,Home Odds,Away Odds,Date,Result,Prediction,Correct?,Bet Result,Total
+Charlotte Hornets,New Orleans Pelicans,,,2022-10-21,Over,Over,True,72,72
+Washington Wizards,Chicago Bulls,,,2022-10-21,Under,Under,True,110.0,182
+Indiana Pacers,San Antonio Spurs,,,2022-10-21,Over,Over,True,72,254
+New York Knicks,Detroit Pistons,,,2022-10-21,Over,Over,True,100.0,354
+Brooklyn Nets,Toronto Raptors,,,2022-10-21,Under,Under,True,105.0,459
+Atlanta Hawks,Orlando Magic,,,2022-10-21,Under,Under,True,110.0,569
+Miami Heat,Boston Celtics,,,2022-10-21,Under,Under,True,115.0,684
+Minnesota Timberwolves,Utah Jazz,,,2022-10-21,Over,Over,True,90,774
+Houston Rockets,Memphis Grizzlies,,,2022-10-21,Over,Over,True,105.0,879
+Golden State Warriors,Denver Nuggets,,,2022-10-21,Over,Over,True,83,962
+Portland Trail Blazers,Phoenix Suns,,,2022-10-21,Under,Over,False,-100,862
+Philadelphia 76ers,San Antonio Spurs,,,2022-10-22,Under,Under,True,80,942
+Indiana Pacers,Detroit Pistons,,,2022-10-22,Over,Under,False,-100,842
+Orlando Magic,Boston Celtics,,,2022-10-22,Over,Over,True,115.0,957
+Milwaukee Bucks,Houston Rockets,,,2022-10-22,Over,Over,True,100.0,1057
+Miami Heat,Toronto Raptors,,,2022-10-22,Over,Over,True,120.0,1177
+Chicago Bulls,Cleveland Cavaliers,,,2022-10-22,Over,Over,True,83,1260
+Dallas Mavericks,Memphis Grizzlies,,,2022-10-22,Over,Over,True,72,1332
+Denver Nuggets,Oklahoma City Thunder,,,2022-10-22,Over,Under,False,-100,1232
+Sacramento Kings,LA Clippers,,,2022-10-22,-,Under,False,0,1232
+Los Angeles Lakers,Portland Trail Blazers,,,2022-10-23,Under,Under,True,83,1315
+Atlanta Hawks,Charlotte Hornets,,,2022-10-23,Over,Over,True,83,1398
+Cleveland Cavaliers,Washington Wizards,,,2022-10-23,Over,Under,False,-100,1298
+New Orleans Pelicans,Utah Jazz,,,2022-10-23,Over,Over,True,100.0,1398
+Oklahoma City Thunder,Minnesota Timberwolves,,,2022-10-23,Under,Under,True,80,1478
+Golden State Warriors,Sacramento Kings,,,2022-10-23,Over,Over,True,83,1561
+LA Clippers,Phoenix Suns,,,2022-10-23,-,Under,False,0,1561
+Philadelphia 76ers,Indiana Pacers,,,2022-10-24,Under,Under,True,115.0,1676
+Miami Heat,Toronto Raptors,,,2022-10-24,Under,Under,True,83,1759
+New York Knicks,Orlando Magic,,,2022-10-24,Under,Under,True,115.0,1874
+Houston Rockets,Utah Jazz,,,2022-10-24,Under,Under,True,83,1957
+Memphis Grizzlies,Brooklyn Nets,,,2022-10-24,Over,Over,True,110.0,2067
+Minnesota Timberwolves,San Antonio Spurs,,,2022-10-24,Under,Under,True,125.0,2192
+Chicago Bulls,Boston Celtics,,,2022-10-24,Under,Under,True,83,2275
+Portland Trail Blazers,Denver Nuggets,,,2022-10-24,Over,Over,True,120.0,2395
+Washington Wizards,Detroit Pistons,,,2022-10-25,Over,Over,True,72,2467
+New Orleans Pelicans,Dallas Mavericks,,,2022-10-25,Under,Under,True,110.0,2577
+Oklahoma City Thunder,LA Clippers,,,2022-10-25,-,Under,False,0,2577
+Phoenix Suns,Golden State Warriors,,,2022-10-25,Over,Over,True,120.0,2697
+Cleveland Cavaliers,Orlando Magic,,,2022-10-26,Under,Under,True,72,2769
+Detroit Pistons,Atlanta Hawks,,,2022-10-26,Under,Under,True,72,2841
+Milwaukee Bucks,Brooklyn Nets,,,2022-10-26,Under,Under,True,115.0,2956
+New York Knicks,Charlotte Hornets,,,2022-10-26,Over,Over,True,72,3028
+Toronto Raptors,Philadelphia 76ers,,,2022-10-26,Over,Over,True,83,3111
+Chicago Bulls,Indiana Pacers,,,2022-10-26,Under,Under,True,110.0,3221
+Minnesota Timberwolves,San Antonio Spurs,,,2022-10-26,Over,Over,True,115.0,3336
+Utah Jazz,Houston Rockets,,,2022-10-26,Under,Under,True,83,3419
+Denver Nuggets,Los Angeles Lakers,,,2022-10-26,Under,Under,True,125.0,3544
+Portland Trail Blazers,Miami Heat,,,2022-10-26,Under,Under,True,120.0,3664
+Brooklyn Nets,Dallas Mavericks,,,2022-10-27,Over,Over,True,80,3744
+Oklahoma City Thunder,LA Clippers,,,2022-10-27,-,Under,False,0,3744
+Sacramento Kings,Memphis Grizzlies,,,2022-10-27,Over,Over,True,115.0,3859
+Golden State Warriors,Miami Heat,,,2022-10-27,Over,Over,True,83,3942
+Detroit Pistons,Atlanta Hawks,,,2022-10-28,Over,Over,True,115.0,4057
+Orlando Magic,Charlotte Hornets,,,2022-10-28,Under,Under,True,125.0,4182
+Washington Wizards,Indiana Pacers,,,2022-10-28,Over,Over,True,90,4272
+Toronto Raptors,Philadelphia 76ers,,,2022-10-28,Under,Under,True,105.0,4377
+Boston Celtics,Cleveland Cavaliers,,,2022-10-28,Over,Over,True,80,4457
+Milwaukee Bucks,New York Knicks,,,2022-10-28,Over,Over,True,83,4540
+Minnesota Timberwolves,Los Angeles Lakers,,,2022-10-28,Under,Under,True,80,4620
+San Antonio Spurs,Chicago Bulls,,,2022-10-28,Over,Over,True,115.0,4735
+Denver Nuggets,Utah Jazz,,,2022-10-28,Under,Under,True,115.0,4850
+Portland Trail Blazers,Houston Rockets,,,2022-10-28,Over,Over,True,80,4930
+Phoenix Suns,New Orleans Pelicans,,,2022-10-28,Over,Over,True,110.0,5040
+Sacramento Kings,Miami Heat,,,2022-10-29,Over,Over,True,80,5120
+Charlotte Hornets,Golden State Warriors,,,2022-10-29,Under,Under,True,72,5192
+Brooklyn Nets,Indiana Pacers,,,2022-10-29,Over,Over,True,83,5275
+Chicago Bulls,Philadelphia 76ers,,,2022-10-29,Over,Over,True,120.0,5395
+Milwaukee Bucks,Atlanta Hawks,,,2022-10-29,Over,Over,True,83,5478
+Dallas Mavericks,Oklahoma City Thunder,,,2022-10-29,Over,Under,False,-100,5378
+Utah Jazz,Memphis Grizzlies,,,2022-10-29,Over,Over,True,100.0,5478
+LA Clippers,New Orleans Pelicans,,,2022-10-30,-,Under,False,0,5478
+Detroit Pistons,Golden State Warriors,,,2022-10-30,Over,Over,True,115.0,5593
+San Antonio Spurs,Minnesota Timberwolves,,,2022-10-30,Under,Under,True,100.0,5693
+Dallas Mavericks,Orlando Magic,,,2022-10-30,Over,Under,False,-100,5593
+Phoenix Suns,Houston Rockets,,,2022-10-30,Over,Under,False,-100,5493
+Los Angeles Lakers,Denver Nuggets,,,2022-10-30,Over,Over,True,120.0,5613
+Washington Wizards,Philadelphia 76ers,,,2022-10-31,Over,Over,True,90,5703
+Charlotte Hornets,Sacramento Kings,,,2022-10-31,Under,Under,True,100.0,5803
+Brooklyn Nets,Indiana Pacers,,,2022-10-31,Under,Under,True,90,5893
+Toronto Raptors,Atlanta Hawks,,,2022-10-31,Over,Over,True,110.0,6003
+Milwaukee Bucks,Detroit Pistons,,,2022-10-31,Under,Over,False,-100,5903
+Utah Jazz,Memphis Grizzlies,,,2022-10-31,Under,Under,True,83,5986
+LA Clippers,Houston Rockets,,,2022-10-31,-,Under,False,0,5986
+Brooklyn Nets,Chicago Bulls,,,2022-11-01,Under,Under,True,125.0,6111
+Miami Heat,Golden State Warriors,,,2022-11-01,Under,Under,True,115.0,6226
+Oklahoma City Thunder,Orlando Magic,,,2022-11-01,Over,Over,True,90,6316
+Phoenix Suns,Minnesota Timberwolves,,,2022-11-01,Under,Under,True,100.0,6416
+Philadelphia 76ers,Washington Wizards,,,2022-11-02,Over,Over,True,105.0,6521
+New York Knicks,Atlanta Hawks,,,2022-11-02,Under,Under,True,120.0,6641
+Miami Heat,Sacramento Kings,,,2022-11-02,Under,Under,True,80,6721
+Cleveland Cavaliers,Boston Celtics,,,2022-11-02,Over,Over,True,83,6804
+Houston Rockets,LA Clippers,,,2022-11-02,-,Under,False,0,6804
+Milwaukee Bucks,Detroit Pistons,,,2022-11-02,Under,Over,False,-100,6704
+San Antonio Spurs,Toronto Raptors,,,2022-11-02,Over,Over,True,83,6787
+Chicago Bulls,Charlotte Hornets,,,2022-11-02,Under,Under,True,90,6877
+Dallas Mavericks,Utah Jazz,,,2022-11-02,Under,Under,True,72,6949
+Portland Trail Blazers,Memphis Grizzlies,,,2022-11-02,Under,Under,True,90,7039
+Los Angeles Lakers,New Orleans Pelicans,,,2022-11-02,Over,Over,True,83,7122
+Orlando Magic,Golden State Warriors,,,2022-11-03,Over,Over,True,125.0,7247
+Oklahoma City Thunder,Denver Nuggets,,,2022-11-03,Over,Over,True,105.0,7352
+Detroit Pistons,Cleveland Cavaliers,,,2022-11-04,Under,Under,True,80,7432
+Washington Wizards,Brooklyn Nets,,,2022-11-04,Under,Under,True,125.0,7557
+Philadelphia 76ers,New York Knicks,,,2022-11-04,Under,Under,True,83,7640
+Indiana Pacers,Miami Heat,,,2022-11-04,Under,Under,True,125.0,7765
+Boston Celtics,Chicago Bulls,,,2022-11-04,Over,Over,True,110.0,7875
+San Antonio Spurs,LA Clippers,,,2022-11-04,-,Under,False,0,7875
+Memphis Grizzlies,Charlotte Hornets,,,2022-11-04,Over,Over,True,110.0,7985
+Dallas Mavericks,Toronto Raptors,,,2022-11-04,Over,Under,False,-100,7885
+New Orleans Pelicans,Golden State Warriors,,,2022-11-04,Under,Under,True,90,7975
+Phoenix Suns,Portland Trail Blazers,,,2022-11-04,Under,Under,True,72,8047
+Minnesota Timberwolves,Milwaukee Bucks,,,2022-11-04,Under,Under,True,72,8119
+Los Angeles Lakers,Utah Jazz,,,2022-11-04,Over,Over,True,83,8202
+Orlando Magic,Sacramento Kings,,,2022-11-05,Over,Over,True,83,8285
+Charlotte Hornets,Brooklyn Nets,,,2022-11-05,Under,Under,True,83,8368
+New York Knicks,Boston Celtics,,,2022-11-05,Over,Over,True,83,8451
+Atlanta Hawks,New Orleans Pelicans,,,2022-11-05,Over,Over,True,83,8534
+Milwaukee Bucks,Oklahoma City Thunder,,,2022-11-05,Under,Under,True,110.0,8644
+Minnesota Timberwolves,Houston Rockets,,,2022-11-05,Over,Over,True,120.0,8764
+Denver Nuggets,San Antonio Spurs,,,2022-11-05,Under,Under,True,115.0,8879
+Phoenix Suns,Portland Trail Blazers,,,2022-11-05,Under,Under,True,120.0,8999
+Los Angeles Lakers,Cleveland Cavaliers,,,2022-11-06,Under,Under,True,105.0,9104
+Toronto Raptors,Chicago Bulls,,,2022-11-06,Under,Under,True,105.0,9209
+Memphis Grizzlies,Washington Wizards,,,2022-11-06,Under,Under,True,100.0,9309
+LA Clippers,Utah Jazz,,,2022-11-06,-,Under,False,0,9309
+Charlotte Hornets,Washington Wizards,,,2022-11-07,Under,Under,True,120.0,9429
+Orlando Magic,Houston Rockets,,,2022-11-07,Over,Over,True,115.0,9544
+Detroit Pistons,Oklahoma City Thunder,,,2022-11-07,Under,Under,True,80,9624
+Indiana Pacers,New Orleans Pelicans,,,2022-11-07,Over,Over,True,105.0,9729
+Philadelphia 76ers,Phoenix Suns,,,2022-11-07,Under,Under,True,100.0,9829
+Atlanta Hawks,Milwaukee Bucks,,,2022-11-07,Under,Under,True,80,9909
+Miami Heat,Portland Trail Blazers,,,2022-11-07,Over,Over,True,80,9989
+Chicago Bulls,Toronto Raptors,,,2022-11-07,Under,Under,True,72,10061
+Memphis Grizzlies,Boston Celtics,,,2022-11-07,Under,Under,True,90,10151
+Minnesota Timberwolves,New York Knicks,,,2022-11-07,Over,Over,True,105.0,10256
+San Antonio Spurs,Denver Nuggets,,,2022-11-07,Under,Under,True,120.0,10376
+Dallas Mavericks,Brooklyn Nets,,,2022-11-07,Under,Under,True,125.0,10501
+Golden State Warriors,Sacramento Kings,,,2022-11-07,Under,Under,True,105.0,10606
+Utah Jazz,Los Angeles Lakers,,,2022-11-07,Under,Under,True,83,10689
+LA Clippers,Cleveland Cavaliers,,,2022-11-07,-,Over,False,0,10689
+Orlando Magic,Dallas Mavericks,,,2022-11-09,Under,Under,True,120.0,10809
+Indiana Pacers,Denver Nuggets,,,2022-11-09,Over,Over,True,105.0,10914
+Charlotte Hornets,Portland Trail Blazers,,,2022-11-09,Under,Under,True,115.0,11029
+Boston Celtics,Detroit Pistons,,,2022-11-09,Over,Over,True,105.0,11134
+Toronto Raptors,Houston Rockets,,,2022-11-09,Over,Over,True,83,11217
+Atlanta Hawks,Utah Jazz,,,2022-11-09,Over,Over,True,110.0,11327
+Brooklyn Nets,New York Knicks,,,2022-11-09,Under,Under,True,90,11417
+Oklahoma City Thunder,Milwaukee Bucks,,,2022-11-09,Over,Over,True,80,11497
+Minnesota Timberwolves,Phoenix Suns,,,2022-11-09,Over,Over,True,80,11577
+Chicago Bulls,New Orleans Pelicans,,,2022-11-09,Under,Under,True,120.0,11697
+San Antonio Spurs,Memphis Grizzlies,,,2022-11-09,Over,Over,True,125.0,11822
+Sacramento Kings,Cleveland Cavaliers,,,2022-11-09,Over,Over,True,115.0,11937
+LA Clippers,Los Angeles Lakers,,,2022-11-09,-,Under,False,0,11937
+Washington Wizards,Dallas Mavericks,,,2022-11-10,Over,Over,True,115.0,12052
+Atlanta Hawks,Philadelphia 76ers,,,2022-11-10,Under,Under,True,90,12142
+Miami Heat,Charlotte Hornets,,,2022-11-10,Over,Over,True,125.0,12267
+New Orleans Pelicans,Portland Trail Blazers,,,2022-11-10,Under,Under,True,83,12350
+Orlando Magic,Phoenix Suns,,,2022-11-11,Under,Under,True,125.0,12475
+Boston Celtics,Denver Nuggets,,,2022-11-11,Over,Over,True,105.0,12580
+New York Knicks,Detroit Pistons,,,2022-11-11,Over,Over,True,125.0,12705
+Oklahoma City Thunder,Toronto Raptors,,,2022-11-11,Over,Over,True,115.0,12820
+San Antonio Spurs,Milwaukee Bucks,,,2022-11-11,Under,Under,True,110.0,12930
+Memphis Grizzlies,Minnesota Timberwolves,,,2022-11-11,Under,Under,True,120.0,13050
+Golden State Warriors,Cleveland Cavaliers,,,2022-11-11,Under,Under,True,120.0,13170
+Los Angeles Lakers,Sacramento Kings,,,2022-11-11,Over,Over,True,120.0,13290
+LA Clippers,Brooklyn Nets,,,2022-11-12,-,Under,False,0,13290
+Washington Wizards,Utah Jazz,,,2022-11-12,Over,Over,True,83,13373
+Indiana Pacers,Toronto Raptors,,,2022-11-12,Under,Under,True,80,13453
+Detroit Pistons,Boston Celtics,,,2022-11-12,Under,Under,True,120.0,13573
+Philadelphia 76ers,Atlanta Hawks,,,2022-11-12,Over,Over,True,80,13653
+Miami Heat,Charlotte Hornets,,,2022-11-12,Over,Over,True,105.0,13758
+New Orleans Pelicans,Houston Rockets,,,2022-11-12,Under,Under,True,115.0,13873
+Dallas Mavericks,Portland Trail Blazers,,,2022-11-12,Over,Over,True,125.0,13998
+New York Knicks,Oklahoma City Thunder,,,2022-11-13,Over,Over,True,115.0,14113
+Washington Wizards,Memphis Grizzlies,,,2022-11-13,Under,Under,True,100.0,14213
+Cleveland Cavaliers,Minnesota Timberwolves,,,2022-11-13,Over,Over,True,125.0,14338
+Philadelphia 76ers,Utah Jazz,,,2022-11-13,Under,Under,True,125.0,14463
+Chicago Bulls,Denver Nuggets,,,2022-11-13,Under,Under,True,100.0,14563
+Sacramento Kings,Golden State Warriors,,,2022-11-13,Over,Over,True,80,14643
+Los Angeles Lakers,Brooklyn Nets,,,2022-11-13,Over,Over,True,105.0,14748
+Orlando Magic,Charlotte Hornets,,,2022-11-14,Under,Under,True,72,14820
+Detroit Pistons,Toronto Raptors,,,2022-11-14,Over,Over,True,125.0,14945
+Boston Celtics,Oklahoma City Thunder,,,2022-11-14,Over,Over,True,120.0,15065
+Miami Heat,Phoenix Suns,,,2022-11-14,Over,Over,True,83,15148
+Milwaukee Bucks,Atlanta Hawks,,,2022-11-14,Over,Over,True,72,15220
+Houston Rockets,LA Clippers,,,2022-11-14,-,Over,False,0,15220
+Golden State Warriors,San Antonio Spurs,,,2022-11-14,Under,Under,True,125.0,15345
+New Orleans Pelicans,Memphis Grizzlies,,,2022-11-15,Under,Under,True,110.0,15455
+Dallas Mavericks,LA Clippers,,,2022-11-15,-,Under,False,0,15455
+Utah Jazz,New York Knicks,,,2022-11-15,Under,Under,True,100.0,15555
+Sacramento Kings,Brooklyn Nets,,,2022-11-15,Over,Over,True,100.0,15655
+Portland Trail Blazers,San Antonio Spurs,,,2022-11-15,Over,Over,True,115.0,15770
+Orlando Magic,Minnesota Timberwolves,,,2022-11-16,Over,Over,True,83,15853
+Washington Wizards,Oklahoma City Thunder,,,2022-11-16,Over,Over,True,100.0,15953
+Charlotte Hornets,Indiana Pacers,,,2022-11-16,Over,Over,True,105.0,16058
+Toronto Raptors,Miami Heat,,,2022-11-16,Under,Under,False,-100,15958
+Atlanta Hawks,Boston Celtics,,,2022-11-16,Under,Under,True,83,16041
+Milwaukee Bucks,Cleveland Cavaliers,,,2022-11-16,Under,Under,True,120.0,16161
+New Orleans Pelicans,Chicago Bulls,,,2022-11-16,Over,Over,True,83,16244
+Dallas Mavericks,Houston Rockets,,,2022-11-16,Under,Under,True,105.0,16349
+Phoenix Suns,Golden State Warriors,,,2022-11-16,Over,Over,True,110.0,16459
+Denver Nuggets,New York Knicks,,,2022-11-16,Under,Under,True,120.0,16579
+Sacramento Kings,San Antonio Spurs,,,2022-11-17,Over,Over,True,110.0,16689
+Portland Trail Blazers,Brooklyn Nets,,,2022-11-17,Under,Under,True,100.0,16789
+LA Clippers,Detroit Pistons,,,2022-11-17,-,Under,False,0,16789
+Washington Wizards,Miami Heat,,,2022-11-18,Under,Under,True,120.0,16909
+Cleveland Cavaliers,Charlotte Hornets,,,2022-11-18,Over,Over,True,120.0,17029
+Philadelphia 76ers,Milwaukee Bucks,,,2022-11-18,Under,Under,True,90,17119
+Memphis Grizzlies,Oklahoma City Thunder,,,2022-11-18,Over,Over,True,105.0,17224
+Houston Rockets,Indiana Pacers,,,2022-11-18,Under,Under,True,100.0,17324
+Chicago Bulls,Orlando Magic,,,2022-11-18,Under,Under,True,100.0,17424
+Dallas Mavericks,Denver Nuggets,,,2022-11-18,Over,Over,True,72,17496
+New Orleans Pelicans,Boston Celtics,,,2022-11-18,Under,Under,True,125.0,17621
+Utah Jazz,Phoenix Suns,,,2022-11-18,Over,Over,True,90,17711
+Golden State Warriors,New York Knicks,,,2022-11-18,Under,Under,True,83,17794
+Los Angeles Lakers,Detroit Pistons,,,2022-11-18,Over,Over,True,100.0,17894
+Atlanta Hawks,Toronto Raptors,,,2022-11-19,Over,Over,True,125.0,18019
+Indiana Pacers,Orlando Magic,,,2022-11-19,Under,Under,True,115.0,18134
+Philadelphia 76ers,Minnesota Timberwolves,,,2022-11-19,Over,Over,True,90,18224
+Portland Trail Blazers,Utah Jazz,,,2022-11-19,Over,Over,True,90,18314
+LA Clippers,San Antonio Spurs,,,2022-11-19,-,Under,False,0,18314
+Phoenix Suns,New York Knicks,,,2022-11-20,Under,Under,True,110.0,18424
+Washington Wizards,Charlotte Hornets,,,2022-11-20,Under,Under,True,83,18507
+Sacramento Kings,Detroit Pistons,,,2022-11-20,Over,Under,False,-100,18407
+Brooklyn Nets,Memphis Grizzlies,,,2022-11-20,Over,Over,True,80,18487
+Cleveland Cavaliers,Miami Heat,,,2022-11-20,Under,Under,True,115.0,18602
+Houston Rockets,Golden State Warriors,,,2022-11-20,Over,Over,True,125.0,18727
+Dallas Mavericks,Denver Nuggets,,,2022-11-20,Under,Under,True,110.0,18837
+Los Angeles Lakers,San Antonio Spurs,,,2022-11-20,Under,Under,True,115.0,18952
+Indiana Pacers,Orlando Magic,,,2022-11-21,Under,Under,True,110.0,19062
+Cleveland Cavaliers,Atlanta Hawks,,,2022-11-21,Under,Under,True,110.0,19172
+Chicago Bulls,Boston Celtics,,,2022-11-21,Under,Under,True,125.0,19297
+Oklahoma City Thunder,New York Knicks,,,2022-11-21,Over,Over,True,90,19387
+Milwaukee Bucks,Portland Trail Blazers,,,2022-11-21,Over,Under,False,-100,19287
+New Orleans Pelicans,Golden State Warriors,,,2022-11-21,Under,Under,True,110.0,19397
+Minnesota Timberwolves,Miami Heat,,,2022-11-21,Under,Under,True,83,19480
+LA Clippers,Utah Jazz,,,2022-11-21,-,Over,False,0,19480
+Philadelphia 76ers,Brooklyn Nets,,,2022-11-22,Over,Under,False,-100,19380
+Memphis Grizzlies,Sacramento Kings,,,2022-11-22,Under,Under,True,83,19463
+Denver Nuggets,Detroit Pistons,,,2022-11-22,Under,Under,True,125.0,19588
+Phoenix Suns,Los Angeles Lakers,,,2022-11-22,Under,Under,True,83,19671
+Charlotte Hornets,Philadelphia 76ers,,,2022-11-23,Under,Under,True,120.0,19791
+Cleveland Cavaliers,Portland Trail Blazers,,,2022-11-23,Under,Under,True,80,19871
+Indiana Pacers,Minnesota Timberwolves,,,2022-11-23,Under,Under,True,120.0,19991
+Toronto Raptors,Brooklyn Nets,,,2022-11-23,Under,Under,True,100.0,20091
+Atlanta Hawks,Sacramento Kings,,,2022-11-23,Under,Under,True,105.0,20196
+Miami Heat,Washington Wizards,,,2022-11-23,Over,Over,True,83,20279
+Boston Celtics,Dallas Mavericks,,,2022-11-23,Over,Over,True,110.0,20389
+Milwaukee Bucks,Chicago Bulls,,,2022-11-23,Over,Over,True,125.0,20514
+Oklahoma City Thunder,Denver Nuggets,,,2022-11-23,Over,Under,False,-100,20414
+San Antonio Spurs,New Orleans Pelicans,,,2022-11-23,Over,Over,True,72,20486
+Utah Jazz,Detroit Pistons,,,2022-11-23,Over,Under,False,-100,20386
+Golden State Warriors,LA Clippers,,,2022-11-23,-,Over,False,0,20386
+Charlotte Hornets,Minnesota Timberwolves,,,2022-11-25,Under,Under,True,72,20458
+Orlando Magic,Philadelphia 76ers,,,2022-11-25,Under,Under,True,80,20538
+New York Knicks,Portland Trail Blazers,,,2022-11-25,Over,Over,True,83,20621
+Milwaukee Bucks,Cleveland Cavaliers,,,2022-11-25,Over,Over,True,115.0,20736
+Memphis Grizzlies,New Orleans Pelicans,,,2022-11-25,Over,Over,True,110.0,20846
+Houston Rockets,Atlanta Hawks,,,2022-11-25,Over,Over,True,105.0,20951
+Indiana Pacers,Brooklyn Nets,,,2022-11-25,Over,Over,True,72,21023
+San Antonio Spurs,Los Angeles Lakers,,,2022-11-25,Under,Under,True,80,21103
+Boston Celtics,Sacramento Kings,,,2022-11-25,Under,Under,True,83,21186
+Miami Heat,Washington Wizards,,,2022-11-25,Over,Over,True,90,21276
+Oklahoma City Thunder,Chicago Bulls,,,2022-11-25,Over,Over,True,83,21359
+Phoenix Suns,Detroit Pistons,,,2022-11-25,Under,Under,True,83,21442
+Golden State Warriors,Utah Jazz,,,2022-11-25,Over,Over,True,120.0,21562
+LA Clippers,Denver Nuggets,,,2022-11-25,-,Under,False,0,21562
+Toronto Raptors,Dallas Mavericks,,,2022-11-26,Under,Under,True,105.0,21667
+San Antonio Spurs,Los Angeles Lakers,,,2022-11-26,Over,Over,True,110.0,21777
+Phoenix Suns,Utah Jazz,,,2022-11-26,Under,Under,True,110.0,21887
+Brooklyn Nets,Portland Trail Blazers,,,2022-11-27,Under,Under,True,120.0,22007
+Minnesota Timberwolves,Golden State Warriors,,,2022-11-27,Over,Over,True,90,22097
+LA Clippers,Indiana Pacers,,,2022-11-27,-,Under,False,0,22097
+Detroit Pistons,Cleveland Cavaliers,,,2022-11-27,Under,Under,True,72,22169
+Boston Celtics,Washington Wizards,,,2022-11-27,Over,Over,True,110.0,22279
+New York Knicks,Memphis Grizzlies,,,2022-11-27,Over,Over,True,100.0,22379
+Orlando Magic,Philadelphia 76ers,,,2022-11-27,Over,Over,True,72,22451
+Milwaukee Bucks,Dallas Mavericks,,,2022-11-27,Over,Over,True,80,22531
+Washington Wizards,Minnesota Timberwolves,,,2022-11-28,Over,Over,True,115.0,22646
+Philadelphia 76ers,Atlanta Hawks,,,2022-11-28,Under,Over,False,-100,22546
+Brooklyn Nets,Orlando Magic,,,2022-11-28,Under,Under,True,120.0,22666
+Boston Celtics,Charlotte Hornets,,,2022-11-28,Over,Over,True,125.0,22791
+Toronto Raptors,Cleveland Cavaliers,,,2022-11-28,Under,Under,True,83,22874
+New Orleans Pelicans,Oklahoma City Thunder,,,2022-11-28,Under,Under,True,83,22957
+Denver Nuggets,Houston Rockets,,,2022-11-28,Over,Over,True,120.0,23077
+Utah Jazz,Chicago Bulls,,,2022-11-28,Under,Under,True,83,23160
+Sacramento Kings,Phoenix Suns,,,2022-11-28,Over,Over,True,110.0,23270
+Los Angeles Lakers,Indiana Pacers,,,2022-11-28,Under,Under,True,83,23353
+Detroit Pistons,New York Knicks,,,2022-11-29,Over,Over,True,110.0,23463
+Dallas Mavericks,Golden State Warriors,,,2022-11-29,Over,Over,True,83,23546
+Portland Trail Blazers,LA Clippers,,,2022-11-29,-,Over,False,0,23546
+Orlando Magic,Atlanta Hawks,,,2022-11-30,Over,Over,True,105.0,23651
+Cleveland Cavaliers,Philadelphia 76ers,,,2022-11-30,Under,Under,True,83,23734
+New York Knicks,Milwaukee Bucks,,,2022-11-30,Over,Over,True,83,23817
+Brooklyn Nets,Washington Wizards,,,2022-11-30,Under,Under,True,80,23897
+Boston Celtics,Miami Heat,,,2022-11-30,Over,Over,True,125.0,24022
+New Orleans Pelicans,Toronto Raptors,,,2022-11-30,Under,Under,True,83,24105
+Oklahoma City Thunder,San Antonio Spurs,,,2022-11-30,Under,Under,True,115.0,24220
+Minnesota Timberwolves,Memphis Grizzlies,,,2022-11-30,Under,Under,True,100.0,24320
+Denver Nuggets,Houston Rockets,,,2022-11-30,Under,Under,True,83,24403
+Phoenix Suns,Chicago Bulls,,,2022-11-30,Over,Over,True,83,24486
+Utah Jazz,LA Clippers,,,2022-11-30,-,Over,False,0,24486
+Sacramento Kings,Indiana Pacers,,,2022-11-30,Over,Over,True,72,24558
+Los Angeles Lakers,Portland Trail Blazers,,,2022-11-30,Over,Over,True,115.0,24673
+Detroit Pistons,Dallas Mavericks,,,2022-12-01,Over,Over,True,90,24763
+Charlotte Hornets,Washington Wizards,,,2022-12-02,Over,Over,True,83,24846
+Cleveland Cavaliers,Orlando Magic,,,2022-12-02,Under,Under,True,80,24926
+Atlanta Hawks,Denver Nuggets,,,2022-12-02,Over,Over,True,83,25009
+Boston Celtics,Miami Heat,,,2022-12-02,Over,Over,True,120.0,25129
+Brooklyn Nets,Toronto Raptors,,,2022-12-02,Under,Under,True,83,25212
+Milwaukee Bucks,Los Angeles Lakers,,,2022-12-02,Over,Over,True,80,25292
+San Antonio Spurs,New Orleans Pelicans,,,2022-12-02,Under,Under,True,83,25375
+Memphis Grizzlies,Philadelphia 76ers,,,2022-12-02,Over,Over,True,105.0,25480
+Phoenix Suns,Houston Rockets,,,2022-12-02,Over,Over,True,105.0,25585
+Utah Jazz,Indiana Pacers,,,2022-12-02,Over,Over,True,72,25657
+Golden State Warriors,Chicago Bulls,,,2022-12-02,Under,Under,True,120.0,25777
+New York Knicks,Dallas Mavericks,,,2022-12-03,Under,Under,True,90,25867
+LA Clippers,Sacramento Kings,,,2022-12-03,-,Under,False,0,25867
+Charlotte Hornets,Milwaukee Bucks,,,2022-12-03,Under,Under,True,105.0,25972
+Toronto Raptors,Orlando Magic,,,2022-12-03,Over,Over,True,83,26055
+Minnesota Timberwolves,Oklahoma City Thunder,,,2022-12-03,Over,Over,True,90,26145
+Golden State Warriors,Houston Rockets,,,2022-12-03,Under,Under,True,83,26228
+Utah Jazz,Portland Trail Blazers,,,2022-12-03,Under,Under,True,83,26311
+New Orleans Pelicans,Denver Nuggets,,,2022-12-04,Under,Under,True,100.0,26411
+San Antonio Spurs,Phoenix Suns,,,2022-12-04,Under,Under,True,120.0,26531
+Brooklyn Nets,Boston Celtics,,,2022-12-04,Under,Under,True,72,26603
+Washington Wizards,Los Angeles Lakers,,,2022-12-04,Over,Over,True,125.0,26728
+Sacramento Kings,Chicago Bulls,,,2022-12-04,Under,Under,True,83,26811
+New York Knicks,Cleveland Cavaliers,,,2022-12-04,Under,Under,True,105.0,26916
+Detroit Pistons,Memphis Grizzlies,,,2022-12-04,Over,Over,True,83,26999
+Portland Trail Blazers,Indiana Pacers,,,2022-12-04,Under,Under,True,125.0,27124
+Orlando Magic,Milwaukee Bucks,,,2022-12-05,Under,Under,True,83,27207
+Charlotte Hornets,LA Clippers,,,2022-12-05,-,Over,False,0,27207
+Toronto Raptors,Boston Celtics,,,2022-12-05,Under,Under,True,115.0,27322
+Atlanta Hawks,Oklahoma City Thunder,,,2022-12-05,Under,Under,True,80,27402
+Houston Rockets,Philadelphia 76ers,,,2022-12-05,Over,Over,True,125.0,27527
+Memphis Grizzlies,Miami Heat,,,2022-12-05,Under,Under,True,105.0,27632
+Dallas Mavericks,Phoenix Suns,,,2022-12-05,Over,Over,True,80,27712
+Golden State Warriors,Indiana Pacers,,,2022-12-05,Under,Under,True,100.0,27812
+Cleveland Cavaliers,Los Angeles Lakers,,,2022-12-06,Under,Under,True,100.0,27912
+Miami Heat,Detroit Pistons,,,2022-12-06,Under,Under,True,80,27992
+Denver Nuggets,Dallas Mavericks,,,2022-12-06,Over,Over,True,72,28064
+Orlando Magic,LA Clippers,,,2022-12-07,-,Over,False,0,28064
+New York Knicks,Atlanta Hawks,,,2022-12-07,Under,Under,True,110.0,28174
+Toronto Raptors,Los Angeles Lakers,,,2022-12-07,Over,Over,True,105.0,28279
+Brooklyn Nets,Charlotte Hornets,,,2022-12-07,Over,Over,True,105.0,28384
+New Orleans Pelicans,Detroit Pistons,,,2022-12-07,Under,Under,True,100.0,28484
+Memphis Grizzlies,Oklahoma City Thunder,,,2022-12-07,Under,Under,True,83,28567
+Chicago Bulls,Washington Wizards,,,2022-12-07,Under,Under,True,115.0,28682
+Milwaukee Bucks,Sacramento Kings,,,2022-12-07,Over,Over,True,83,28765
+Minnesota Timberwolves,Indiana Pacers,,,2022-12-07,Under,Under,True,80,28845
+Utah Jazz,Golden State Warriors,,,2022-12-07,Over,Over,True,83,28928
+Phoenix Suns,Boston Celtics,,,2022-12-07,Under,Under,True,110.0,29038
+Miami Heat,LA Clippers,,,2022-12-08,-,Over,False,0,29038
+San Antonio Spurs,Houston Rockets,,,2022-12-08,Under,Under,True,115.0,29153
+Portland Trail Blazers,Denver Nuggets,,,2022-12-08,Over,Over,True,90,29243
+Charlotte Hornets,New York Knicks,,,2022-12-09,Under,Under,True,72,29315
+Indiana Pacers,Washington Wizards,,,2022-12-09,Under,Under,False,-100,29215
+Orlando Magic,Toronto Raptors,,,2022-12-09,Under,Under,True,83,29298
+Cleveland Cavaliers,Sacramento Kings,,,2022-12-09,Under,Under,True,83,29381
+Philadelphia 76ers,Los Angeles Lakers,,,2022-12-09,Over,Over,True,90,29471
+Brooklyn Nets,Atlanta Hawks,,,2022-12-09,Over,Over,True,105.0,29576
+Memphis Grizzlies,Detroit Pistons,,,2022-12-09,Under,Under,True,100.0,29676
+Utah Jazz,Minnesota Timberwolves,,,2022-12-09,Under,Under,True,83,29759
+Dallas Mavericks,Milwaukee Bucks,,,2022-12-09,Under,Under,True,100.0,29859
+Miami Heat,San Antonio Spurs,,,2022-12-10,Over,Over,True,90,29949
+Indiana Pacers,Brooklyn Nets,,,2022-12-10,Over,Over,True,72,30021
+Washington Wizards,LA Clippers,,,2022-12-10,-,Over,False,0,30021
+Cleveland Cavaliers,Oklahoma City Thunder,,,2022-12-10,Under,Under,True,80,30101
+Chicago Bulls,Dallas Mavericks,,,2022-12-10,Over,Over,True,80,30181
+Denver Nuggets,Utah Jazz,,,2022-12-10,Under,Under,True,120.0,30301
+Portland Trail Blazers,Minnesota Timberwolves,,,2022-12-10,Over,Over,True,83,30384
+New Orleans Pelicans,Phoenix Suns,,,2022-12-11,Over,Over,True,100.0,30484
+Detroit Pistons,Los Angeles Lakers,,,2022-12-11,Over,Over,True,125.0,30609
+New York Knicks,Sacramento Kings,,,2022-12-11,Under,Under,True,115.0,30724
+Philadelphia 76ers,Charlotte Hornets,,,2022-12-11,Over,Over,True,90,30814
+Orlando Magic,Toronto Raptors,,,2022-12-11,Under,Under,True,100.0,30914
+Atlanta Hawks,Chicago Bulls,,,2022-12-11,Over,Over,True,115.0,31029
+Houston Rockets,Milwaukee Bucks,,,2022-12-11,Under,Under,True,125.0,31154
+Washington Wizards,Brooklyn Nets,,,2022-12-12,Under,Under,True,83,31237
+Indiana Pacers,Miami Heat,,,2022-12-12,Under,Under,True,90,31327
+Memphis Grizzlies,Atlanta Hawks,,,2022-12-12,Over,Over,True,125.0,31452
+Dallas Mavericks,Oklahoma City Thunder,,,2022-12-12,Over,Over,True,115.0,31567
+San Antonio Spurs,Cleveland Cavaliers,,,2022-12-12,Over,Over,True,80,31647
+Portland Trail Blazers,Minnesota Timberwolves,,,2022-12-12,Over,Over,True,120.0,31767
+LA Clippers,Boston Celtics,,,2022-12-12,-,Under,False,0,31767
+Philadelphia 76ers,Sacramento Kings,,,2022-12-13,Under,Under,True,72,31839
+Milwaukee Bucks,Golden State Warriors,,,2022-12-13,Over,Over,True,72,31911
+Houston Rockets,Phoenix Suns,,,2022-12-13,Under,Under,True,105.0,32016
+Utah Jazz,New Orleans Pelicans,,,2022-12-13,Under,Under,True,115.0,32131
+Los Angeles Lakers,Boston Celtics,,,2022-12-13,Over,Over,True,90,32221
+Orlando Magic,Atlanta Hawks,,,2022-12-14,Over,Over,True,90,32311
+Indiana Pacers,Golden State Warriors,,,2022-12-14,Over,Over,True,120.0,32431
+Charlotte Hornets,Detroit Pistons,,,2022-12-14,Over,Over,True,80,32511
+Toronto Raptors,Sacramento Kings,,,2022-12-14,Over,Over,True,83,32594
+Chicago Bulls,New York Knicks,,,2022-12-14,Over,Over,True,100.0,32694
+San Antonio Spurs,Portland Trail Blazers,,,2022-12-14,Over,Over,True,83,32777
+Oklahoma City Thunder,Miami Heat,,,2022-12-14,Under,Under,True,80,32857
+Dallas Mavericks,Cleveland Cavaliers,,,2022-12-14,Under,Under,True,100.0,32957
+Denver Nuggets,Washington Wizards,,,2022-12-14,Over,Over,True,110.0,33067
+LA Clippers,Minnesota Timberwolves,,,2022-12-14,-,Under,False,0,33067
+Memphis Grizzlies,Milwaukee Bucks,,,2022-12-15,Over,Over,True,80,33147
+Houston Rockets,Miami Heat,,,2022-12-15,Over,Over,True,83,33230
+Utah Jazz,New Orleans Pelicans,,,2022-12-15,Over,Over,True,72,33302
+LA Clippers,Phoenix Suns,,,2022-12-15,-,Over,False,0,33302
+Charlotte Hornets,Atlanta Hawks,,,2022-12-16,Under,Under,True,100.0,33402
+Detroit Pistons,Sacramento Kings,,,2022-12-16,Under,Under,True,80,33482
+Cleveland Cavaliers,Indiana Pacers,,,2022-12-16,Over,Over,True,83,33565
+Boston Celtics,Orlando Magic,,,2022-12-16,Over,Over,True,90,33655
+Philadelphia 76ers,Golden State Warriors,,,2022-12-16,Over,Over,True,72,33727
+Toronto Raptors,Brooklyn Nets,,,2022-12-16,Over,Over,True,80,33807
+Chicago Bulls,New York Knicks,,,2022-12-16,Under,Under,True,80,33887
+Oklahoma City Thunder,Minnesota Timberwolves,,,2022-12-16,Under,Under,True,90,33977
+Dallas Mavericks,Portland Trail Blazers,,,2022-12-16,Over,Over,True,100.0,34077
+Los Angeles Lakers,Denver Nuggets,,,2022-12-16,Under,Under,True,72,34149
+LA Clippers,Washington Wizards,,,2022-12-17,-,Under,False,0,34149
+San Antonio Spurs,Miami Heat,,,2022-12-17,Under,Under,True,83,34232
+Houston Rockets,Portland Trail Blazers,,,2022-12-17,Under,Under,True,110.0,34342
+Cleveland Cavaliers,Dallas Mavericks,,,2022-12-17,Under,Under,True,115.0,34457
+Milwaukee Bucks,Utah Jazz,,,2022-12-17,Under,Under,True,83,34540
+Oklahoma City Thunder,Memphis Grizzlies,,,2022-12-17,Under,Under,True,115.0,34655
+Phoenix Suns,New Orleans Pelicans,,,2022-12-17,Over,Over,True,125.0,34780
+Boston Celtics,Orlando Magic,,,2022-12-18,Under,Under,True,105.0,34885
+Indiana Pacers,New York Knicks,,,2022-12-18,Under,Under,True,83,34968
+Detroit Pistons,Brooklyn Nets,,,2022-12-18,Over,Over,True,83,35051
+Toronto Raptors,Golden State Warriors,,,2022-12-18,Over,Over,True,105.0,35156
+Minnesota Timberwolves,Chicago Bulls,,,2022-12-18,Over,Over,True,83,35239
+Denver Nuggets,Charlotte Hornets,,,2022-12-18,Under,Under,True,83,35322
+Los Angeles Lakers,Washington Wizards,,,2022-12-18,Under,Under,True,83,35405
+Cleveland Cavaliers,Utah Jazz,,,2022-12-19,Over,Over,True,72,35477
+Philadelphia 76ers,Toronto Raptors,,,2022-12-19,Under,Under,True,105.0,35582
+Atlanta Hawks,Orlando Magic,,,2022-12-19,Over,Over,True,90,35672
+Minnesota Timberwolves,Dallas Mavericks,,,2022-12-19,Under,Under,True,110.0,35782
+Houston Rockets,San Antonio Spurs,,,2022-12-19,Over,Over,True,125.0,35907
+New Orleans Pelicans,Milwaukee Bucks,,,2022-12-19,Over,Over,True,110.0,36017
+Oklahoma City Thunder,Portland Trail Blazers,,,2022-12-19,Over,Over,True,90,36107
+Phoenix Suns,Los Angeles Lakers,,,2022-12-19,Over,Over,True,83,36190
+Sacramento Kings,Charlotte Hornets,,,2022-12-19,Over,Over,True,110.0,36300
+Detroit Pistons,Utah Jazz,,,2022-12-20,Over,Over,True,90,36390
+Miami Heat,Chicago Bulls,,,2022-12-20,Under,Under,True,110.0,36500
+New York Knicks,Golden State Warriors,,,2022-12-20,Over,Over,True,83,36583
+Phoenix Suns,Washington Wizards,,,2022-12-20,Under,Under,True,72,36655
+Denver Nuggets,Memphis Grizzlies,,,2022-12-20,Under,Under,True,120.0,36775
+Cleveland Cavaliers,Milwaukee Bucks,,,2022-12-21,Over,Over,True,72,36847
+Philadelphia 76ers,Detroit Pistons,,,2022-12-21,Under,Under,True,90,36937
+New York Knicks,Toronto Raptors,,,2022-12-21,Over,Over,True,80,37017
+Brooklyn Nets,Golden State Warriors,,,2022-12-21,Over,Over,True,115.0,37132
+Atlanta Hawks,Chicago Bulls,,,2022-12-21,Under,Under,True,105.0,37237
+Boston Celtics,Indiana Pacers,,,2022-12-21,Under,Under,True,80,37317
+Oklahoma City Thunder,Portland Trail Blazers,,,2022-12-21,Under,Under,True,72,37389
+Minnesota Timberwolves,Dallas Mavericks,,,2022-12-21,Under,Under,True,90,37479
+Houston Rockets,Orlando Magic,,,2022-12-21,Over,Over,True,110.0,37589
+Sacramento Kings,Los Angeles Lakers,,,2022-12-21,Over,Over,True,83,37672
+LA Clippers,Charlotte Hornets,,,2022-12-21,-,Over,False,0,37672
+New Orleans Pelicans,San Antonio Spurs,,,2022-12-22,Over,Over,True,110.0,37782
+Utah Jazz,Washington Wizards,,,2022-12-22,Under,Under,False,-100,37682
+Orlando Magic,San Antonio Spurs,,,2022-12-23,Over,Over,True,125.0,37807
+Philadelphia 76ers,LA Clippers,,,2022-12-23,-,Over,False,0,37807
+Brooklyn Nets,Milwaukee Bucks,,,2022-12-23,Under,Under,True,105.0,37912
+Cleveland Cavaliers,Toronto Raptors,,,2022-12-23,Over,Over,True,110.0,38022
+Atlanta Hawks,Detroit Pistons,,,2022-12-23,Over,Over,True,120.0,38142
+New York Knicks,Chicago Bulls,,,2022-12-23,Over,Over,True,90,38232
+Boston Celtics,Minnesota Timberwolves,,,2022-12-23,Over,Over,True,105.0,38337
+Houston Rockets,Dallas Mavericks,,,2022-12-23,Under,Under,True,100.0,38437
+Oklahoma City Thunder,New Orleans Pelicans,,,2022-12-23,Over,Over,True,100.0,38537
+Miami Heat,Indiana Pacers,,,2022-12-23,Under,Under,True,80,38617
+Denver Nuggets,Portland Trail Blazers,,,2022-12-23,Under,Under,True,90,38707
+Sacramento Kings,Washington Wizards,,,2022-12-23,Under,Over,False,-100,38607
+Phoenix Suns,Memphis Grizzlies,,,2022-12-23,Under,Under,True,120.0,38727
+Los Angeles Lakers,Charlotte Hornets,,,2022-12-23,Over,Over,True,105.0,38832
+New York Knicks,Philadelphia 76ers,,,2022-12-25,Over,Over,True,120.0,38952
+Dallas Mavericks,Los Angeles Lakers,,,2022-12-25,Over,Over,True,110.0,39062
+Boston Celtics,Milwaukee Bucks,,,2022-12-25,Over,Over,True,105.0,39167
+Golden State Warriors,Memphis Grizzlies,,,2022-12-25,Under,Under,True,83,39250
+Denver Nuggets,Phoenix Suns,,,2022-12-25,Over,Under,False,-100,39150
+Cleveland Cavaliers,Brooklyn Nets,,,2022-12-26,Over,Over,True,80,39230
+Detroit Pistons,LA Clippers,,,2022-12-26,-,Over,False,0,39230
+Miami Heat,Minnesota Timberwolves,,,2022-12-26,Over,Over,True,83,39313
+New Orleans Pelicans,Indiana Pacers,,,2022-12-26,Under,Under,True,72,39385
+Chicago Bulls,Houston Rockets,,,2022-12-26,Over,Over,True,100.0,39485
+San Antonio Spurs,Utah Jazz,,,2022-12-26,Over,Under,False,-100,39385
+Portland Trail Blazers,Charlotte Hornets,,,2022-12-26,Under,Under,True,110.0,39495
+Orlando Magic,Los Angeles Lakers,,,2022-12-27,Over,Over,True,100.0,39595
+Washington Wizards,Philadelphia 76ers,,,2022-12-27,Over,Over,True,110.0,39705
+Toronto Raptors,LA Clippers,,,2022-12-27,-,Over,False,0,39705
+Indiana Pacers,Atlanta Hawks,,,2022-12-27,Over,Over,True,105.0,39810
+Boston Celtics,Houston Rockets,,,2022-12-27,Under,Under,True,120.0,39930
+Memphis Grizzlies,Phoenix Suns,,,2022-12-27,Over,Over,True,72,40002
+Oklahoma City Thunder,San Antonio Spurs,,,2022-12-27,Over,Over,True,110.0,40112
+Dallas Mavericks,New York Knicks,,,2022-12-27,Over,Over,True,110.0,40222
+Golden State Warriors,Charlotte Hornets,,,2022-12-27,Under,Under,True,115.0,40337
+Sacramento Kings,Denver Nuggets,,,2022-12-27,Under,Under,True,80,40417
+Washington Wizards,Phoenix Suns,,,2022-12-28,Over,Over,True,120.0,40537
+Detroit Pistons,Orlando Magic,,,2022-12-28,Under,Under,True,72,40609
+Atlanta Hawks,Brooklyn Nets,,,2022-12-28,Under,Under,True,80,40689
+Miami Heat,Los Angeles Lakers,,,2022-12-28,Under,Under,True,83,40772
+Chicago Bulls,Milwaukee Bucks,,,2022-12-28,Over,Over,True,80,40852
+New Orleans Pelicans,Minnesota Timberwolves,,,2022-12-28,Over,Under,False,-100,40752
+Sacramento Kings,Denver Nuggets,,,2022-12-28,Over,Under,False,-100,40652
+Golden State Warriors,Utah Jazz,,,2022-12-28,Under,Under,True,115.0,40767
+Indiana Pacers,Cleveland Cavaliers,,,2022-12-29,Over,Over,True,83,40850
+Charlotte Hornets,Oklahoma City Thunder,,,2022-12-29,Under,Under,True,120.0,40970
+Boston Celtics,LA Clippers,,,2022-12-29,-,Over,False,0,40970
+Toronto Raptors,Memphis Grizzlies,,,2022-12-29,Over,Over,True,125.0,41095
+San Antonio Spurs,New York Knicks,,,2022-12-29,Over,Over,True,125.0,41220
+Dallas Mavericks,Houston Rockets,,,2022-12-29,Over,Over,True,115.0,41335
+Orlando Magic,Washington Wizards,,,2022-12-30,Under,Under,True,100.0,41435
+Atlanta Hawks,Los Angeles Lakers,,,2022-12-30,Under,Under,True,110.0,41545
+Toronto Raptors,Phoenix Suns,,,2022-12-30,Under,Under,True,72,41617
+Milwaukee Bucks,Minnesota Timberwolves,,,2022-12-30,Over,Over,True,83,41700
+Chicago Bulls,Detroit Pistons,,,2022-12-30,Over,Over,True,105.0,41805
+New Orleans Pelicans,Philadelphia 76ers,,,2022-12-30,Over,Over,True,100.0,41905
+Denver Nuggets,Miami Heat,,,2022-12-30,Over,Over,True,83,41988
+Golden State Warriors,Portland Trail Blazers,,,2022-12-30,Under,Under,True,120.0,42108
+Sacramento Kings,Utah Jazz,,,2022-12-30,Over,Over,True,83,42191
+Indiana Pacers,LA Clippers,,,2022-12-31,-,Over,False,0,42191
+Charlotte Hornets,Brooklyn Nets,,,2022-12-31,Under,Under,True,125.0,42316
+Chicago Bulls,Cleveland Cavaliers,,,2022-12-31,Under,Under,True,100.0,42416
+Houston Rockets,New York Knicks,,,2022-12-31,Under,Under,True,90,42506
+San Antonio Spurs,Dallas Mavericks,,,2022-12-31,Over,Over,True,100.0,42606
+Minnesota Timberwolves,Detroit Pistons,,,2022-12-31,Under,Over,False,-100,42506
+Oklahoma City Thunder,Philadelphia 76ers,,,2022-12-31,Under,Under,True,100.0,42606
+Memphis Grizzlies,New Orleans Pelicans,,,2022-12-31,Under,Under,True,90,42696
+Utah Jazz,Miami Heat,,,2022-12-31,Over,Over,True,120.0,42816

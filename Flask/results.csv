@@ -1,0 +1,167 @@
+'Home Team', 'Away Team', 'Home Odds', "Away Odds", 'Date', 'Result', 'Prediction', 'Correct?','Bet Result', 'Total'
+Detroit Pistons,Indiana Pacers,2.63,1.49,2024-10-23 15:51:32.101315,?,0,?,?,?
+Atlanta Hawks,Brooklyn Nets,1.29,3.66,2024-10-23 15:51:32.101346,?,0,?,?,?
+Toronto Raptors,Cleveland Cavaliers,1.4,2.98,2024-10-23 15:51:32.101359,?,0,?,?,?
+Miami Heat,Orlando Magic,1.73,2.11,2024-10-23 15:51:32.101371,?,1,?,?,?
+Philadelphia 76ers,Milwaukee Bucks,1.59,2.36,2024-10-23 15:51:32.101382,?,1,?,?,?
+Houston Rockets,Charlotte Hornets,3.25,1.35,2024-10-23 15:51:32.101393,?,1,?,?,?
+New Orleans Pelicans,Chicago Bulls,3.25,1.35,2024-10-23 15:51:32.101403,?,1,?,?,?
+Utah Jazz,Memphis Grizzlies,1.65,2.24,2024-10-23 15:51:32.101416,?,0,?,?,?
+Portland Trail Blazers,Golden State Warriors,1.4,2.98,2024-10-23 15:51:32.101428,?,0,?,?,?
+LA Clippers,Phoenix Suns,2.6,1.5,2024-10-23 15:51:32.101439,?,1,?,?,?
+Washington Wizards,Boston Celtics,1.11,6.7,2024-10-24 19:07:48.461925,?,0,?,?,?
+Dallas Mavericks,San Antonio Spurs,1.27,3.78,2024-10-24 19:07:48.461954,?,1,?,?,?
+Denver Nuggets,Oklahoma City Thunder,1.73,2.12,2024-10-24 19:07:48.461968,?,1,?,?,?
+Sacramento Kings,Minnesota Timberwolves,1.8,2.05,2024-10-24 19:07:48.461983,?,1,?,?,?
+Washington Wizards,Boston Celtics,1.11,6.7,2024-10-24 19:16:32.257981,?,0,?,?,?
+Dallas Mavericks,San Antonio Spurs,1.27,3.78,2024-10-24 19:16:32.258064,?,1,?,?,?
+Denver Nuggets,Oklahoma City Thunder,1.73,2.12,2024-10-24 19:16:32.258124,?,1,?,?,?
+Sacramento Kings,Minnesota Timberwolves,1.8,2.05,2024-10-24 19:16:32.258177,?,1,?,?,?
+Orlando Magic,Brooklyn Nets,5.8,1.14,2024-10-25 20:15:17.098166,?,1,?,?,?
+Toronto Raptors,Philadelphia 76ers,1.5,2.6,2024-10-25 20:15:17.098213,?,0,?,?,?
+Atlanta Hawks,Charlotte Hornets,1.45,2.78,2024-10-25 20:15:17.098234,?,1,?,?,?
+Cleveland Cavaliers,Detroit Pistons,1.18,4.9,2024-10-25 20:15:17.098249,?,1,?,?,?
+New York Knicks,Indiana Pacers,2.96,1.4,2024-10-25 20:15:17.098265,?,1,?,?,?
+Milwaukee Bucks,Chicago Bulls,4.45,1.21,2024-10-25 20:15:17.098277,?,1,?,?,?
+Houston Rockets,Memphis Grizzlies,1.65,2.25,2024-10-25 20:15:17.098290,?,1,?,?,?
+Utah Jazz,Golden State Warriors,1.66,2.23,2024-10-25 20:15:17.098309,?,0,?,?,?
+Los Angeles Lakers,Phoenix Suns,1.81,2.04,2024-10-25 20:15:17.098325,?,1,?,?,?
+Portland Trail Blazers,New Orleans Pelicans,1.42,2.9,2024-10-25 20:15:17.098345,?,0,?,?,?
+Denver Nuggets,LA Clippers,1.3,3.57,2024-10-26 20:07:30.243917,?,1,?,?,?
+Detroit Pistons,Boston Celtics,1.08,8.0,2024-10-26 20:07:30.243958,?,0,?,?,?
+Charlotte Hornets,Miami Heat,2.61,1.5,2024-10-26 20:07:30.243972,?,0,?,?,?
+Washington Wizards,Cleveland Cavaliers,1.22,4.35,2024-10-26 20:07:30.243993,?,0,?,?,?
+Chicago Bulls,Oklahoma City Thunder,4.45,1.21,2024-10-26 20:07:30.244007,?,0,?,?,?
+Memphis Grizzlies,Orlando Magic,2.01,1.83,2024-10-26 20:07:30.244018,?,0,?,?,?
+Minnesota Timberwolves,Toronto Raptors,1.1,7.0,2024-10-26 20:07:30.244029,?,1,?,?,?
+San Antonio Spurs,Houston Rockets,1.74,2.1,2024-10-26 20:07:30.244040,?,0,?,?,?
+Phoenix Suns,Dallas Mavericks,1.68,2.19,2024-10-26 20:07:30.244051,?,1,?,?,?
+Los Angeles Lakers,Sacramento Kings,1.65,2.25,2024-10-26 20:07:30.244062,?,1,?,?,?
+Denver Nuggets,LA Clippers,1.3,3.57,2024-10-26 20:27:25.887330,?,1,?,?,?
+Detroit Pistons,Boston Celtics,8.0,1.08,2024-10-26 20:27:25.887370,?,0,?,?,?
+Charlotte Hornets,Miami Heat,2.62,1.5,2024-10-26 20:27:25.887383,?,0,?,?,?
+Washington Wizards,Cleveland Cavaliers,4.35,1.22,2024-10-26 20:27:25.887394,?,0,?,?,?
+Chicago Bulls,Oklahoma City Thunder,4.45,1.21,2024-10-26 20:27:25.887404,?,0,?,?,?
+Memphis Grizzlies,Orlando Magic,2.01,1.83,2024-10-26 20:27:25.887415,?,0,?,?,?
+Minnesota Timberwolves,Toronto Raptors,1.11,6.7,2024-10-26 20:27:25.887426,?,1,?,?,?
+San Antonio Spurs,Houston Rockets,2.1,1.74,2024-10-26 20:27:25.887437,?,0,?,?,?
+Phoenix Suns,Dallas Mavericks,2.19,1.68,2024-10-26 20:27:25.887447,?,1,?,?,?
+Los Angeles Lakers,Sacramento Kings,1.65,2.25,2024-10-26 20:27:25.887458,?,1,?,?,?
+Indiana Pacers,Philadelphia 76ers,1.29,3.66,2024-10-27 20:38:35.298492,?,1,?,?,?
+Brooklyn Nets,Milwaukee Bucks,4.35,1.22,2024-10-27 20:38:35.298533,?,0,?,?,?
+Portland Trail Blazers,New Orleans Pelicans,3.21,1.35,2024-10-27 20:38:35.298545,?,0,?,?,?
+Oklahoma City Thunder,Atlanta Hawks,1.2,4.6,2024-10-27 20:38:35.298559,?,1,?,?,?
+Golden State Warriors,LA Clippers,1.2,4.45,2024-10-27 20:38:35.298572,?,1,?,?,?
+Orlando Magic,Indiana Pacers,1.37,3.11,2024-10-28 19:07:13.588477,?,1,?,?,?
+Atlanta Hawks,Washington Wizards,1.31,3.5,2024-10-28 19:07:13.588517,?,1,?,?,?
+Boston Celtics,Milwaukee Bucks,1.21,4.45,2024-10-28 19:07:13.588528,?,1,?,?,?
+New York Knicks,Cleveland Cavaliers,1.62,2.3,2024-10-28 19:07:13.588539,?,1,?,?,?
+Toronto Raptors,Denver Nuggets,4.0,1.24,2024-10-28 19:07:13.588550,?,0,?,?,?
+Miami Heat,Detroit Pistons,1.28,3.7,2024-10-28 19:07:13.588560,?,1,?,?,?
+Memphis Grizzlies,Chicago Bulls,1.34,3.3,2024-10-28 19:07:13.588573,?,0,?,?,?
+San Antonio Spurs,Houston Rockets,2.28,1.63,2024-10-28 19:07:13.588585,?,0,?,?,?
+Dallas Mavericks,Utah Jazz,1.17,5.1,2024-10-28 19:07:13.588598,?,1,?,?,?
+Phoenix Suns,Los Angeles Lakers,1.65,2.24,2024-10-28 19:07:13.588611,?,1,?,?,?
+Sacramento Kings,Portland Trail Blazers,1.13,6.05,2024-10-28 19:07:13.588623,?,1,?,?,?
+Brooklyn Nets,Denver Nuggets,2.92,1.41,2024-10-29 14:51:49.766217,?,0,?,?,?
+Minnesota Timberwolves,Dallas Mavericks,1.47,2.7,2024-10-29 14:51:49.766262,?,1,?,?,?
+Utah Jazz,Sacramento Kings,2.96,1.4,2024-10-29 14:51:49.766274,?,0,?,?,?
+Golden State Warriors,New Orleans Pelicans,2.26,1.64,2024-10-29 14:51:49.766288,?,1,?,?,?
+Brooklyn Nets,Denver Nuggets,2.92,1.41,2024-10-29 19:05:40.328622,?,0,?,?,?
+Minnesota Timberwolves,Dallas Mavericks,1.47,2.7,2024-10-29 19:05:40.329839,?,1,?,?,?
+Utah Jazz,Sacramento Kings,2.96,1.4,2024-10-29 19:05:40.329854,?,0,?,?,?
+Golden State Warriors,New Orleans Pelicans,2.26,1.64,2024-10-29 19:05:40.329880,?,1,?,?,?
+Washington Wizards,Atlanta Hawks,2.58,1.5,2024-10-30 16:47:37.110860,?,0,?,?,?
+Indiana Pacers,Boston Celtics,3.46,1.31,2024-10-30 16:47:37.110914,?,1,?,?,?
+Charlotte Hornets,Toronto Raptors,1.36,3.19,2024-10-30 16:47:37.110937,?,0,?,?,?
+Cleveland Cavaliers,Los Angeles Lakers,1.47,2.7,2024-10-30 16:47:37.110956,?,1,?,?,?
+Philadelphia 76ers,Detroit Pistons,1.53,2.51,2024-10-30 16:47:37.110976,?,1,?,?,?
+Miami Heat,New York Knicks,2.1,1.75,2024-10-30 16:47:37.110998,?,1,?,?,?
+Memphis Grizzlies,Brooklyn Nets,1.12,6.4,2024-10-30 16:47:37.111017,?,0,?,?,?
+Chicago Bulls,Orlando Magic,2.87,1.42,2024-10-30 16:47:37.111034,?,0,?,?,?
+Oklahoma City Thunder,San Antonio Spurs,1.1,7.0,2024-10-30 16:47:37.111053,?,1,?,?,?
+Golden State Warriors,New Orleans Pelicans,1.8,2.05,2024-10-30 16:47:37.111072,?,0,?,?,?
+LA Clippers,Portland Trail Blazers,1.3,3.52,2024-10-30 16:47:37.111091,?,1,?,?,?
+Memphis Grizzlies,Milwaukee Bucks,2.89,1.42,2024-10-31 19:21:38.954584,?,0,?,?,?
+Dallas Mavericks,Houston Rockets,1.4,2.96,2024-10-31 19:21:38.954618,?,1,?,?,?
+Utah Jazz,San Antonio Spurs,1.77,2.1,2024-10-31 19:21:38.954632,?,0,?,?,?
+LA Clippers,Phoenix Suns,2.65,1.49,2024-10-31 19:21:38.954644,?,1,?,?,?
+Charlotte Hornets,Boston Celtics,4.95,1.18,2024-11-01 18:46:51.422162,?,0,?,?,?
+Cleveland Cavaliers,Orlando Magic,1.27,3.78,2024-11-01 18:46:51.422203,?,1,?,?,?
+Detroit Pistons,New York Knicks,3.34,1.33,2024-11-01 18:46:51.422215,?,0,?,?,?
+Atlanta Hawks,Sacramento Kings,3.18,1.36,2024-11-01 18:46:51.422228,?,0,?,?,?
+Brooklyn Nets,Chicago Bulls,1.8,2.05,2024-11-01 18:46:51.422240,?,0,?,?,?
+Toronto Raptors,Los Angeles Lakers,3.9,1.26,2024-11-01 18:46:51.422251,?,0,?,?,?
+New Orleans Pelicans,Indiana Pacers,2.54,1.52,2024-11-01 18:46:51.422269,?,0,?,?,?
+Minnesota Timberwolves,Denver Nuggets,1.53,2.51,2024-11-01 18:46:51.422280,?,1,?,?,?
+Portland Trail Blazers,Oklahoma City Thunder,5.75,1.14,2024-11-01 18:46:51.422291,?,0,?,?,?
+Charlotte Hornets,Boston Celtics,5.1,1.17,2024-11-02 21:58:30.875230,?,0,?,?,?
+Philadelphia 76ers,Memphis Grizzlies,2.1,1.75,2024-11-02 21:58:30.875288,?,1,?,?,?
+Toronto Raptors,Sacramento Kings,3.41,1.32,2024-11-02 21:58:30.875313,?,0,?,?,?
+Milwaukee Bucks,Cleveland Cavaliers,1.75,2.1,2024-11-02 21:58:30.875329,?,1,?,?,?
+Houston Rockets,Golden State Warriors,1.44,2.8,2024-11-02 21:58:30.875344,?,1,?,?,?
+San Antonio Spurs,Minnesota Timberwolves,2.42,1.57,2024-11-02 21:58:30.875357,?,0,?,?,?
+Washington Wizards,Miami Heat,4.1,1.23,2024-11-02 21:58:30.875369,?,0,?,?,?
+Denver Nuggets,Utah Jazz,1.19,4.75,2024-11-02 21:58:30.875382,?,1,?,?,?
+Phoenix Suns,Portland Trail Blazers,1.13,6.05,2024-11-02 21:58:30.875395,?,1,?,?,?
+LA Clippers,Oklahoma City Thunder,2.96,1.4,2024-11-02 21:58:30.875408,?,1,?,?,?
+Brooklyn Nets,Detroit Pistons,1.57,2.41,2024-11-03 19:23:38.723812,?,0,?,?,?
+New Orleans Pelicans,Atlanta Hawks,1.46,2.73,2024-11-03 19:23:38.723855,?,1,?,?,?
+Dallas Mavericks,Orlando Magic,1.28,3.73,2024-11-03 19:23:38.723867,?,1,?,?,?
+Cleveland Cavaliers,Milwaukee Bucks,1.37,3.14,2024-11-05 09:11:33.273719,?,1,?,?,?
+Washington Wizards,Golden State Warriors,4.95,1.18,2024-11-05 09:11:33.273759,?,0,?,?,?
+Detroit Pistons,Los Angeles Lakers,3.35,1.33,2024-11-05 09:11:33.273772,?,0,?,?,?
+Atlanta Hawks,Boston Celtics,4.6,1.2,2024-11-05 09:11:33.273783,?,0,?,?,?
+Brooklyn Nets,Memphis Grizzlies,2.46,1.55,2024-11-05 09:11:33.273795,?,0,?,?,?
+Miami Heat,Sacramento Kings,1.96,1.88,2024-11-05 09:11:33.273806,?,1,?,?,?
+Chicago Bulls,Utah Jazz,1.28,3.73,2024-11-05 09:11:33.273817,?,1,?,?,?
+Houston Rockets,New York Knicks,2.1,1.75,2024-11-05 09:11:33.273828,?,1,?,?,?
+Minnesota Timberwolves,Charlotte Hornets,1.2,4.6,2024-11-05 09:11:33.273838,?,1,?,?,?
+Oklahoma City Thunder,Orlando Magic,1.13,6.05,2024-11-05 09:11:33.273849,?,1,?,?,?
+New Orleans Pelicans,Portland Trail Blazers,1.7,2.16,2024-11-05 09:11:33.273859,?,1,?,?,?
+Dallas Mavericks,Indiana Pacers,1.45,2.79,2024-11-05 09:11:33.273871,?,1,?,?,?
+Denver Nuggets,Toronto Raptors,1.16,5.3,2024-11-05 09:11:33.273880,?,1,?,?,?
+Phoenix Suns,Philadelphia 76ers,1.32,3.4,2024-11-05 09:11:33.273891,?,1,?,?,?
+LA Clippers,San Antonio Spurs,1.57,2.42,2024-11-05 09:11:33.273902,?,1,?,?,?
+Cleveland Cavaliers,Milwaukee Bucks,1.37,3.14,2024-11-05 15:32:24.158795,?,1,?,?,?
+Washington Wizards,Golden State Warriors,4.95,1.18,2024-11-05 15:32:24.160611,?,0,?,?,?
+Detroit Pistons,Los Angeles Lakers,3.35,1.33,2024-11-05 15:32:24.160632,?,0,?,?,?
+Atlanta Hawks,Boston Celtics,4.6,1.2,2024-11-05 15:32:24.160644,?,0,?,?,?
+Brooklyn Nets,Memphis Grizzlies,2.46,1.55,2024-11-05 15:32:24.160656,?,0,?,?,?
+Miami Heat,Sacramento Kings,1.96,1.88,2024-11-05 15:32:24.160668,?,1,?,?,?
+Chicago Bulls,Utah Jazz,1.28,3.73,2024-11-05 15:32:24.160830,?,1,?,?,?
+Houston Rockets,New York Knicks,2.1,1.75,2024-11-05 15:32:24.160843,?,1,?,?,?
+Minnesota Timberwolves,Charlotte Hornets,1.2,4.6,2024-11-05 15:32:24.160855,?,1,?,?,?
+Oklahoma City Thunder,Orlando Magic,1.13,6.05,2024-11-05 15:32:24.160866,?,1,?,?,?
+New Orleans Pelicans,Portland Trail Blazers,1.7,2.16,2024-11-05 15:32:24.160877,?,1,?,?,?
+Dallas Mavericks,Indiana Pacers,1.45,2.79,2024-11-05 15:32:24.160887,?,1,?,?,?
+Denver Nuggets,Toronto Raptors,1.16,5.3,2024-11-05 15:32:24.160898,?,1,?,?,?
+Phoenix Suns,Philadelphia 76ers,1.32,3.4,2024-11-05 15:32:24.160909,?,1,?,?,?
+LA Clippers,San Antonio Spurs,1.57,2.42,2024-11-05 15:32:24.160919,?,1,?,?,?
+Charlotte Hornets,Detroit Pistons,2.07,1.79,2024-11-07 09:01:01.986159,?,0,?,?,?
+Indiana Pacers,Orlando Magic,1.49,2.64,2024-11-07 09:01:01.986215,?,1,?,?,?
+Atlanta Hawks,New York Knicks,3.16,1.36,2024-11-07 09:01:01.986229,?,0,?,?,?
+Boston Celtics,Golden State Warriors,1.38,3.06,2024-11-07 09:01:01.986241,?,1,?,?,?
+New Orleans Pelicans,Cleveland Cavaliers,3.28,1.34,2024-11-07 09:01:01.986252,?,1,?,?,?
+Houston Rockets,San Antonio Spurs,1.35,3.2,2024-11-07 09:01:01.986263,?,1,?,?,?
+Memphis Grizzlies,Los Angeles Lakers,1.83,2.01,2024-11-07 09:01:01.986274,?,0,?,?,?
+Dallas Mavericks,Chicago Bulls,1.22,4.35,2024-11-07 09:01:01.986284,?,1,?,?,?
+Denver Nuggets,Oklahoma City Thunder,3.18,1.36,2024-11-07 09:01:01.986295,?,1,?,?,?
+Phoenix Suns,Miami Heat,1.47,2.7,2024-11-07 09:01:01.986306,?,1,?,?,?
+LA Clippers,Philadelphia 76ers,1.83,2.01,2024-11-07 09:01:01.986317,?,1,?,?,?
+Sacramento Kings,Toronto Raptors,1.16,5.3,2024-11-07 09:01:01.986328,?,1,?,?,?
+Charlotte Hornets,Detroit Pistons,2.07,1.79,2024-11-07 14:13:57.593556,?,0,?,?,?
+Indiana Pacers,Orlando Magic,1.49,2.64,2024-11-07 14:13:57.595194,?,1,?,?,?
+Atlanta Hawks,New York Knicks,3.16,1.36,2024-11-07 14:13:57.595226,?,0,?,?,?
+Boston Celtics,Golden State Warriors,1.38,3.06,2024-11-07 14:13:57.595248,?,1,?,?,?
+New Orleans Pelicans,Cleveland Cavaliers,3.28,1.34,2024-11-07 14:13:57.595270,?,1,?,?,?
+Houston Rockets,San Antonio Spurs,1.35,3.2,2024-11-07 14:13:57.595289,?,1,?,?,?
+Memphis Grizzlies,Los Angeles Lakers,1.83,2.01,2024-11-07 14:13:57.595311,?,0,?,?,?
+Dallas Mavericks,Chicago Bulls,1.22,4.35,2024-11-07 14:13:57.595329,?,1,?,?,?
+Denver Nuggets,Oklahoma City Thunder,3.18,1.36,2024-11-07 14:13:57.595342,?,1,?,?,?
+Phoenix Suns,Miami Heat,1.47,2.7,2024-11-07 14:13:57.595354,?,1,?,?,?
+LA Clippers,Philadelphia 76ers,1.83,2.01,2024-11-07 14:13:57.595365,?,1,?,?,?
+Sacramento Kings,Toronto Raptors,1.16,5.3,2024-11-07 14:13:57.595376,?,1,?,?,?
+Chicago Bulls,Minnesota Timberwolves,4.2,1.23,2024-11-08 08:44:21.147058,?,0,?,?,?
+Milwaukee Bucks,Utah Jazz,1.26,3.9,2024-11-08 08:44:21.147112,?,1,?,?,?
+San Antonio Spurs,Portland Trail Blazers,1.57,2.42,2024-11-08 08:44:21.147131,?,1,?,?,?
