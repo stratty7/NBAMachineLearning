@@ -86,6 +86,8 @@ Improve the reliabilty of the ML Model.
 Improve flask webapp.
 Improve backtesting.
 Look for alternative cheaper APIs.
+Cleaup Repo
+Add setup.
 
 ## Contributing
 
